@@ -80,6 +80,7 @@ h2 {
 
 .hovering-film-1 {
   position: relative;
+  display: flex;
   transition: transform 0.2s;
   text-align: center;
   justify-content: center;
@@ -103,18 +104,22 @@ h2 {
 
 .overlay-1 {
   position: absolute;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.9);
   width: 80%;
   transition: 0.3s ease;
   opacity: 0;
   height: 20px;
   bottom: 12px;
+  color: #ffffff;
   font-size: 20px;
   padding: 10px;
-  margin-left: 8px;
+
+  display: flex;
   text-align: center;
   justify-content: center;
   align-items: center;
+
+  border-radius: 15px;
 }
 
 .search-box-top {
