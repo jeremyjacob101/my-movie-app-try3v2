@@ -64,6 +64,7 @@ const App = () => {
             handleFavoritesClick={addFavoriteMovie}
             favoriteComponent={AddFavorites} />
         </div>
+        
       </div>
       <div className="home-header">
         <MovieListHeading heading="Favorites" />
