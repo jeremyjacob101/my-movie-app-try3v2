@@ -4,6 +4,7 @@ import MovieListHeading from './components/MovieListHeading';
 import SearchBox from './components/SearchBox';
 import AddFavorites from './components/AddFavorites';
 import RemoveFavorites from './components/RemoveFavorites';
+import VerticalFavorites from './components/VerticalFavorites';
 
 const App = () => {
 
@@ -64,7 +65,6 @@ const App = () => {
             handleFavoritesClick={addFavoriteMovie}
             favoriteComponent={AddFavorites} />
         </div>
-
       </div>
       <div className="home-header">
         <MovieListHeading heading="Favorites" />
@@ -72,6 +72,16 @@ const App = () => {
       <div className="movie-row-1">
         <div className="pre-row">
           <MovieList
+            movies={favorites}
+            handleFavoritesClick={removeFavoriteMovie}
+            favoriteComponent={RemoveFavorites} />
+        </div>
+      </div>
+      <div className="movie-row-1">
+        <div className="vertical-row-1">
+          <h1>Your Favorites</h1>
+          <br></br>
+          <VerticalFavorites
             movies={favorites}
             handleFavoritesClick={removeFavoriteMovie}
             favoriteComponent={RemoveFavorites} />

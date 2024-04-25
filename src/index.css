@@ -23,6 +23,27 @@ h2 {
   height: 348.5px;
 }
 
+.vertical-row-1 {
+  display: flex;
+  flex-direction:column;
+  margin: 50px;
+}
+
+.each-vertical-icon-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.each-vertical-icon-1 > .hovering-film-1 > img {
+  width: 35px;
+  height: 50px;
+}
+
+.each-film-icon-1 > .hovering-film-1>img {
+  width: 175px;
+  height: 250px;
+}
+
 .movie-row-1>.pre-row {
   display: flex;
   flex-direction: row;
@@ -130,4 +151,9 @@ h2 {
 
 .favorites-text {
   font-size: 15px;
+}
+
+.testing1now1v1 {
+  margin: 20px;
+  color: aqua;
 }
