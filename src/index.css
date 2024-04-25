@@ -25,21 +25,38 @@ h2 {
 
 .vertical-row-1 {
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   margin: 50px;
 }
 
 .each-vertical-icon-1 {
   display: flex;
   flex-direction: row;
+  font-size: 25px;
+  text-align: center;
+  align-items: center;
+  margin: 5px;
 }
 
-.each-vertical-icon-1 > .hovering-film-1 > img {
+.each-vertical-icon-1>.hovering-film-1>img {
   width: 35px;
   height: 50px;
+  border-radius: 6px;
 }
 
-.each-film-icon-1 > .hovering-film-1>img {
+.vertical-title-1 {
+
+  margin: 0;
+  padding-left: 10px;
+
+}
+
+.vertical-title-year-1 {
+  margin: 0;
+  padding-left: 5px;
+}
+
+.each-film-icon-1>.hovering-film-1>img {
   width: 175px;
   height: 250px;
 }
@@ -92,7 +109,8 @@ h2 {
 }
 
 .each-film-icon-1 {
-  width: 200px;
+  width: 175px;
+  height: 250px;
   margin: 15px;
   text-align: center;
   justify-content: center;

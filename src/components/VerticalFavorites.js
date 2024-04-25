@@ -12,8 +12,8 @@ const VerticalFavorites = (props) => {
                         <FavoriteComponent />
                     </div>
                 </div>
-                <p className="under-title-1">{movie.Title}</p>
-                <p className="under-title-year-1">({movie.Year})</p>
+                <p className="vertical-title-1">{movie.Title}</p>
+                <p className="vertical-title-year-1">({movie.Year})</p>
             </div>)}
         </>
     );
