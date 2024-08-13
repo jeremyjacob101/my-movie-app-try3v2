@@ -8,8 +8,6 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
     const useEffectCounter = useRef(0); // Initialize a counter with useRef
 
     useEffect(() => {
-        useEffectCounter.current += 1; // Increment the counter each time useEffect runs
-        console.log(`useEffect has been run ${useEffectCounter.current} times`);
 
         const fetchMovieDataFromCSV = async () => {
             try {
@@ -38,7 +36,9 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                     return null;
                                 }
 
-                                const movieUrl = `https://www.omdbapi.com/?s=${encodeURIComponent(title)}&apikey=6311a1a9`;
+                                const movieUrl = `https://www.omdbapi.com/?s=${encodeURIComponent(title)}&apikey=8e1cae8c`;
+                                useEffectCounter.current += 1; // Increment the counter each time useEffect runs
+                                console.log(`API key has been run ${useEffectCounter.current} times`);
 
                                 try {
                                     const movieResponse = await fetch(movieUrl);
