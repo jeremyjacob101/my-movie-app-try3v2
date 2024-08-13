@@ -23,7 +23,7 @@ h2 {
   height: 348.5px;
 }
 .pre-row-t {
-  height: 500px;
+  height: 510px;
 }
 
 .vertical-row-1 {
@@ -67,6 +67,12 @@ h2 {
 }
 
 .each-film-icon-1 > .hovering-film-1>img {
+  width: 175px;
+  max-width: 175px;
+  min-width: 175px;
+  height: 250px;
+}
+.each-film-icon-t>.hovering-film-t>img {
   width: 175px;
   max-width: 175px;
   min-width: 175px;
