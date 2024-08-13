@@ -22,7 +22,10 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                     const movieRequests = results.data.map(async (row) => {
                         if (row.title && row.title.trim()) {
                             const title = row.title.trim();
-                            const rowDate = new Date(row.date);
+
+                            // Manually parse the date assuming format is DD/MM/YYYY
+                            const [day, month, year] = row.date.split('/');
+                            const rowDate = new Date(`${year}-${month}-${day}`);
 
                             // Get today's date and set the time to 00:00:00 for accurate comparison
                             const today = new Date();
@@ -81,6 +84,7 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
             console.error('Error fetching CSV file:', error);
         }
     };
+
 
     useEffect(() => {
         fetchMovieDataFromCSV();
