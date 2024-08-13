@@ -7,6 +7,7 @@ import RemoveFavorites from './components/RemoveFavorites';
 import MovieListHeading from './components/MovieListHeading';
 import MainHeading from './components/MainHeading';
 import CSVMovieList from './components/CSVMovieList';
+import MoviePace from './components/MoviePace';
 
 const App = () => {
   const [movies, setMovies] = useState([]);
@@ -54,6 +55,9 @@ const App = () => {
       <div className="home-header">
         <div className="picnic-border">
           <MainHeading heading="Picnic" />
+        </div>
+        <div className="movie-pace-holder">
+          <MoviePace />
         </div>
       </div>
       <CSVMovieList csvFilePath="/kanada1.csv" heading="Kolnoa Kanada" />
