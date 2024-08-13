@@ -28,14 +28,10 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                             if (row.title && row.title.trim()) {
                                 const title = row.title.trim();
 
-                                // Manually parse the date assuming format is DD/MM/YYYY
                                 const [day, month, year] = row.date.split('/');
-                                const rowDate = new Date(`${year}-${month}-${day}T${row.time}`); // Combine date and time
-
-                                // Get today's date and current time minus three hours for accurate comparison
+                                const rowDate = new Date(`${year}-${month}-${day}T${row.time}`);
                                 const now = new Date();
-                                now.setHours(now.getHours() - 3); // Set time to current time minus three hours
-
+                                now.setHours(now.getHours() - 3);
                                 // Skip the entry if its date and time are before the current date and time
                                 if (rowDate < now) {
                                     console.warn(`Skipping title "${title}" because its date and time (${row.date} ${row.time}) are before now.`);
