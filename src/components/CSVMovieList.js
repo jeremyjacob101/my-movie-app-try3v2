@@ -50,11 +50,14 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                     const firstMovie = movieData.Search.find(result => result.Type === "movie");
 
                                     if (firstMovie) {
+                                        // Transform the date format
+                                        const transformedDate = `${parseInt(day, 10)}.${parseInt(month, 10)}`;
+
                                         return {
                                             title: firstMovie.Title,
                                             year: firstMovie.Year,
                                             poster: firstMovie.Poster,
-                                            date: row.date,
+                                            date: transformedDate,
                                             time: row.time,
                                             theater: row.cinema,
                                         };
@@ -84,7 +87,6 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
             console.error('Error fetching CSV file:', error);
         }
     };
-
 
     useEffect(() => {
         fetchMovieDataFromCSV();

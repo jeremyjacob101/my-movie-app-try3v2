@@ -5,6 +5,7 @@ const TequeList = (props) => {
     return (
         <>
             {props.movies.map((movie, index) => <div className="each-film-icon-t">
+                <p className="under-title-t">{movie.date} - {movie.time}</p>
                 <div className="hovering-film-t">
                     <img src={movie.poster !== "N/A" ? movie.poster : "/defposter.jpeg"} alt={movie.title} />
                     <p className="under-title-t">{movie.title}</p>
@@ -13,8 +14,6 @@ const TequeList = (props) => {
                 </div>
                 <div className="under-t">
                     <br></br>
-                    <p className="under-title-year-t">{movie.date}</p>
-                    <p className="under-title-year-t">{movie.time}</p>
                 </div>
             </div>)}
         </>

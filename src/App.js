@@ -5,6 +5,7 @@ import SearchBox from './components/SearchBox';
 import AddFavorites from './components/AddFavorites';
 import RemoveFavorites from './components/RemoveFavorites';
 import MovieListHeading from './components/MovieListHeading';
+import MainHeading from './components/MainHeading';
 import CSVMovieList from './components/CSVMovieList';
 
 const App = () => {
@@ -51,7 +52,17 @@ const App = () => {
   return (
     <>
       <div className="home-header">
-        <MovieListHeading heading="Picnic" />
+        <div className="picnic-border">
+          <MainHeading heading="Picnic" />
+        </div>
+      </div>
+      <CSVMovieList csvFilePath="/kanada1.csv" heading="Kolnoa Kanada" />
+      <CSVMovieList csvFilePath="/herz1.csv" heading="Herziliya Cinemateque" />
+      <CSVMovieList csvFilePath="/jlem1.csv" heading="Jerusalem Cinemateque" />
+      <CSVMovieList csvFilePath="/haifa1.csv" heading="Haifa Cinemateque" />
+      <CSVMovieList csvFilePath="/tlv1.csv" heading="Tel Aviv Cinemateque" />
+      <div className="home-header">
+        <MovieListHeading heading="Search" />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
       </div>
       <div className="movie-row-1">
@@ -73,14 +84,10 @@ const App = () => {
             favoriteComponent={RemoveFavorites} />
         </div>
       </div>
-      <CSVMovieList csvFilePath="/kanada1.csv" heading="Kolnoa Kanada" />
-      <CSVMovieList csvFilePath="/herz1.csv" heading="Herziliya Cinemateque" />
-      <CSVMovieList csvFilePath="/jlem1.csv" heading="Jerusalem Cinemateque" />
-      <CSVMovieList csvFilePath="/haifa1.csv" heading="Haifa Cinemateque" />
-      <CSVMovieList csvFilePath="/tlv1.csv" heading="Tel Aviv Cinemateque" />
       <div className="movie-row-1">
         <div className="vertical-row-1">
           <h1>Your Favorites</h1>
+          <br></br>
           <VerticalFavorites
             movies={favorites}
             handleFavoritesClick={removeFavoriteMovie}

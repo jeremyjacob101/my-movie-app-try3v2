@@ -23,7 +23,7 @@ h2 {
   height: 348.5px;
 }
 .pre-row-t {
-  height: 510px;
+  height: 445px;
 }
 
 .vertical-row-1 {
@@ -118,9 +118,21 @@ h2 {
   border-color: rgb(2, 83, 234)
 }
 
+.picnic-border {
+  border: 3px solid aquamarine;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
 .main-title {
   margin-left: 20px;
   color: rgb(162, 35, 205);
+}
+.main-heading {
+  font-size: 30px;
+  color: rgb(162, 35, 205);
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .home-header {
@@ -136,7 +148,7 @@ h2 {
   color: rgb(238, 128, 43);
   margin: 0;
   font-size: 20px;
-  margin-top: 10px !important;
+  margin-top: 10px;
   display: inline-block;
   font-weight: bold;
   max-width: 100%;
@@ -168,10 +180,16 @@ h2 {
   color: rgb(238, 128, 43);
   margin: 0;
   font-size: 20px;
-  margin-top: 10px !important;
+  margin-left: 15px;
   display: inline-block;
   font-weight: bold;
   max-width: 100%;
+
+  /* display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis; */
 }
 
 .under-title-year-t {
