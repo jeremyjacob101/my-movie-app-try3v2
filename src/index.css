@@ -295,3 +295,8 @@ h2 {
 pre.print-result-calc {
   margin-top: 5px;
 }
+
+.movie-row-t, .movie-row-1 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
