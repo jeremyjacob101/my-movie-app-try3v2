@@ -38,7 +38,7 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                     return null;
                                 }
 
-                                const movieUrl = `http://www.omdbapi.com/?s=${encodeURIComponent(title)}&apikey=6311a1a9`;
+                                const movieUrl = `https://www.omdbapi.com/?s=${encodeURIComponent(title)}&apikey=6311a1a9`;
 
                                 try {
                                     const movieResponse = await fetch(movieUrl);
