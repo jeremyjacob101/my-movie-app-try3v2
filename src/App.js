@@ -64,7 +64,7 @@ const App = () => {
       <CSVMovieList csvFilePath="/tlv1.csv" heading="Tel Aviv Cinemateque" />
       <CSVMovieList csvFilePath="/herz1.csv" heading="Herziliya Cinemateque" />
       <CSVMovieList csvFilePath="/kanada1.csv" heading="Kolnoa Kanada" />
-      <CSVMovieList csvFilePath="/haifa1.csv" heading="Haifa Cinemateque" />
+      <CSVMovieList csvFilePath="/haifa1.csv" heading="Haifa Cinmateque" />
       <div className="home-header">
         <MovieListHeading heading="Search" />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
