@@ -32,7 +32,6 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                 now.setHours(now.getHours() - 3);
                                 // Skip the entry if its date and time are before the current date and time
                                 if (rowDate < now) {
-                                    console.warn(`Skipping title "${title}" because its date and time (${row.date} ${row.time}) are before now.`);
                                     return null;
                                 }
 
@@ -66,7 +65,7 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                             console.error(`No movie found for title: "${title}"`);
                                         }
                                     } else {
-                                        console.error(`No valid response for title: "${title}"`);
+                                        // console.error(`No valid response for title: "${title}"`);
                                     }
                                 } catch (error) {
                                     console.error(`Error fetching data for title "${title}":`, error);
