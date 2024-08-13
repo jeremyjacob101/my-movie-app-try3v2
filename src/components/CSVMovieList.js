@@ -22,6 +22,18 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                     const movieRequests = results.data.map(async (row) => {
                         if (row.title && row.title.trim()) {
                             const title = row.title.trim();
+                            const rowDate = new Date(row.date);
+
+                            // Get today's date and set the time to 00:00:00 for accurate comparison
+                            const today = new Date();
+                            today.setHours(0, 0, 0, 0);
+
+                            // Skip the entry if its date is before today's date
+                            if (rowDate < today) {
+                                console.warn(`Skipping title "${title}" because its date (${row.date}) is before today.`);
+                                return null;
+                            }
+
                             const movieUrl = `http://www.omdbapi.com/?s=${encodeURIComponent(title)}&apikey=6311a1a9`;
 
                             try {
@@ -32,7 +44,6 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                 const movieData = await movieResponse.json();
 
                                 if (movieData && movieData.Response === "True" && movieData.Search && movieData.Search.length > 0) {
-                                    // Find the first movie in the list
                                     const firstMovie = movieData.Search.find(result => result.Type === "movie");
 
                                     if (firstMovie) {
@@ -59,7 +70,7 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                     });
 
                     Promise.all(movieRequests).then((movies) => {
-                        const validMovies = movies.filter(movie => movie);
+                        const validMovies = movies.filter(movie => movie); // Filter out null results
                         setCsvMovies(validMovies);
                     }).catch(error => {
                         console.error('Error processing movie requests:', error);
