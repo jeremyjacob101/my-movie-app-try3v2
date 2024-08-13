@@ -1,10 +1,12 @@
 import React from 'react';
+
 const MovieList = (props) => {
     const FavoriteComponent = props.favoriteComponent;
+
     return (
         <>
-            {props.movies.map((movie, index) => (
-                <div key={movie.imdbID} className="each-film-icon-1"> {/* Use a unique key */}
+            {props.movies && props.movies.map((movie, index) => ( // Check if movies exists
+                <div key={movie.imdbID} className="each-film-icon-1">
                     <div className="hovering-film-1">
                         <img src={movie.Poster !== "N/A" ? movie.Poster : "/defposter.jpeg"} alt={movie.Title} />
                         <div onClick={() => props.handleFavoritesClick(movie)} className="overlay-1">
@@ -19,4 +21,5 @@ const MovieList = (props) => {
         </>
     );
 }
+
 export default MovieList;
