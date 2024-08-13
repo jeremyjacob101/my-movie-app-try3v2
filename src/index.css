@@ -56,8 +56,17 @@ h2 {
   padding-left: 5px;
 }
 
-.each-film-icon-1>.hovering-film-1>img {
+.each-film-icon-1 > .hovering-film-1 {
   width: 175px;
+  max-width: 175px;
+  min-width: 175px;
+  height: 250px;
+}
+
+.each-film-icon-1 > .hovering-film-1>img {
+  width: 175px;
+  max-width: 175px;
+  min-width: 175px;
   height: 250px;
 }
 
@@ -94,13 +103,25 @@ h2 {
   align-items: center;
 }
 
-.under-title-1,
+.under-title-1 {
+  text-align: center;
+  color: rgb(238, 128, 43);
+  margin: 0;
+  font-size: 20px;
+  margin-top: 10px !important;
+  display: inline-block;
+  font-weight: bold;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
 .under-title-year-1 {
   text-align: center;
   color: rgb(238, 128, 43);
   margin: 0;
-  font-weight: bold;
-
+  margin-top: 2px !important;
   display: inline-block;
   max-width: 100%;
   overflow: hidden;
@@ -110,6 +131,8 @@ h2 {
 
 .each-film-icon-1 {
   width: 175px;
+  max-width: 175px;
+  min-width: 175px;
   height: 250px;
   margin: 15px;
   text-align: center;
