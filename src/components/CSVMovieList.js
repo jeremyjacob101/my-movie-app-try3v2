@@ -3,9 +3,12 @@ import Papa from 'papaparse';
 import TequeList from './TequeList';
 import MovieListHeading from './MovieListHeading';
 
-const CSVMovieList = ({ csvFilePath, heading }) => {
+const CSVMovieList = ({ heading }) => {
     const [csvMovies, setCsvMovies] = useState([]);
     const useEffectCounter = useRef(0); // Initialize a counter with useRef
+
+    // Declare the CSV file path directly in the component
+    const csvFilePath = "/allTest1.csv";
 
     useEffect(() => {
 
@@ -23,7 +26,8 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                     skipEmptyLines: true,
                     complete: (results) => {
                         const movieRequests = results.data.map(async (row) => {
-                            if (row.title && row.title.trim()) {
+                            // Filter rows based on the provided heading (column value)
+                            if (row.cinema === heading && row.title && row.title.trim()) {
                                 const title = row.title.trim();
 
                                 const [day, month, year] = row.date.split('/');
@@ -65,13 +69,13 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
                                             console.error(`No movie found for title: "${title}"`);
                                         }
                                     } else {
-                                        // console.error(`No valid response for title: "${title}"`);
+                                        console.error(`No valid response for title: "${title}"`);
                                     }
                                 } catch (error) {
                                     console.error(`Error fetching data for title "${title}":`, error);
                                 }
                             } else {
-                                console.warn('Skipping row with missing or empty title:', row);
+                                console.warn('Skipping row with missing or empty title or wrong cinema:', row);
                             }
                         });
 
@@ -89,7 +93,7 @@ const CSVMovieList = ({ csvFilePath, heading }) => {
         };
 
         fetchMovieDataFromCSV();
-    }, [csvFilePath]);
+    }, [heading]); // Use heading as the only dependency
 
     return (
         <div className="movie-row-t">
