@@ -1,0 +1,538 @@
+cinema,date,time,title,href
+Herziliya Cinemateque,19/08/2024,11:00,Despicable Me 4,https://www.hcinema.org.il/event/%d7%92%d7%a0%d7%95%d7%91-%d7%a2%d7%9c-%d7%94%d7%97%d7%99%d7%99%d7%9d-despicable-me-4-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%99%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1/2024-08-19/
+Herziliya Cinemateque,19/08/2024,14:00,Harold and the Purple Crayon,https://www.hcinema.org.il/event/%d7%a2%d7%99%d7%a4%d7%a8%d7%95%d7%9f-%d7%94%d7%a7%d7%a1%d7%9d-harold-and-the-purple-crayon-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%99%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e/2024-08-19/
+Herziliya Cinemateque,19/08/2024,17:00,IF: Imaginary Friends,https://www.hcinema.org.il/event/%d7%97%d7%91%d7%a8%d7%99%d7%9d-%d7%93%d7%9e%d7%99%d7%95%d7%a0%d7%99%d7%99%d7%9d-if-imaginary-friends-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%99%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94/2024-08-19/
+Herziliya Cinemateque,19/08/2024,17:30,10 Lives,https://www.hcinema.org.il/event/%d7%94%d7%97%d7%aa%d7%95%d7%9c-%d7%91%d7%a2%d7%9c-10-%d7%94%d7%a0%d7%a9%d7%9e%d7%95%d7%aa-10-lives-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e/2024-08-19/
+Herziliya Cinemateque,19/08/2024,18:00,Inside Out 2,https://www.hcinema.org.il/event/%d7%94%d7%a7%d7%95%d7%9c-%d7%91%d7%a8%d7%90%d7%a9-2-inside-out-2-%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%aa-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa/2024-08-19/
+Herziliya Cinemateque,19/08/2024,20:15,Thelma,https://www.hcinema.org.il/event/%d7%aa%d7%9c%d7%9e%d7%94-thelma-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa/2024-08-19/
+Herziliya Cinemateque,19/08/2024,20:30,Anyone but You,https://www.hcinema.org.il/event/%d7%a8%d7%a7-%d7%9c%d7%90-%d7%90%d7%aa%d7%94-anyone-but-you-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/2024-08-19/
+Herziliya Cinemateque,20/08/2024,11:00,Ajooma,https://www.hcinema.org.il/event/%d7%90%d7%92%d7%95%d7%9e%d7%94-ajooma-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/2024-08-20/1/
+Herziliya Cinemateque,20/08/2024,11:30,Harold and the Purple Crayon,https://www.hcinema.org.il/event/%d7%a2%d7%99%d7%a4%d7%a8%d7%95%d7%9f-%d7%94%d7%a7%d7%a1%d7%9d-harold-and-the-purple-crayon-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%99%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e-2/2024-08-20/
+Herziliya Cinemateque,20/08/2024,12:00,Thelma,https://www.hcinema.org.il/event/%d7%aa%d7%9c%d7%9e%d7%94-thelma-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/2024-08-20/1/
+Herziliya Cinemateque,20/08/2024,14:00,A World Apart,https://www.hcinema.org.il/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95-a-world-apart-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99/2024-08-20/1/
+Herziliya Cinemateque,20/08/2024,14:30,Last Summer,https://www.hcinema.org.il/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f-last-summer-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/2024-08-20/
+Herziliya Cinemateque,20/08/2024,16:00,The Crime is Mine,https://www.hcinema.org.il/event/%d7%94%d7%a4%d7%a9%d7%a2-%d7%9b%d7%95%d7%9c%d7%95-%d7%a9%d7%9c%d7%99-the-crime-is-mine-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96-2/2024-08-20/
+Herziliya Cinemateque,20/08/2024,16:15,Despicable Me 4,https://www.hcinema.org.il/event/%d7%92%d7%a0%d7%95%d7%91-%d7%a2%d7%9c-%d7%94%d7%97%d7%99%d7%99%d7%9d-despicable-me-4-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%99%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1-2/2024-08-20/
+Herziliya Cinemateque,20/08/2024,16:30,Thelma,https://www.hcinema.org.il/event/%d7%aa%d7%9c%d7%9e%d7%94-thelma-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/2024-08-20/2/
+Herziliya Cinemateque,20/08/2024,18:00,A World Apart,https://www.hcinema.org.il/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95-a-world-apart-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99/2024-08-20/2/
+Herziliya Cinemateque,20/08/2024,18:30,Ajooma,https://www.hcinema.org.il/event/%d7%90%d7%92%d7%95%d7%9e%d7%94-ajooma-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/2024-08-20/2/
+Herziliya Cinemateque,20/08/2024,20:15,A World Apart,https://www.hcinema.org.il/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95-a-world-apart-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99/2024-08-20/3/
+Herziliya Cinemateque,20/08/2024,20:30,Amazing Grace,https://www.hcinema.org.il/event/%d7%97%d7%a1%d7%93-%d7%9e%d7%95%d7%a4%d7%9c%d7%90-amazing-grace-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/
+Herziliya Cinemateque,20/08/2024,20:45,Inside Out 2,https://www.hcinema.org.il/event/%d7%94%d7%a7%d7%95%d7%9c-%d7%91%d7%a8%d7%90%d7%a9-2-inside-out-2-%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%aa-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa-%d7%a9%d7%9c%d7%99/
+Herziliya Cinemateque,21/08/2024,17:00,10 Lives,https://www.hcinema.org.il/event/%d7%94%d7%97%d7%aa%d7%95%d7%9c-%d7%91%d7%a2%d7%9c-10-%d7%94%d7%a0%d7%a9%d7%9e%d7%95%d7%aa-10-lives-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e/2024-08-21/
+Herziliya Cinemateque,21/08/2024,17:30,IF: Imaginary Friends,https://www.hcinema.org.il/event/%d7%97%d7%91%d7%a8%d7%99%d7%9d-%d7%93%d7%9e%d7%99%d7%95%d7%a0%d7%99%d7%99%d7%9d-if-imaginary-friends-%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%a2%d7%99%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a8%d7%a0%d7%94/2024-08-21/
+Herziliya Cinemateque,21/08/2024,18:00,Despicable Me 4,https://www.hcinema.org.il/event/%d7%92%d7%a0%d7%95%d7%91-%d7%a2%d7%9c-%d7%94%d7%97%d7%99%d7%99%d7%9d-despicable-me-4-%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%aa-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa/2024-08-21/
+Herziliya Cinemateque,21/08/2024,20:00,Thelma,https://www.hcinema.org.il/event/%d7%aa%d7%9c%d7%9e%d7%94-thelma-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%a1%d7%97%d7%a8%d7%99%d7%aa/2024-08-21/
+Herziliya Cinemateque,21/08/2024,20:30,Interstellar,https://www.hcinema.org.il/event/%d7%91%d7%99%d7%9f-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d-interstellar-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/
+Herziliya Cinemateque,22/08/2024,20:30,Monogamy,https://www.hcinema.org.il/event/%d7%9e%d7%95%d7%a0%d7%95%d7%92%d7%9e%d7%99%d7%94-monogamy-%d7%a9%d7%99%d7%97%d7%94-%d7%a2%d7%9d-%d7%90%d7%94%d7%93-%d7%9e%d7%99%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%99%d7%95%d7%a6%d7%a8-%d7%94/
+Herziliya Cinemateque,23/08/2024,21:00,Modern Father’s Diary,https://www.hcinema.org.il/event/%d7%99%d7%95%d7%9e%d7%a0%d7%95-%d7%a9%d7%9c-%d7%90%d7%91-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99-modern-fathers-diary-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/
+Herziliya Cinemateque,24/08/2024,17:00,Of Parents and Children,https://www.hcinema.org.il/event/%d7%a2%d7%9c-%d7%94%d7%95%d7%a8%d7%99%d7%9d-%d7%95%d7%99%d7%9c%d7%93%d7%99%d7%9d-of-parents-and-children-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/
+Herziliya Cinemateque,24/08/2024,20:30,The Ear,https://www.hcinema.org.il/event/%d7%94%d7%90%d7%95%d7%96%d7%9f-the-ear-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/
+Herziliya Cinemateque,26/08/2024,16:00,Star Wars: A New Hope,https://www.hcinema.org.il/event/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d-%d7%aa%d7%a7%d7%95%d7%95%d7%94-%d7%97%d7%93%d7%a9%d7%94-star-wars-a-new-hope-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0/
+Herziliya Cinemateque,26/08/2024,19:00,Star Wars: The Empire Strikes Back,https://www.hcinema.org.il/event/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d-%d7%94%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%94-%d7%9e%d7%9b%d7%94-%d7%a9%d7%a0%d7%99%d7%aa-star-wars-the-empire-strikes/
+Herziliya Cinemateque,26/08/2024,22:00,Star Wars: Return of the Jedi,https://www.hcinema.org.il/event/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d-%d7%a9%d7%95%d7%91%d7%95-%d7%a9%d7%9c-%d7%94%d7%92%d7%93%d7%99%d7%99-star-wars-return-of-the-jedi-%d7%a1%d7%a8%d7%98/
+Herziliya Cinemateque,27/08/2024,18:00,The Good Soldier Schweik,https://www.hcinema.org.il/event/%d7%94%d7%97%d7%99%d7%99%d7%9c-%d7%94%d7%90%d7%9e%d7%99%d7%a5-%d7%a9%d7%95%d7%95%d7%99%d7%99%d7%a7-the-good-soldier-schweik-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94-%d7%a9/
+Herziliya Cinemateque,27/08/2024,20:30,Bagdad Café,https://www.hcinema.org.il/event/%d7%a7%d7%a4%d7%94-%d7%91%d7%92%d7%93%d7%93-bagdad-cafe-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94-%d7%a9%d7%9c%d7%99%d7%a9%d7%99-%d7%96%d7%94%d7%91/
+Herziliya Cinemateque,28/08/2024,20:30,Local Hero,https://www.hcinema.org.il/event/%d7%92%d7%99%d7%91%d7%95%d7%a8-%d7%9e%d7%a7%d7%95%d7%9e%d7%99-local-hero-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/
+Herziliya Cinemateque,29/08/2024,20:30,4 Adventures Of Reinette & Mirabelle,https://www.hcinema.org.il/event/4-%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%90%d7%95%d7%aa-%d7%a9%d7%9c-%d7%a8%d7%a0%d7%98-%d7%95%d7%9e%d7%99%d7%a8%d7%91%d7%9c-4-adventures-of-reinette-mirabelle-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b/
+Herziliya Cinemateque,30/08/2024,21:00,We Have Never Been Modern,https://www.hcinema.org.il/event/%d7%90%d7%a3-%d7%a4%d7%a2%d7%9d-%d7%9c%d7%90-%d7%94%d7%99%d7%99%d7%a0%d7%95-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99%d7%99%d7%9d-we-have-never-been-modern-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0/
+Herziliya Cinemateque,31/08/2024,17:00,Highway 65,https://www.hcinema.org.il/event/%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%aa-%d7%9b%d7%91%d7%99%d7%a9-%d7%94%d7%a1%d7%a8%d7%92%d7%9c-highway-65-%d7%a1%d7%a8%d7%98-%d7%aa/
+Herziliya Cinemateque,31/08/2024,20:30,I Dutifully Report,https://www.hcinema.org.il/event/%d7%90%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%95%d7%97-%d7%91%d7%a6%d7%99%d7%99%d7%aa%d7%a0%d7%95%d7%aa-i-dutifully-report-%d7%a1%d7%a8%d7%98-%d7%aa%d7%95%d7%9b%d7%a0%d7%99%d7%99%d7%94/
+Kolnoa Kanada,27/08/2024,19:00,Eternal Sunshine of the Spotless Mind,https://ticks.co.il/e/i8tjd3FzOk1
+Kolnoa Kanada,28/08/2024,20:00,Eraserhead  in 16mm,https://ticks.co.il/event.php?i=VuivcEdVuc1
+Kolnoa Kanada,28/08/2024,22:30,Thelma & Louise,https://ticks.co.il/event.php?i=zlOwVUa0qi1
+Kolnoa Kanada,29/08/2024,19:00,Wild at Heart  in 16mm,https://ticks.co.il/event.php?i=0Qxm2Ym5ww1
+Kolnoa Kanada,29/08/2024,22:00,Midnight Cowboy,https://ticks.co.il/e/GfNpitf8Vu1
+Kolnoa Kanada,30/08/2024,22:00,Cowboy Bebop,https://ticks.co.il/event.php?i=aU9faPvFAs1
+Kolnoa Kanada,31/08/2024,21:30,Drugstore Cowboy,https://ticks.co.il/event.php?i=NXmKL1SQAT1
+Kolnoa Kanada,12/09/2024,20:00,Apocalypse Now,https://ticks.co.il/event.php?i=867Yp0VWjM1
+Kolnoa Kanada,19/09/2024,20:00,Hearts of Darkness: A Filmmaker's Apocalypse,https://ticks.co.il/event.php?i=BKCCYb0OZH1
+Yes Planet,22/08/2024,,The Crow
+Yes Planet,22/08/2024,,Blink Twice
+Yes Planet,22/08/2024,,This Time Next Year
+Yes Planet,22/08/2024,,Take a Chance On Me
+Yes Planet,22/08/2024,,A world Apart
+Yes Planet,22/08/2024,,CASH OUT
+Yes Planet,29/08/2024,,Daddio
+Yes Planet,29/08/2024,,Strange Darling
+Yes Planet,12/09/2024,,Speak no evil
+Yes Planet,12/09/2024,,School of magical animals: Part 2
+Yes Planet,12/09/2024,,The Wild Robot
+Yes Planet,12/09/2024,,USHER: RENDEZVOUS IN PARIS
+Yes Planet,03/10/2024,,Joker: Folie A Deux
+Yes Planet,17/10/2024,,Smile 2
+Yes Planet,24/10/2024,,Transformers One
+Yes Planet,24/10/2024,,Venom: The Last Dance
+Yes Planet,14/11/2024,,The Vanishing Soldier
+Yes Planet,14/11/2024,,Gladiator II
+Yes Planet,21/11/2024,,Wicked: Part 1
+Yes Planet,28/11/2024,,Moana 2
+Yes Planet,12/12/2024,,Arugam Bay
+Yes Planet,19/12/2024,,Mufasa: The Lion King
+Yes Planet,13/02/2025,,Captain America: Brave New World
+Jerusalem Cinemateque,20/08/2024,18:00,Blonde Venus,https://jer-cin.org.il/en/event/77423
+Jerusalem Cinemateque,20/08/2024,18:00,Death In Umm Al-Hiran,https://jer-cin.org.il/en/event/77425
+Jerusalem Cinemateque,20/08/2024,18:00,Thelma,https://jer-cin.org.il/en/event/77681
+Jerusalem Cinemateque,20/08/2024,20:00,Code Unknown,https://jer-cin.org.il/en/event/77429
+Jerusalem Cinemateque,20/08/2024,20:15,Do You Remember Dolly Bell?,https://jer-cin.org.il/en/event/77433
+Jerusalem Cinemateque,20/08/2024,20:30,Tatami,https://jer-cin.org.il/en/event/77695
+Jerusalem Cinemateque,21/08/2024,18:00,Angel,https://jer-cin.org.il/en/event/77435
+Jerusalem Cinemateque,21/08/2024,18:00,Edward II,https://jer-cin.org.il/en/event/77439
+Jerusalem Cinemateque,21/08/2024,18:00,Tatami,https://jer-cin.org.il/en/event/77697
+Jerusalem Cinemateque,21/08/2024,20:00,Amarcord,https://jer-cin.org.il/en/event/77441
+Jerusalem Cinemateque,21/08/2024,20:00,The Promise,https://jer-cin.org.il/en/event/77445
+Jerusalem Cinemateque,21/08/2024,20:30,Thelma,https://jer-cin.org.il/en/event/77683
+Jerusalem Cinemateque,22/08/2024,18:00,Destry Rides Again,https://jer-cin.org.il/en/event/77447
+Jerusalem Cinemateque,22/08/2024,18:00,Before the Rain,https://jer-cin.org.il/en/event/77449
+Jerusalem Cinemateque,23/08/2024,16:00,Angel,https://jer-cin.org.il/en/event/77437
+Jerusalem Cinemateque,23/08/2024,18:00,Van Gogh & Japan,https://jer-cin.org.il/en/event/77455
+Jerusalem Cinemateque,23/08/2024,20:00,The Great Escaper,https://jer-cin.org.il/en/event/77461
+Jerusalem Cinemateque,24/08/2024,11:00,Despicable Me 4,https://jer-cin.org.il/en/event/77518
+Jerusalem Cinemateque,24/08/2024,16:00,Amarcord,https://jer-cin.org.il/en/event/77443
+Jerusalem Cinemateque,24/08/2024,18:00,Death In Umm Al-Hiran,https://jer-cin.org.il/en/event/77427
+Jerusalem Cinemateque,24/08/2024,18:45,Van Gogh & Japan,https://jer-cin.org.il/en/event/77457
+Jerusalem Cinemateque,24/08/2024,20:30,Young Adam,https://jer-cin.org.il/en/event/77465
+Jerusalem Cinemateque,24/08/2024,20:45,The Great Escaper,https://jer-cin.org.il/en/event/77463
+Jerusalem Cinemateque,25/08/2024,18:00,Touch of Evil,https://jer-cin.org.il/en/event/77467
+Jerusalem Cinemateque,25/08/2024,20:30,Woman Is the Future of Man,https://jer-cin.org.il/en/event/77469
+Jerusalem Cinemateque,26/08/2024,16:00,The Ear,https://jer-cin.org.il/en/event/77471
+Jerusalem Cinemateque,26/08/2024,18:00,Tom at the Farm,https://jer-cin.org.il/en/event/77473
+Jerusalem Cinemateque,26/08/2024,18:00,The Last Station,https://jer-cin.org.il/en/event/77475
+Jerusalem Cinemateque,26/08/2024,20:15,Van Gogh & Japan,https://jer-cin.org.il/en/event/77459
+Jerusalem Cinemateque,27/08/2024,18:00,Witness for the Prosecution,https://jer-cin.org.il/en/event/77477
+Jerusalem Cinemateque,27/08/2024,18:00,The Good Soldier Schweik,https://jer-cin.org.il/en/event/77481
+Jerusalem Cinemateque,27/08/2024,20:30,Satyricon,https://jer-cin.org.il/en/event/77483
+Jerusalem Cinemateque,27/08/2024,20:30,I Dutifully Report,https://jer-cin.org.il/en/event/77487
+Jerusalem Cinemateque,28/08/2024,18:00,The Last Righteous Man,https://jer-cin.org.il/en/event/77489
+Jerusalem Cinemateque,28/08/2024,18:00,Rumba,https://jer-cin.org.il/en/event/77511
+Jerusalem Cinemateque,28/08/2024,20:00,Dazed and Confused,https://jer-cin.org.il/en/event/77493
+Jerusalem Cinemateque,28/08/2024,20:00,Of Parents and Children,https://jer-cin.org.il/en/event/77495
+Jerusalem Cinemateque,29/08/2024,18:00,We Have Never Been Modern,https://jer-cin.org.il/en/event/77497
+Jerusalem Cinemateque,29/08/2024,21:00,Treasure,https://jer-cin.org.il/en/event/77499
+Jerusalem Cinemateque,30/08/2024,18:00,Code Unknown,https://jer-cin.org.il/en/event/77431
+Jerusalem Cinemateque,30/08/2024,20:30,Treasure,https://jer-cin.org.il/en/event/77501
+Jerusalem Cinemateque,31/08/2024,11:00,Astro Kid,https://jer-cin.org.il/en/event/77520
+Jerusalem Cinemateque,31/08/2024,16:00,Satyricon,https://jer-cin.org.il/en/event/77485
+Jerusalem Cinemateque,31/08/2024,18:00,Seventeen Years,https://jer-cin.org.il/en/event/77505
+Jerusalem Cinemateque,31/08/2024,18:45,Witness for the Prosecution,https://jer-cin.org.il/en/event/77479
+Jerusalem Cinemateque,31/08/2024,20:30,The Last Righteous Man,https://jer-cin.org.il/en/event/77491
+Jerusalem Cinemateque,31/08/2024,21:15,Treasure,https://jer-cin.org.il/en/event/77503
+Jerusalem Cinemateque,02/09/2024,18:00,"The Captured Image, or Leo Tolstoy and Ilya Gintsburg",https://jer-cin.org.il/en/event/77651
+Jerusalem Cinemateque,03/09/2024,19:00,Harry Potter and the Deathly Hallows: Part 1,https://jer-cin.org.il/en/event/77660
+Jerusalem Cinemateque,12/09/2024,19:30,Present Laughter,https://jer-cin.org.il/en/event/75993
+Jerusalem Cinemateque,14/09/2024,11:00,Present Laughter,https://jer-cin.org.il/en/event/75995
+Jerusalem Cinemateque,17/09/2024,19:00,Harry Potter and the Deathly Hallows: Part 2,https://jer-cin.org.il/en/event/77661
+Haifa Cinemateque,19/08/24,18:30,BEFORE SUNRISE,https://www.haifacin.co.il/Event/13993/
+Haifa Cinemateque,19/08/24,20:30,BEFORE SUNSET,https://www.haifacin.co.il/Event/13994/
+Haifa Cinemateque,20/08/24,19:00,THE CHILDREN OF SAN SIMON,https://www.haifacin.co.il/Event/13951/
+Haifa Cinemateque,21/08/24,18:30,BEFORE MIDNIGHT,https://www.haifacin.co.il/Event/13995/
+Haifa Cinemateque,21/08/24,20:30,SHOPLIFTERS,https://www.haifacin.co.il/Event/13996/
+Haifa Cinemateque,22/08/24,18:15,MODERN FATHER'S DIARY,https://www.haifacin.co.il/Event/13997/
+Haifa Cinemateque,22/08/24,20:15,BROKER,https://www.haifacin.co.il/Event/14005/
+Haifa Cinemateque,23/08/24,16:30,BOYHOOD,https://www.haifacin.co.il/Event/14006/
+Haifa Cinemateque,23/08/24,19:30,THE PLAYER,https://www.haifacin.co.il/Event/14007/
+Haifa Cinemateque,24/08/24,11:30,PETITES MAINS,https://www.haifacin.co.il/Event/14008/
+Haifa Cinemateque,24/08/24,16:30,THE BEEKEEPER,https://www.haifacin.co.il/Event/14009/
+Haifa Cinemateque,24/08/24,19:00,OUR LITTLE SISTER,https://www.haifacin.co.il/Event/14010/
+Haifa Cinemateque,25/08/24,18:30,,https://www.haifacin.co.il/Event/13999/
+Haifa Cinemateque,26/08/24,18:15,OF PARENTS AND CHILDREN,https://www.haifacin.co.il/Event/14011/
+Haifa Cinemateque,26/08/24,20:30,PETITES MAINS,https://www.haifacin.co.il/Event/14028/
+Haifa Cinemateque,27/08/24,19:00,DEAL WITH THE DEVIL,https://www.haifacin.co.il/Event/13952/
+Haifa Cinemateque,28/08/24,19:00,WE HAVE NEVER BEEN MODERN,https://www.haifacin.co.il/Event/14012/
+Haifa Cinemateque,29/08/24,18:30,THE GOOD SOLDIER SCHWEIK,https://www.haifacin.co.il/Event/14013/
+Haifa Cinemateque,29/08/24,20:30,I DUTIFULLY REPORT,https://www.haifacin.co.il/Event/14014/
+Haifa Cinemateque,30/08/24,16:30,GOSFORD PARK,https://www.haifacin.co.il/Event/14015/
+Haifa Cinemateque,30/08/24,19:00,THE EAR,https://www.haifacin.co.il/Event/14016/
+Haifa Cinemateque,31/08/24,11:30,THE BABY,https://www.haifacin.co.il/Event/14017/
+Haifa Cinemateque,31/08/24,16:45,TREASURE,https://www.haifacin.co.il/Event/14018/
+Haifa Cinemateque,31/08/24,19:00,LATE QUARTET,https://www.haifacin.co.il/Event/14019/
+Movieland,22/08/2024,,The Crow,,
+Movieland,22/08/2024,,Blink Twice,,
+Movieland,22/08/2024,,Take A Chance On Me,,
+Movieland,22/08/2024,,Cash Out,,
+Movieland,22/08/2024,,This Time Next Year,,
+Movieland,29/08/2024,,Daddio,,
+Movieland,29/08/2024,,Strange Darling,,
+Movieland,05/09/2024,,Beetlejuice Beetlejuice,,
+Movieland,05/09/2024,,Poolman,,
+Movieland,05/09/2024,,Breathe,,
+Movieland,12/09/2024,,Trap,,
+Movieland,12/09/2024,,Speak No Evil,,
+Movieland,19/09/2024,,Bad Genius,,
+Movieland,26/09/2024,,The Wild Robot,,
+Movieland,26/09/2024,,Never Let Go,,
+Movieland,03/10/2024,,Joker: Folie À Deux,,
+Movieland,13/10/2024,,Transformers One,,
+Movieland,17/10/2024,,Smile 2,,
+Movieland,17/10/2024,,We Live On Time,,
+Movieland,24/10/2024,,Venom: The Last Dan,,
+Movieland,14/11/2024,,Gladiator Ii,,
+Movieland,21/11/2024,,Wicked,,
+Movieland,28/11/2024,,Moana 2,,
+Movieland,28/11/2024,,Flight Risk,,
+Movieland,12/12/2024,,Kraven The Hunter,,
+Movieland,12/12/2024,,Night Of The Hunted,,
+Movieland,19/12/2024,,Mufasa: The Lion King,,
+Movieland,02/01/2025,,A Real Pain,,
+Movieland,13/02/2025,,Captain America: Brave New World,,
+Movieland,20/03/2025,,Snow White,,
+Hot Cinema,20/08/2024,,This Time Next Year,
+Hot Cinema,22/08/2024,,Cash Out,
+Hot Cinema,22/08/2024,,Blink Twice,
+Hot Cinema,22/08/2024,,Take A Chance On Me,
+Hot Cinema,22/08/2024,,The Crow,
+Hot Cinema,29/08/2024,,Daddio,
+Hot Cinema,29/08/2024,,Strange Darling,
+Hot Cinema,05/09/2024,,Breathe,
+Hot Cinema,05/09/2024,,Poolman,
+Hot Cinema,05/09/2024,,Marcello Mio,
+Hot Cinema,05/09/2024,,We Will Dance Again,
+Hot Cinema,05/09/2024,,The Fabulous Four,
+Hot Cinema,12/09/2024,,יונתן ברק מגיע ל-hot Cinema,
+Hot Cinema,20/10/2024,,Attention!,
+Cinema City,22/08/2024,,The Crow,
+Cinema City,22/08/2024,,Blink Twice,
+Cinema City,22/08/2024,,Boudica: Queen Of War,
+Cinema City,22/08/2024,,Take A Chance On Me,
+Cinema City,22/08/2024,,Cash Out,
+Cinema City,22/08/2024,,This Time Next Year,
+Cinema City,22/08/2024,,A World Apart,
+Cinema City,29/08/2024,,Strange Darling,
+Cinema City,29/08/2024,,Daddio,
+Cinema City,29/08/2024,,Wanted Man,
+Cinema City,29/08/2024,,Juan Marin A Century Of Cinema,
+Cinema City,04/09/2024,,Despicable Me,
+Cinema City,05/09/2024,,Marcello Mio,
+Cinema City,05/09/2024,,Ten Months,
+Cinema City,05/09/2024,,Poolman,
+Cinema City,05/09/2024,,Refuge,
+Cinema City,05/09/2024,,Breathe,
+Cinema City,05/09/2024,,Beetlejuice Beetlejuice,
+Cinema City,11/09/2024,,Lives,
+Cinema City,12/09/2024,,Monster,
+Cinema City,12/09/2024,,The Teachers Lounge,
+Cinema City,12/09/2024,,Speak No Evil,
+Cinema City,12/09/2024,,Trap,
+Cinema City,19/09/2024,,Come Closer,
+Cinema City,19/09/2024,,Adios Buenos Aires,
+Cinema City,19/09/2024,,Bad Genius,
+Cinema City,25/09/2024,,Super Wings The Movie: Maximum Speed,
+Cinema City,26/09/2024,,Bonnard: Pierre & Marthe,
+Cinema City,26/09/2024,,Never Let Go,
+Cinema City,26/09/2024,,The Wild Robot,
+Cinema City,03/10/2024,,Joker: Folie  Deux,
+Cinema City,09/10/2024,,Combat Wombat   Back  Back,
+Cinema City,17/10/2024,,We Live In Time,
+Cinema City,17/10/2024,,Smile,
+Cinema City,24/10/2024,,Transformers: One,
+Cinema City,24/10/2024,,Freuds Last Session,
+Cinema City,24/10/2024,,Venom: The Last Dance,
+Cinema City,14/11/2024,,Red One,
+Cinema City,21/11/2024,,Wicked,
+Cinema City,28/11/2024,,Moana,
+Cinema City,12/12/2024,,Kraven The Hunter,
+Cinema City,19/12/2024,,Mufasa: The Lion King,
+Lev Cinema,22/08/2024,,Take A Chance On Me,
+Lev Cinema,22/08/2024,,A World Apart,
+Lev Cinema,29/08/2024,,Evil Does Not Exist,
+Lev Cinema,05/09/2024,,Marcello Mio,
+Lev Cinema,12/09/2024,,Monster,
+Lev Cinema,26/09/2024,,Second Act,
+Lev Cinema,17/10/2024,,Memory,
+Lev Cinema,31/10/2024,,This Is My Mother,
+Lev Cinema,07/11/2024,,Anora,
+Tel Aviv Cinemateque,19/08/2024,17:00,Jules,https://www.cinema.co.il/en/event/%d7%94%d7%99%d7%a6%d7%99%d7%a8%d7%94-%d7%a9%d7%9c-%d7%99%d7%94%d7%91-%d7%95%d7%99%d7%a0%d7%a8-%d7%96%d7%9c-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d/
+Tel Aviv Cinemateque,19/08/2024,17:00,Ajoomma,https://www.cinema.co.il/en/event/%d7%94%d7%99%d7%a6%d7%99%d7%a8%d7%94-%d7%a9%d7%9c-%d7%99%d7%94%d7%91-%d7%95%d7%99%d7%a0%d7%a8-%d7%96%d7%9c-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d/
+Tel Aviv Cinemateque,19/08/2024,17:15,Full Support,https://www.cinema.co.il/en/event/%d7%aa%d7%9e%d7%99%d7%9b%d7%94-%d7%9e%d7%9c%d7%90%d7%94/
+Tel Aviv Cinemateque,19/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,19/08/2024,19:00,It Happened on Our Ground,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,19/08/2024,19:00,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,19/08/2024,20:00,One More Story,https://www.cinema.co.il/en/event/%d7%90%d7%99%d7%a8%d7%95%d7%a2-%d7%96%d7%95%d7%9b%d7%99%d7%9d-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-2024/
+Tel Aviv Cinemateque,19/08/2024,21:00,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,19/08/2024,21:15,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,19/08/2024,21:30,Get the Land Back,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%95%d7%a0%d7%9d-%d7%a9%d7%9c-%d7%a1%d7%91%d7%aa%d7%90/
+Tel Aviv Cinemateque,20/08/2024,11:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,20/08/2024,13:30,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,20/08/2024,16:00,Ajoomma,https://www.cinema.co.il/en/event/%d7%a1%d7%a4%d7%99%d7%93-%d7%93%d7%99%d7%99%d7%98%d7%99%d7%a0%d7%92-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-2024/
+Tel Aviv Cinemateque,20/08/2024,16:00,Anatomy of a Fall,https://www.cinema.co.il/en/event/%d7%a1%d7%a4%d7%99%d7%93-%d7%93%d7%99%d7%99%d7%98%d7%99%d7%a0%d7%92-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-2024/
+Tel Aviv Cinemateque,20/08/2024,16:30,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%a4%d7%a9%d7%a2-%d7%9b%d7%95%d7%9c%d7%95-%d7%a9%d7%9c%d7%99/
+Tel Aviv Cinemateque,20/08/2024,18:00,House of Games,https://www.cinema.co.il/en/event/%d7%a9%d7%9d-%d7%94%d7%9e%d7%a9%d7%97%d7%a7-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-2024/
+Tel Aviv Cinemateque,20/08/2024,18:00,Jules,https://www.cinema.co.il/en/event/%d7%a9%d7%9d-%d7%94%d7%9e%d7%a9%d7%97%d7%a7-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-2024/
+Tel Aviv Cinemateque,20/08/2024,20:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,20/08/2024,21:15,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,20/08/2024,02:00,TISFF CROSS-BODY MINIBAG |  פסטיבל סטודנ,https://www.cinema.co.il/en/event/tisff-cross-body-minibag-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0/
+Tel Aviv Cinemateque,21/08/2024,02:00,TISFF CROSS-BODY MINIBAG |  פסטיבל סטודנ,https://www.cinema.co.il/en/event/tisff-cross-body-minibag-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%98%d7%95%d7%93%d7%a0/
+Tel Aviv Cinemateque,21/08/2024,16:30,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,21/08/2024,17:00,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,21/08/2024,18:30,It Happened on Our Ground,https://www.cinema.co.il/en/event/%d7%94%d7%90%d7%97%d7%95-%d7%94%d7%a7%d7%98%d7%9f/
+Tel Aviv Cinemateque,21/08/2024,18:45,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,21/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,21/08/2024,20:30,Modern Father's Diary,https://www.cinema.co.il/en/event/%d7%99%d7%95%d7%9e%d7%a0%d7%95-%d7%a9%d7%9c-%d7%90%d7%91-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99/
+Tel Aviv Cinemateque,21/08/2024,21:00,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%a4%d7%a9%d7%a2-%d7%9b%d7%95%d7%9c%d7%95-%d7%a9%d7%9c%d7%99/
+Tel Aviv Cinemateque,21/08/2024,21:30,Snowtown,https://www.cinema.co.il/en/event/%d7%a1%d7%a0%d7%95%d7%98%d7%90%d7%95%d7%9f/
+Tel Aviv Cinemateque,22/08/2024,14:30,Ballerina,https://www.cinema.co.il/en/event/%d7%9c%d7%a8%d7%a7%d7%95%d7%93-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%9e%d7%95%d7%a0%d7%92%d7%a9%d7%aa-%d7%9c%d7%9b%d7%91%d7%93%d7%99-%d7%a8%d7%90%d7%99%d7%99%d7%94-%d7%9c%d7%92%d7%99%d7%9c%d7%90%d7%99/
+Tel Aviv Cinemateque,22/08/2024,16:00,Ajoomma,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94/
+Tel Aviv Cinemateque,22/08/2024,16:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,22/08/2024,16:30,Jules,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,22/08/2024,16:45,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,22/08/2024,17:00,Hotel Transylvania 2,https://www.cinema.co.il/en/event/%d7%9e%d7%a4%d7%9c%d7%a6%d7%aa-%d7%a9%d7%9c-%d7%9e%d7%9c%d7%95%d7%9f-2-%d7%94%d7%a7%d7%a8%d7%a0%d7%aa-%d7%a4%d7%95%d7%a4%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%91%d7%91/
+Tel Aviv Cinemateque,22/08/2024,18:00,The Ear,https://www.cinema.co.il/en/event/%d7%94%d7%90%d7%95%d7%96%d7%9f/
+Tel Aviv Cinemateque,22/08/2024,18:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,22/08/2024,19:00,The Sky Crawlers,https://www.cinema.co.il/en/event/%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%95%d7%a7%d7%99%d7%95-%d7%a9%d7%95%d7%9b%d7%a0%d7%99-%d7%94%d7%a9%d7%9e%d7%99%d7%99%d7%9d/
+Tel Aviv Cinemateque,22/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%95%d7%a7%d7%99%d7%95-%d7%a9%d7%95%d7%9b%d7%a0%d7%99-%d7%94%d7%a9%d7%9e%d7%99%d7%99%d7%9d/
+Tel Aviv Cinemateque,22/08/2024,20:30,She's the Man,https://www.cinema.co.il/en/event/%d7%99%d7%a9-%d7%9c%d7%94-%d7%91%d7%99%d7%a6%d7%99%d7%9d-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%a4%d7%a2%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9e%d7%99%d7%94-%d7%93%d7%92%d7%9f-%d7%95%d7%96%d7%95/
+Tel Aviv Cinemateque,22/08/2024,21:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,22/08/2024,21:45,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%a4%d7%a9%d7%a2-%d7%9b%d7%95%d7%9c%d7%95-%d7%a9%d7%9c%d7%99/
+Tel Aviv Cinemateque,23/08/2024,10:30,Inside Out 2,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%95%d7%9c-%d7%91%d7%a8%d7%90%d7%a9-2-%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%aa-%d7%9e%d7%92%d7%a0%d7%98%d7%99%d7%9d/
+Tel Aviv Cinemateque,23/08/2024,11:00,ליא ומרים דופקות הופעהA World Apart,https://www.cinema.co.il/en/event/%d7%9c%d7%99%d7%90-%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%93%d7%95%d7%a4%d7%a7%d7%95%d7%aa-%d7%94%d7%95%d7%a4%d7%a2%d7%94/
+Tel Aviv Cinemateque,23/08/2024,12:00,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,23/08/2024,12:30,Yuval Ravitz Thinks It's All Doomed,https://www.cinema.co.il/en/event/%d7%99%d7%95%d7%91%d7%9c-%d7%a8%d7%91%d7%99%d7%a5-%d7%97%d7%95%d7%a9%d7%91-%d7%a9%d7%94%d7%9b%d7%9c-%d7%90%d7%91%d7%95%d7%93-%d7%9e%d7%a4%d7%92%d7%a9/
+Tel Aviv Cinemateque,23/08/2024,12:30,Full Support,https://www.cinema.co.il/en/event/%d7%99%d7%95%d7%91%d7%9c-%d7%a8%d7%91%d7%99%d7%a5-%d7%97%d7%95%d7%a9%d7%91-%d7%a9%d7%94%d7%9b%d7%9c-%d7%90%d7%91%d7%95%d7%93-%d7%9e%d7%a4%d7%92%d7%a9/
+Tel Aviv Cinemateque,23/08/2024,13:30,Of Parents and Children,https://www.cinema.co.il/en/event/%d7%a2%d7%9c-%d7%94%d7%95%d7%a8%d7%99%d7%9d-%d7%95%d7%99%d7%9c%d7%93%d7%99%d7%9d/
+Tel Aviv Cinemateque,23/08/2024,14:00,The Shepherd's Keeper,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%9e%d7%a8-%d7%94%d7%a8%d7%95%d7%a2%d7%99%d7%9d/
+Tel Aviv Cinemateque,23/08/2024,14:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%9e%d7%a8-%d7%94%d7%a8%d7%95%d7%a2%d7%99%d7%9d/
+Tel Aviv Cinemateque,23/08/2024,14:15,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,23/08/2024,14:15,Last Summer,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,23/08/2024,21:00,Kinds of Kindness,https://www.cinema.co.il/en/event/%d7%a1%d7%95%d7%92-%d7%a9%d7%9c-%d7%97%d7%a1%d7%93/
+Tel Aviv Cinemateque,23/08/2024,21:15,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,23/08/2024,21:30,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,23/08/2024,22:00,The Cable Guy,https://www.cinema.co.il/en/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%a9%d7%99%d7%a9%d7%99-%d7%9b%d7%99%d7%99%d7%91%d7%9c-%d7%92%d7%90%d7%99/
+Tel Aviv Cinemateque,24/08/2024,11:00,Ajooma,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,11:00,Men in Black,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,11:00,Inside Out 2,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,11:30,Reality,https://www.cinema.co.il/en/event/%d7%a8%d7%99%d7%90%d7%9c%d7%99%d7%98%d7%99-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,12:45,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,24/08/2024,13:00,The Shepherd's Keeper,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%9e%d7%a8-%d7%94%d7%a8%d7%95%d7%a2%d7%99%d7%9d/
+Tel Aviv Cinemateque,24/08/2024,13:30,Ten Months,https://www.cinema.co.il/en/event/10-%d7%97%d7%95%d7%93%d7%a9%d7%99%d7%9d-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,14:00,Hemda,https://www.cinema.co.il/en/event/%d7%97%d7%9e%d7%93%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,24/08/2024,14:00,Get the Land Back,https://www.cinema.co.il/en/event/%d7%97%d7%9e%d7%93%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,24/08/2024,14:30,It Happened on Our Ground,https://www.cinema.co.il/en/event/%d7%94%d7%90%d7%97%d7%95-%d7%94%d7%a7%d7%98%d7%9f/
+Tel Aviv Cinemateque,24/08/2024,15:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,24/08/2024,16:00,Weekend Rebels,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a8%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%95%d7%a4%d7%a9-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,16:00,Commitment to Life,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a8%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%95%d7%a4%d7%a9-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,24/08/2024,16:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,24/08/2024,17:00,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,24/08/2024,17:30,Ajoomma,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94/
+Tel Aviv Cinemateque,24/08/2024,18:30,Kinds of Kindness,https://www.cinema.co.il/en/event/%d7%a1%d7%95%d7%92-%d7%a9%d7%9c-%d7%97%d7%a1%d7%93/
+Tel Aviv Cinemateque,24/08/2024,18:45,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,24/08/2024,19:00,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,24/08/2024,19:15,Black Caesar,https://www.cinema.co.il/en/event/%d7%a7%d7%99%d7%a1%d7%a8-%d7%a9%d7%97%d7%95%d7%a8/
+Tel Aviv Cinemateque,24/08/2024,19:30,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,24/08/2024,21:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,24/08/2024,21:15,Anatomy of a Fall,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%98%d7%95%d7%9e%d7%99%d7%94-%d7%a9%d7%9c-%d7%a0%d7%a4%d7%99%d7%9c%d7%94/
+Tel Aviv Cinemateque,24/08/2024,21:30,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,24/08/2024,21:30,On the Wandering Paths,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,24/08/2024,21:45,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%a4%d7%a9%d7%a2-%d7%9b%d7%95%d7%9c%d7%95-%d7%a9%d7%9c%d7%99/
+Tel Aviv Cinemateque,25/08/2024,11:00,Hemda,https://www.cinema.co.il/en/event/%d7%97%d7%9e%d7%93%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,25/08/2024,16:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,25/08/2024,17:00,Ajoomma,https://www.cinema.co.il/en/event/%d7%aa%d7%9e%d7%95%d7%9c-%d7%a9%d7%9c%d7%a9%d7%95%d7%9d-%d7%9e%d7%a4%d7%92%d7%a9-2/
+Tel Aviv Cinemateque,25/08/2024,17:30,Jules,https://www.cinema.co.il/en/event/%d7%91%d7%9b%d7%99%d7%a1%d7%99%d7%9d-%d7%a9%d7%9c-%d7%92%d7%99%d7%9c%d7%99-%d7%a9%d7%a2%d7%aa-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%a2%d7%9d-%d7%90%d7%99%d7%a8%d7%99%d7%a1-%d7%90%d7%a8%d7%92%d7%9e/
+Tel Aviv Cinemateque,25/08/2024,18:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,25/08/2024,19:00,The Good Soldier Schweik,https://www.cinema.co.il/en/event/%d7%94%d7%97%d7%99%d7%99%d7%9c-%d7%94%d7%90%d7%9e%d7%99%d7%a5-%d7%a9%d7%95%d7%95%d7%99%d7%a7/
+Tel Aviv Cinemateque,25/08/2024,19:30,The Shepherd's Keeper,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%9e%d7%a8-%d7%94%d7%a8%d7%95%d7%a2%d7%99%d7%9d/
+Tel Aviv Cinemateque,25/08/2024,21:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,25/08/2024,21:00,Last Summer,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,25/08/2024,21:15,I Dutifully Report,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%93%d7%99%d7%a2-%d7%91%d7%94%d7%9b%d7%a0%d7%a2%d7%94/
+Tel Aviv Cinemateque,25/08/2024,21:30,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,26/08/2024,16:15,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,26/08/2024,16:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,26/08/2024,17:00,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,26/08/2024,18:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,26/08/2024,19:00,Faces Places,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%a9%d7%99%d7%9d-%d7%95%d7%9e%d7%a7%d7%95%d7%9e%d7%95%d7%aa-%d7%a1%d7%99%d7%a0%d7%9e%d7%94-%d7%92%d7%a8%d7%90%d7%96/
+Tel Aviv Cinemateque,26/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%a9%d7%99%d7%9d-%d7%95%d7%9e%d7%a7%d7%95%d7%9e%d7%95%d7%aa-%d7%a1%d7%99%d7%a0%d7%9e%d7%94-%d7%92%d7%a8%d7%90%d7%96/
+Tel Aviv Cinemateque,26/08/2024,19:30,The Fall of the House of Usher,https://www.cinema.co.il/en/event/%d7%9e%d7%a4%d7%9c%d7%aa-%d7%91%d7%99%d7%aa-%d7%90%d7%a9%d7%a8/
+Tel Aviv Cinemateque,26/08/2024,20:00,The City,https://www.cinema.co.il/en/event/%d7%94%d7%a2%d7%99%d7%a8-%d7%94%d7%96%d7%90%d7%aa-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-%d7%a2%d7%9c-%d7%94%d7%92%d7%92/
+Tel Aviv Cinemateque,26/08/2024,21:30,The Little Shop of Horrors,https://www.cinema.co.il/en/event/%d7%97%d7%a0%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%94-%d7%95%d7%9e%d7%98%d7%a8%d7%99%d7%a4%d7%94-1960/
+Tel Aviv Cinemateque,26/08/2024,21:30,Full Support,https://www.cinema.co.il/en/event/%d7%97%d7%a0%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%94-%d7%95%d7%9e%d7%98%d7%a8%d7%99%d7%a4%d7%94-1960/
+Tel Aviv Cinemateque,27/08/2024,11:00,הכינה נחמה – הצגה | לגילאי 3+Mascarpone,https://www.cinema.co.il/en/event/%d7%94%d7%9b%d7%99%d7%a0%d7%94-%d7%a0%d7%97%d7%9e%d7%94-%d7%94%d7%a6%d7%92%d7%94-%d7%9c%d7%92%d7%99%d7%9c%d7%90%d7%99-3/
+Tel Aviv Cinemateque,27/08/2024,11:00,A World Apart,https://www.cinema.co.il/en/event/%d7%94%d7%9b%d7%99%d7%a0%d7%94-%d7%a0%d7%97%d7%9e%d7%94-%d7%94%d7%a6%d7%92%d7%94-%d7%9c%d7%92%d7%99%d7%9c%d7%90%d7%99-3/
+Tel Aviv Cinemateque,27/08/2024,11:00,Anatomy of a Fall,https://www.cinema.co.il/en/event/%d7%94%d7%9b%d7%99%d7%a0%d7%94-%d7%a0%d7%97%d7%9e%d7%94-%d7%94%d7%a6%d7%92%d7%94-%d7%9c%d7%92%d7%99%d7%9c%d7%90%d7%99-3/
+Tel Aviv Cinemateque,27/08/2024,11:30,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,27/08/2024,12:15,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,27/08/2024,13:15,The Shepherd's Keeper,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%9e%d7%a8-%d7%94%d7%a8%d7%95%d7%a2%d7%99%d7%9d/
+Tel Aviv Cinemateque,27/08/2024,13:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,27/08/2024,13:45,Get the Land Back,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%95%d7%a0%d7%9d-%d7%a9%d7%9c-%d7%a1%d7%91%d7%aa%d7%90/
+Tel Aviv Cinemateque,27/08/2024,14:00,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,27/08/2024,14:15,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,27/08/2024,16:30,Full Support,https://www.cinema.co.il/en/event/%d7%aa%d7%9e%d7%99%d7%9b%d7%94-%d7%9e%d7%9c%d7%90%d7%94/
+Tel Aviv Cinemateque,27/08/2024,16:30,A Great Friend,https://www.cinema.co.il/en/event/%d7%aa%d7%9e%d7%99%d7%9b%d7%94-%d7%9e%d7%9c%d7%90%d7%94/
+Tel Aviv Cinemateque,27/08/2024,16:45,Ajoomma,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94/
+Tel Aviv Cinemateque,27/08/2024,16:45,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94/
+Tel Aviv Cinemateque,27/08/2024,17:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,27/08/2024,18:00,It Happened on Our Ground,https://www.cinema.co.il/en/event/%d7%94%d7%90%d7%97%d7%95-%d7%94%d7%a7%d7%98%d7%9f/
+Tel Aviv Cinemateque,27/08/2024,18:45,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,27/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,27/08/2024,20:00,We Have Never Been Modern,https://www.cinema.co.il/en/event/%d7%90%d7%a3-%d7%a4%d7%a2%d7%9d-%d7%9c%d7%90-%d7%94%d7%99%d7%99%d7%a0%d7%95-%d7%9e%d7%95%d7%93%d7%a8%d7%a0%d7%99%d7%99%d7%9d/
+Tel Aviv Cinemateque,27/08/2024,21:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,27/08/2024,21:00,Last Summer,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,28/08/2024,11:00,Inside Out 2,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%95%d7%9c-%d7%91%d7%a8%d7%90%d7%a9-2-%d7%a4%d7%99%d7%a7%d7%a1%d7%90%d7%a8-%d7%90%d7%95%d7%9c%d7%a4%d7%9f-%d7%94%d7%97%d7%9c%d7%95%d7%9e%d7%95%d7%aa-%d7%a1/
+Tel Aviv Cinemateque,28/08/2024,16:15,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99/
+Tel Aviv Cinemateque,28/08/2024,16:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,28/08/2024,16:45,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,28/08/2024,16:45,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,28/08/2024,17:00,Jules,https://www.cinema.co.il/en/event/%d7%90%d7%9c-%d7%94%d7%97%d7%9c%d7%9c-%d7%a9%d7%a2%d7%aa-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%a2%d7%9d-%d7%94%d7%a1%d7%95%d7%a4%d7%a8-%d7%a0%d7%aa%d7%99-%d7%91%d7%99%d7%aa/
+Tel Aviv Cinemateque,28/08/2024,18:30,Treasure,https://www.cinema.co.il/en/event/%d7%98%d7%99%d7%95%d7%9c-%d7%a9%d7%95%d7%a8%d7%a9%d7%99%d7%9d/
+Tel Aviv Cinemateque,28/08/2024,19:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,28/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,28/08/2024,19:00,Ajoomma,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,28/08/2024,19:30,Kung Fu Panda 4,https://www.cinema.co.il/en/event/%d7%a7%d7%95%d7%a0%d7%92-%d7%a4%d7%95-%d7%a4%d7%a0%d7%93%d7%94-4-%d7%9e%d7%93%d7%95%d7%91%d7%91-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-%d7%a2%d7%9c-%d7%94%d7%92%d7%92/
+Tel Aviv Cinemateque,28/08/2024,21:00,All the Fires,https://www.cinema.co.il/en/event/%d7%9b%d7%9c-%d7%94%d7%90%d7%a9-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-tlvfest/
+Tel Aviv Cinemateque,28/08/2024,21:00,Get the Land Back,https://www.cinema.co.il/en/event/%d7%9b%d7%9c-%d7%94%d7%90%d7%a9-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-tlvfest/
+Tel Aviv Cinemateque,28/08/2024,21:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,29/08/2024,10:45,Radical,https://www.cinema.co.il/en/event/%d7%a8%d7%93%d7%99%d7%a7%d7%9c%d7%99-2023/
+Tel Aviv Cinemateque,29/08/2024,16:15,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,29/08/2024,16:30,Ajoomma,https://www.cinema.co.il/en/event/%d7%90%d7%92%d7%95%d7%9e%d7%94/
+Tel Aviv Cinemateque,29/08/2024,16:45,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,29/08/2024,16:45,Tatami,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,29/08/2024,17:00,Hotel Transylvania 3: Summer Vacation,https://www.cinema.co.il/en/event/%d7%9e%d7%a4%d7%9c%d7%a6%d7%aa-%d7%a9%d7%9c-%d7%9e%d7%9c%d7%95%d7%9f-3-%d7%99%d7%95%d7%a6%d7%90%d7%99%d7%9d-%d7%9c%d7%97%d7%95%d7%a4%d7%a9%d7%94-%d7%94%d7%a7%d7%a8%d7%a0%d7%aa-%d7%a4/
+Tel Aviv Cinemateque,29/08/2024,18:00,Two Many Chefs,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%a9%d7%aa%d7%92%d7%a2/
+Tel Aviv Cinemateque,29/08/2024,18:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,29/08/2024,18:30,It Happened on Our Ground,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,29/08/2024,18:45,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%a4%d7%a9%d7%a2-%d7%9b%d7%95%d7%9c%d7%95-%d7%a9%d7%9c%d7%99/
+Tel Aviv Cinemateque,29/08/2024,20:30,Singin' in the Rain,https://www.cinema.co.il/en/event/%d7%90%d7%95%d7%9b%d7%9c%d7%99-%d7%a1%d7%a8%d7%98%d7%99%d7%9d-%d7%95%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%90%d7%94%d7%a8%d7%95%d7%a0%d7%99-%d7%a9%d7%99%d7%a8-%d7%90%d7%a9%d7%99%d7%a8-%d7%91%d7%92%d7%a9/
+Tel Aviv Cinemateque,29/08/2024,20:45,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,29/08/2024,21:00,The Shepherd's Keeper,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%9e%d7%a8-%d7%94%d7%a8%d7%95%d7%a2%d7%99%d7%9d/
+Tel Aviv Cinemateque,30/08/2024,11:00,It Happened on Our Ground,https://www.cinema.co.il/en/event/%d7%94%d7%90%d7%97%d7%95-%d7%94%d7%a7%d7%98%d7%9f/
+Tel Aviv Cinemateque,30/08/2024,13:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,30/08/2024,13:30,#Nova,https://www.cinema.co.il/en/event/%d7%a0%d7%95%d7%91%d7%94/
+Tel Aviv Cinemateque,30/08/2024,14:00,Treasure,https://www.cinema.co.il/en/event/%d7%98%d7%99%d7%95%d7%9c-%d7%a9%d7%95%d7%a8%d7%a9%d7%99%d7%9d/
+Tel Aviv Cinemateque,30/08/2024,14:30,Jules,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,30/08/2024,14:30,Ajoomma,https://www.cinema.co.il/en/event/%d7%92%d7%95%d7%9c%d7%a1/
+Tel Aviv Cinemateque,30/08/2024,15:00,Screams Before Silence,https://www.cinema.co.il/en/event/%d7%96%d7%a2%d7%a7%d7%95%d7%aa-%d7%95%d7%90%d7%96-%d7%a9%d7%aa%d7%99%d7%a7%d7%94/
+Tel Aviv Cinemateque,30/08/2024,21:15,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,30/08/2024,21:30,Two Many Chefs,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%a9%d7%aa%d7%92%d7%a2/
+Tel Aviv Cinemateque,30/08/2024,21:30,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%98%d7%91%d7%97-%d7%94%d7%a9%d7%aa%d7%92%d7%a2/
+Tel Aviv Cinemateque,30/08/2024,22:00,The Fault in Our Stars,https://www.cinema.co.il/en/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%a9%d7%99%d7%a9%d7%99-%d7%90%d7%a9%d7%9e%d7%aa-%d7%94%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/
+Tel Aviv Cinemateque,30/08/2024,22:00,Get the Land Back,https://www.cinema.co.il/en/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%a9%d7%99%d7%a9%d7%99-%d7%90%d7%a9%d7%9e%d7%aa-%d7%94%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/
+Tel Aviv Cinemateque,31/08/2024,11:00,The Karate Kid,https://www.cinema.co.il/en/event/%d7%a7%d7%a8%d7%98%d7%94-%d7%a7%d7%99%d7%93/
+Tel Aviv Cinemateque,31/08/2024,11:00,A World Apart,https://www.cinema.co.il/en/event/%d7%a7%d7%a8%d7%98%d7%94-%d7%a7%d7%99%d7%93/
+Tel Aviv Cinemateque,31/08/2024,13:30,The Shepherd's Keeper,https://www.cinema.co.il/en/event/%d7%9e%d7%a1%d7%91%d7%99%d7%a8-%d7%a4%d7%a0%d7%99%d7%9d-%d7%a0%d7%95%d7%a1%d7%a7%d7%95-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%90%d7%a0%d7%99%d7%9e%d7%99%d7%a7%d7%a1-2024/
+Tel Aviv Cinemateque,31/08/2024,14:00,La Boum,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-%d7%94%d7%a1%d7%a8%d7%98-%d7%94%d7%9e%d7%95%d7%a4%d7%a8%d7%a2-%d7%94%d7%99%d7%95%d7%9d-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f-%d7%a9%d7%9c-%d7%94%d7%97%d7%95%d7%a4/
+Tel Aviv Cinemateque,31/08/2024,14:00,Jules,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-%d7%94%d7%a1%d7%a8%d7%98-%d7%94%d7%9e%d7%95%d7%a4%d7%a8%d7%a2-%d7%94%d7%99%d7%95%d7%9d-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f-%d7%a9%d7%9c-%d7%94%d7%97%d7%95%d7%a4/
+Tel Aviv Cinemateque,31/08/2024,14:30,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,31/08/2024,15:00,Ajoomma,https://www.cinema.co.il/en/event/%d7%a1%d7%a0%d7%95%d7%a4%d7%99-%d7%95%d7%90%d7%a8%d7%a0%d7%91-%d7%94%d7%a7%d7%98%d7%99%d7%a4%d7%94-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%90%d7%a0%d7%99%d7%9e%d7%99%d7%a7%d7%a1-2024/
+Tel Aviv Cinemateque,31/08/2024,16:00,Mallrats,https://www.cinema.co.il/en/event/%d7%a2%d7%9b%d7%91%d7%a8%d7%99-%d7%94%d7%a7%d7%a0%d7%99%d7%95%d7%9f-%d7%94%d7%a8%d7%a6%d7%90%d7%94-%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7/
+Tel Aviv Cinemateque,31/08/2024,17:00,Tender Metalheads,https://www.cinema.co.il/en/event/%d7%9e%d7%98%d7%90%d7%9c%d7%99%d7%a1%d7%98%d7%99%d7%9d-%d7%9e%d7%aa%d7%95%d7%a7%d7%99%d7%9d-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%90%d7%a0%d7%99%d7%9e%d7%99%d7%a7%d7%a1-2024/
+Tel Aviv Cinemateque,31/08/2024,17:00,A World Apart,https://www.cinema.co.il/en/event/%d7%9e%d7%98%d7%90%d7%9c%d7%99%d7%a1%d7%98%d7%99%d7%9d-%d7%9e%d7%aa%d7%95%d7%a7%d7%99%d7%9d-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%90%d7%a0%d7%99%d7%9e%d7%99%d7%a7%d7%a1-2024/
+Tel Aviv Cinemateque,31/08/2024,17:00,The Crime Is Mine,https://www.cinema.co.il/en/event/%d7%9e%d7%98%d7%90%d7%9c%d7%99%d7%a1%d7%98%d7%99%d7%9d-%d7%9e%d7%aa%d7%95%d7%a7%d7%99%d7%9d-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%90%d7%a0%d7%99%d7%9e%d7%99%d7%a7%d7%a1-2024/
+Tel Aviv Cinemateque,31/08/2024,17:15,Merry Christmas Mr. Lawrence,https://www.cinema.co.il/en/event/%d7%a1%d7%99%d7%a0%d7%9e%d7%94-%d7%a0%d7%99%d7%a8%d7%95%d7%95%d7%a0%d7%94-%d7%97%d7%92-%d7%a9%d7%9e%d7%97-%d7%9e%d7%99%d7%a1%d7%98%d7%a8-%d7%9c%d7%95%d7%a8%d7%a0%d7%a1/
+Tel Aviv Cinemateque,31/08/2024,19:00,Jules,https://www.cinema.co.il/en/event/%d7%93%d7%95%d7%a7%d7%95%d7%9e%d7%a6%d7%99%d7%94-1-%d7%90%d7%a1%d7%95%d7%a4%d7%94-%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%90%d7%a0%d7%99%d7%9e%d7%99%d7%a7%d7%a1-2024/
+Tel Aviv Cinemateque,31/08/2024,19:15,A World Apart,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,31/08/2024,19:15,Full Support,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%a4%d7%a8%d7%99%d7%93-%d7%91%d7%99%d7%a0%d7%99%d7%a0%d7%95/
+Tel Aviv Cinemateque,31/08/2024,20:45,Anatomy of a Fall,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%98%d7%95%d7%9e%d7%99%d7%94-%d7%a9%d7%9c-%d7%a0%d7%a4%d7%99%d7%9c%d7%94/
+Tel Aviv Cinemateque,31/08/2024,20:45,A World Apart,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%98%d7%95%d7%9e%d7%99%d7%94-%d7%a9%d7%9c-%d7%a0%d7%a4%d7%99%d7%9c%d7%94/
+Tel Aviv Cinemateque,31/08/2024,21:00,Last Summer,https://www.cinema.co.il/en/event/%d7%94%d7%a7%d7%99%d7%a5-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f/
+Tel Aviv Cinemateque,31/08/2024,21:30,Get the Land Back,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%95%d7%a0%d7%9d-%d7%a9%d7%9c-%d7%a1%d7%91%d7%aa%d7%90/
+Tel Aviv Cinemateque,01/09/2024,11:00,Bonnard: Pierre & Marthe,https://www.cinema.co.il/en/event/%d7%a4%d7%99%d7%99%d7%a8-%d7%95%d7%9e%d7%a8%d7%aa%d7%94-%d7%90%d7%9e%d7%a0%d7%95%d7%aa-%d7%95%d7%90%d7%94%d7%91%d7%94-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,01/09/2024,11:30,Mascarpone,https://www.cinema.co.il/en/event/%d7%9e%d7%a1%d7%a7%d7%a8%d7%a4%d7%95%d7%a0%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,01/09/2024,21:15,Silver Haze,https://www.cinema.co.il/en/event/%d7%a2%d7%a8%d7%a4%d7%9c-%d7%9b%d7%a1%d7%95%d7%a3-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,02/09/2024,19:00,Gazoz,https://www.cinema.co.il/en/event/%d7%92%d7%96%d7%95%d7%96/
+Tel Aviv Cinemateque,02/09/2024,20:15,Carmen,https://www.cinema.co.il/en/event/%d7%9b%d7%a8%d7%9e%d7%9f-%d7%a1%d7%90%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,02/09/2024,20:30,Honi Hameagel: After Me The Deluge,https://www.cinema.co.il/en/event/%d7%9c%d7%96%d7%9b%d7%a8%d7%95-%d7%a9%d7%9c-%d7%97%d7%95%d7%a0%d7%99-%d7%94%d7%9e%d7%a2%d7%92%d7%9c-%d7%90%d7%97%d7%a8%d7%99%d7%99-%d7%94%d7%9e%d7%91%d7%95%d7%9c/
+Tel Aviv Cinemateque,03/09/2024,11:00,Gazoz,https://www.cinema.co.il/en/event/%d7%92%d7%96%d7%95%d7%96/
+Tel Aviv Cinemateque,03/09/2024,18:00,Leibowitz: Faith Country and Man,https://www.cinema.co.il/en/event/%d7%9c%d7%99%d7%91%d7%95%d7%91%d7%99%d7%a5-%d7%90%d7%9e%d7%95%d7%a0%d7%94-%d7%90%d7%93%d7%9e%d7%94-%d7%90%d7%93%d7%9d/
+Tel Aviv Cinemateque,03/09/2024,19:00,Munch,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a0%d7%a7-%d7%90%d7%a4%d7%95%d7%a1-2024/
+Tel Aviv Cinemateque,03/09/2024,21:00,Sex,https://www.cinema.co.il/en/event/%d7%9e%d7%99%d7%9f-%d7%90%d7%a0%d7%95%d7%a9%d7%99-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,03/09/2024,21:15,Reality,https://www.cinema.co.il/en/event/%d7%a8%d7%99%d7%90%d7%9c%d7%99%d7%98%d7%99-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,04/09/2024,18:30,Leonardo: The Works,https://www.cinema.co.il/en/event/%d7%9c%d7%99%d7%90%d7%95%d7%a0%d7%a8%d7%93%d7%95-%d7%94%d7%99%d7%a6%d7%99%d7%a8%d7%95%d7%aa-%d7%aa%d7%a2%d7%a8%d7%95%d7%9b%d7%95%d7%aa-%d7%a2%d7%9c-%d7%94%d7%9e%d7%a1%d7%9a/
+Tel Aviv Cinemateque,04/09/2024,19:00,Monogamia,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a0%d7%95%d7%92%d7%9e%d7%99%d7%94/
+Tel Aviv Cinemateque,04/09/2024,21:15,Hong Kong Mixtape,https://www.cinema.co.il/en/event/%d7%94%d7%95%d7%a0%d7%92-%d7%a7%d7%95%d7%a0%d7%92-%d7%9e%d7%99%d7%a7%d7%a1%d7%98%d7%99%d7%99%d7%a4-%d7%9e%d7%97%d7%90%d7%94/
+Tel Aviv Cinemateque,05/09/2024,19:30,Xenakis révolution: Le bâtisseur du son,https://www.cinema.co.il/en/event/%d7%a7%d7%a1%d7%a0%d7%90%d7%a7%d7%99%d7%a1-%d7%9e%d7%94%d7%a4%d7%9b%d7%9f/
+Tel Aviv Cinemateque,05/09/2024,21:00,Mutiny in Heaven: The Birthday Party,https://www.cinema.co.il/en/event/%d7%9e%d7%a8%d7%93-%d7%91%d7%92%d7%9f-%d7%a2%d7%93%d7%9f-%d7%94-birthday-party/
+Tel Aviv Cinemateque,05/09/2024,21:00,Monogamia,https://www.cinema.co.il/en/event/%d7%9e%d7%a8%d7%93-%d7%91%d7%92%d7%9f-%d7%a2%d7%93%d7%9f-%d7%94-birthday-party/
+Tel Aviv Cinemateque,06/09/2024,11:00,Billy & Molly: An Otter Love Story,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%9c%d7%99-%d7%95%d7%9e%d7%95%d7%9c%d7%99-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%90%d7%97%d7%a8-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%93%d7%95%d7%a7%d7%90%d7%91/
+Tel Aviv Cinemateque,06/09/2024,11:00,Gazoz,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%9c%d7%99-%d7%95%d7%9e%d7%95%d7%9c%d7%99-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%90%d7%97%d7%a8-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%93%d7%95%d7%a7%d7%90%d7%91/
+Tel Aviv Cinemateque,06/09/2024,12:00,The 1957 Transcripts,https://www.cinema.co.il/en/event/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/
+Tel Aviv Cinemateque,06/09/2024,13:00,Happy Feet,https://www.cinema.co.il/en/event/%d7%aa%d7%96%d7%99%d7%96%d7%95-%d7%aa%d7%a8%d7%92%d7%9c%d7%99%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%91%d7%91/
+Tel Aviv Cinemateque,06/09/2024,13:30,Titian: The Empire of Color,https://www.cinema.co.il/en/event/%d7%98%d7%99%d7%a6%d7%99%d7%90%d7%9f/
+Tel Aviv Cinemateque,06/09/2024,21:30,Grease,https://www.cinema.co.il/en/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%a9%d7%99%d7%a9%d7%99-%d7%92%d7%a8%d7%99%d7%96-%d7%94%d7%a7%d7%a8%d7%a0%d7%94-%d7%a4%d7%a2%d7%99%d7%9c%d7%94-%d7%95-sing-a/
+Tel Aviv Cinemateque,06/09/2024,22:00,Monogamia,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a0%d7%95%d7%92%d7%9e%d7%99%d7%94/
+Tel Aviv Cinemateque,07/09/2024,10:00,Tinker Bell and the Secret of the Wings,https://www.cinema.co.il/en/event/%d7%98%d7%99%d7%a0%d7%a7%d7%a8%d7%91%d7%9c-%d7%95%d7%a1%d7%95%d7%93-%d7%94%d7%9b%d7%a0%d7%a4%d7%99%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%91%d7%91/
+Tel Aviv Cinemateque,07/09/2024,10:30,Despicable Me 4,https://www.cinema.co.il/en/event/%d7%92%d7%a0%d7%95%d7%91-%d7%a2%d7%9c-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%91%d7%91/
+Tel Aviv Cinemateque,07/09/2024,11:00,Adiós Buenos Aires,https://www.cinema.co.il/en/event/%d7%90%d7%93%d7%99%d7%95%d7%a1-%d7%91%d7%95%d7%90%d7%a0%d7%95%d7%a1-%d7%90%d7%99%d7%99%d7%a8%d7%a1-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,07/09/2024,14:00,Billy & Molly: An Otter Love Story,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%9c%d7%99-%d7%95%d7%9e%d7%95%d7%9c%d7%99-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%90%d7%97%d7%a8-%d7%97%d7%99%d7%a0%d7%9d-%d7%9c%d7%9e%d7%a0%d7%95%d7%99%d7%99%d7%9d/
+Tel Aviv Cinemateque,07/09/2024,15:00,The 1957 Transcripts,https://www.cinema.co.il/en/event/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/
+Tel Aviv Cinemateque,07/09/2024,16:00,Gazoz,https://www.cinema.co.il/en/event/%d7%92%d7%96%d7%95%d7%96/
+Tel Aviv Cinemateque,07/09/2024,16:00,The Teachers’ Lounge,https://www.cinema.co.il/en/event/%d7%92%d7%96%d7%95%d7%96/
+Tel Aviv Cinemateque,07/09/2024,18:30,Reality,https://www.cinema.co.il/en/event/%d7%a8%d7%99%d7%90%d7%9c%d7%99%d7%98%d7%99-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,07/09/2024,21:00,Get the Land Back,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%95%d7%a0%d7%9d-%d7%a9%d7%9c-%d7%a1%d7%91%d7%aa%d7%90/
+Tel Aviv Cinemateque,08/09/2024,11:00,The Book of Wonders,https://www.cinema.co.il/en/event/%d7%97%d7%93%d7%a8-%d7%94%d7%a4%d7%9c%d7%90%d7%95%d7%aa-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,08/09/2024,11:30,Gazoz,https://www.cinema.co.il/en/event/%d7%92%d7%96%d7%95%d7%96/
+Tel Aviv Cinemateque,08/09/2024,18:30,The Taste of Freedom,https://www.cinema.co.il/en/event/%d7%98%d7%a2%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%a9/
+Tel Aviv Cinemateque,08/09/2024,21:00,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,09/09/2024,18:30,Shttl,https://www.cinema.co.il/en/event/%d7%a9%d7%98%d7%a2%d7%98%d7%9c/
+Tel Aviv Cinemateque,09/09/2024,20:00,Weekend Rebels,https://www.cinema.co.il/en/event/%d7%9e%d7%95%d7%a8%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%95%d7%a4%d7%a9-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,10/09/2024,11:00,The 1957 Transcripts,https://www.cinema.co.il/en/event/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/
+Tel Aviv Cinemateque,10/09/2024,17:00,Gazoz,https://www.cinema.co.il/en/event/%d7%92%d7%96%d7%95%d7%96/
+Tel Aviv Cinemateque,10/09/2024,18:00,King of Sephardim,https://www.cinema.co.il/en/event/%d7%94%d7%a8%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%9c%d7%9a-%d7%94%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%9d/
+Tel Aviv Cinemateque,10/09/2024,18:45,Tatami,https://www.cinema.co.il/en/event/%d7%98%d7%90%d7%98%d7%90%d7%9e%d7%99-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,10/09/2024,20:00,Underdogs: A War Movie,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%aa-%d7%a9%d7%90%d7%9f-%d7%a1%d7%a8%d7%98-%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%a1%d7%a8%d7%98-%d7%a9%d7%99%d7%97%d7%94-%d7%a2%d7%9d-%d7%94%d7%99%d7%95%d7%a6%d7%a8%d7%99/
+Tel Aviv Cinemateque,10/09/2024,21:00,Aliades,https://www.cinema.co.il/en/event/%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,11/09/2024,14:00,Maya,https://www.cinema.co.il/en/event/%d7%9e%d7%90%d7%99%d7%94-%d7%a2%d7%9d-%d7%aa%d7%a8%d7%92%d7%95%d7%9d-%d7%9c%d7%a6%d7%a8%d7%a4%d7%aa%d7%99%d7%aa/
+Tel Aviv Cinemateque,11/09/2024,18:30,Aliades,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,11/09/2024,18:30,A Great Friend,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,11/09/2024,20:30,For a Few Dollars More,https://www.cinema.co.il/en/event/%d7%94%d7%a6%d7%9c%d7%a4%d7%99%d7%9d/
+Tel Aviv Cinemateque,12/09/2024,17:30,The Teachers’ Lounge,https://www.cinema.co.il/en/event/%d7%97%d7%93%d7%a8-%d7%94%d7%9e%d7%95%d7%a8%d7%99%d7%9d/
+Tel Aviv Cinemateque,12/09/2024,18:00,The 1957 Transcripts,https://www.cinema.co.il/en/event/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/
+Tel Aviv Cinemateque,12/09/2024,19:00,Billy & Molly: An Otter Love Story,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%9c%d7%99-%d7%95%d7%9e%d7%95%d7%9c%d7%99-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%90%d7%97%d7%a8-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%93%d7%95%d7%a7%d7%90%d7%91/
+Tel Aviv Cinemateque,12/09/2024,20:00,Mysterious Skin,https://www.cinema.co.il/en/event/%d7%a2%d7%95%d7%a8-%d7%9e%d7%a1%d7%aa%d7%95%d7%a8%d7%99-%d7%90%d7%95%d7%a3-%d7%a1%d7%a7%d7%a8%d7%99%d7%9f/
+Tel Aviv Cinemateque,12/09/2024,21:00,Miller's Crossing,https://www.cinema.co.il/en/event/%d7%a6%d7%95%d7%9e%d7%aa-%d7%9e%d7%99%d7%9c%d7%a8/
+Tel Aviv Cinemateque,13/09/2024,11:00,Firebrand,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%9c%d7%9b%d7%94-%d7%94%d7%a9%d7%99%d7%a9%d7%99%d7%aa-her-story/
+Tel Aviv Cinemateque,13/09/2024,12:30,The Governor,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%95%d7%a9%d7%9c-2024/
+Tel Aviv Cinemateque,13/09/2024,13:00,Spies in Disguise,https://www.cinema.co.il/en/event/%d7%9e%d7%a8%d7%92%d7%9c%d7%99%d7%9d-%d7%9c%d7%90-%d7%a8%d7%92%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%91%d7%91/
+Tel Aviv Cinemateque,13/09/2024,14:00,Aliades,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,13/09/2024,21:30,Aliades,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,13/09/2024,21:30,A Great Friend,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,14/09/2024,10:00,Winnie The Pooh,https://www.cinema.co.il/en/event/%d7%a4%d7%95-%d7%94%d7%93%d7%91-%d7%94%d7%a1%d7%a8%d7%98/
+Tel Aviv Cinemateque,14/09/2024,10:30,Meet the Robinsons,https://www.cinema.co.il/en/event/%d7%9c%d7%a4%d7%92%d7%95%d7%a9-%d7%90%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%99%d7%a0%d7%a1%d7%95%d7%a0%d7%99%d7%9d-5/
+Tel Aviv Cinemateque,14/09/2024,11:00,Billy & Molly: An Otter Love Story,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%9c%d7%99-%d7%95%d7%9e%d7%95%d7%9c%d7%99-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%90%d7%97%d7%a8-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%93%d7%95%d7%a7%d7%90%d7%91/
+Tel Aviv Cinemateque,14/09/2024,11:00,Big,https://www.cinema.co.il/en/event/%d7%91%d7%99%d7%9c%d7%99-%d7%95%d7%9e%d7%95%d7%9c%d7%99-%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%90%d7%97%d7%a8-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%93%d7%95%d7%a7%d7%90%d7%91/
+Tel Aviv Cinemateque,14/09/2024,12:45,Anatomy of a Fall,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%98%d7%95%d7%9e%d7%99%d7%94-%d7%a9%d7%9c-%d7%a0%d7%a4%d7%99%d7%9c%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,14/09/2024,13:15,Firebrand,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%9c%d7%9b%d7%94-%d7%94%d7%a9%d7%99%d7%a9%d7%99%d7%aa/
+Tel Aviv Cinemateque,14/09/2024,13:15,Gazoz,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%9c%d7%9b%d7%94-%d7%94%d7%a9%d7%99%d7%a9%d7%99%d7%aa/
+Tel Aviv Cinemateque,14/09/2024,13:30,Fresh,https://www.cinema.co.il/en/event/%d7%a4%d7%a8%d7%a9/
+Tel Aviv Cinemateque,14/09/2024,15:15,The Governor,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%95%d7%a9%d7%9c-2024/
+Tel Aviv Cinemateque,14/09/2024,16:00,Adiós Buenos Aires,https://www.cinema.co.il/en/event/%d7%90%d7%93%d7%99%d7%95%d7%a1-%d7%91%d7%95%d7%90%d7%a0%d7%95%d7%a1-%d7%90%d7%99%d7%99%d7%a8%d7%a1-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,14/09/2024,16:00,The Teachers’ Lounge,https://www.cinema.co.il/en/event/%d7%90%d7%93%d7%99%d7%95%d7%a1-%d7%91%d7%95%d7%90%d7%a0%d7%95%d7%a1-%d7%90%d7%99%d7%99%d7%a8%d7%a1-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,14/09/2024,16:30,Aliades,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,14/09/2024,17:00,The 1957 Transcripts,https://www.cinema.co.il/en/event/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/
+Tel Aviv Cinemateque,15/09/2024,18:00,Anatomy of a Fall,https://www.cinema.co.il/en/event/%d7%90%d7%a0%d7%98%d7%95%d7%9e%d7%99%d7%94-%d7%a9%d7%9c-%d7%a0%d7%a4%d7%99%d7%9c%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,15/09/2024,19:00,Aliades,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,15/09/2024,19:00,Gazoz,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,15/09/2024,21:00,Longlegs,https://www.cinema.co.il/en/event/longlegs/
+Tel Aviv Cinemateque,16/09/2024,19:00,The Good the Bad and the Ugly,https://www.cinema.co.il/en/event/%d7%90%d7%95%d7%9b%d7%9c%d7%99-%d7%a1%d7%a8%d7%98%d7%99%d7%9d-%d7%94%d7%98%d7%95%d7%91-%d7%94%d7%a8%d7%a2-%d7%95%d7%94%d7%9e%d7%9b%d7%95%d7%a2%d7%a8/
+Tel Aviv Cinemateque,16/09/2024,20:00,Adiós Buenos Aires,https://www.cinema.co.il/en/event/%d7%90%d7%93%d7%99%d7%95%d7%a1-%d7%91%d7%95%d7%90%d7%a0%d7%95%d7%a1-%d7%90%d7%99%d7%99%d7%a8%d7%a1-%d7%94%d7%a8%d7%a6%d7%90%d7%94/
+Tel Aviv Cinemateque,16/09/2024,21:00,Aliades,https://www.cinema.co.il/en/event/aliades-%d7%91%d7%a2%d7%9c%d7%99-%d7%91%d7%a8%d7%99%d7%aa/
+Tel Aviv Cinemateque,17/09/2024,11:00,King of Sephardim,https://www.cinema.co.il/en/event/%d7%94%d7%a8%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%9c%d7%9a-%d7%94%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%9d/
+Tel Aviv Cinemateque,17/09/2024,11:30,The Governor,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%95%d7%a9%d7%9c-2024/
+Tel Aviv Cinemateque,19/09/2024,17:00,Adiós Buenos Aires,https://www.cinema.co.il/en/event/%d7%90%d7%93%d7%99%d7%95%d7%a1-%d7%91%d7%95%d7%90%d7%a0%d7%95%d7%a1-%d7%90%d7%99%d7%99%d7%a8%d7%a1/
+Tel Aviv Cinemateque,22/09/2024,11:00,King of Sephardim,https://www.cinema.co.il/en/event/%d7%94%d7%a8%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%9c%d7%9a-%d7%94%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%9d/
+Tel Aviv Cinemateque,22/09/2024,11:30,The Baby,https://www.cinema.co.il/en/event/%d7%94%d7%aa%d7%99%d7%a0%d7%95%d7%a7%d7%aa-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,22/09/2024,19:00,The Governor,https://www.cinema.co.il/en/event/%d7%94%d7%9e%d7%95%d7%a9%d7%9c-2024/
+Tel Aviv Cinemateque,22/09/2024,20:00,Yojimbo,https://www.cinema.co.il/en/event/%d7%99%d7%95%d7%92%d7%99%d7%9e%d7%91%d7%95-%d7%90%d7%99%d7%91%d7%93%d7%aa%d7%99-%d7%90%d7%aa-%d7%96%d7%94-%d7%91%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2/
+Tel Aviv Cinemateque,23/09/2024,21:15,Fantasy on a Romantic Theme,https://www.cinema.co.il/en/event/%d7%a4%d7%a0%d7%98%d7%96%d7%99%d7%94-%d7%a2%d7%9c-%d7%a0%d7%95%d7%a9%d7%90-%d7%a8%d7%95%d7%9e%d7%a0%d7%98%d7%99/
+Tel Aviv Cinemateque,24/09/2024,19:30,National Theatre Live: Present Laughter,https://www.cinema.co.il/en/event/%d7%a0%d7%a9%d7%9e%d7%97-%d7%91%d7%99%d7%a0%d7%aa%d7%99%d7%99%d7%9d-%d7%94%d7%aa%d7%99%d7%90%d7%98%d7%a8%d7%95%d7%9f-%d7%94%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%9c%d7%95%d7%a0%d7%93%d7%95%d7%9f-%d7%a2/
+Tel Aviv Cinemateque,25/09/2024,14:00,Fill the Void,https://www.cinema.co.il/en/event/%d7%9c%d7%9e%d7%9c%d7%90-%d7%90%d7%aa-%d7%94%d7%97%d7%9c%d7%9c-%d7%a2%d7%9d-%d7%aa%d7%a8%d7%92%d7%95%d7%9d-%d7%9c%d7%a6%d7%a8%d7%a4%d7%aa%d7%99%d7%aa/
+Tel Aviv Cinemateque,25/09/2024,20:30,The Shawshank Redemption,https://www.cinema.co.il/en/event/%d7%97%d7%95%d7%9e%d7%95%d7%aa-%d7%a9%d7%9c-%d7%aa%d7%a7%d7%95%d7%95%d7%94/
+Tel Aviv Cinemateque,26/09/2024,18:30,On the Wandering Paths,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%9c%d7%90-%d7%99%d7%93%d7%95%d7%a2%d7%95%d7%aa-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,26/09/2024,19:30,Kissufim,https://www.cinema.co.il/en/event/%d7%9b%d7%99%d7%a1%d7%95%d7%a4%d7%99%d7%9d-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,27/09/2024,11:00,King of Sephardim,https://www.cinema.co.il/en/event/%d7%94%d7%a8%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%9c%d7%9a-%d7%94%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%9d/
+Tel Aviv Cinemateque,27/09/2024,13:00,Surf's Up,https://www.cinema.co.il/en/event/%d7%aa%d7%a4%d7%95%d7%a1-%d7%aa%d7%92%d7%9c%d7%99%d7%9d/
+Tel Aviv Cinemateque,27/09/2024,13:30,The Children of San Simon,https://www.cinema.co.il/en/event/%d7%94%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9e%d7%9e%d7%a0%d7%96%d7%a8-%d7%a1%d7%9f-%d7%a1%d7%99%d7%9e%d7%95%d7%9f/
+Tel Aviv Cinemateque,27/09/2024,21:30,The Trace of Your Lips,https://www.cinema.co.il/en/event/%d7%a2%d7%a7%d7%91%d7%95%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%99%d7%99%d7%9d-%d7%a9%d7%9c%d7%9a-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-tlvfest/
+Tel Aviv Cinemateque,27/09/2024,22:00,Handling the Undead,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%91%d7%9d-%d7%a9%d7%9c-%d7%94%d7%9e%d7%aa%d7%99%d7%9d/
+Tel Aviv Cinemateque,28/09/2024,10:30,Bolt,https://www.cinema.co.il/en/event/%d7%91%d7%95%d7%9c%d7%98-%d7%9e%d7%93%d7%95%d7%91%d7%91/
+Tel Aviv Cinemateque,28/09/2024,11:00,National Treasure,https://www.cinema.co.il/en/event/%d7%90%d7%95%d7%a6%d7%a8-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%9e%d7%aa%d7%95%d7%a8%d7%92%d7%9d/
+Tel Aviv Cinemateque,28/09/2024,13:00,About Dry Grasses,https://www.cinema.co.il/en/event/%d7%a2%d7%9c-%d7%a2%d7%a9%d7%91%d7%99%d7%9d-%d7%99%d7%91%d7%a9%d7%99%d7%9d/
+Tel Aviv Cinemateque,28/09/2024,13:30,The Children of San Simon,https://www.cinema.co.il/en/event/%d7%94%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9e%d7%9e%d7%a0%d7%96%d7%a8-%d7%a1%d7%9f-%d7%a1%d7%99%d7%9e%d7%95%d7%9f/
+Tel Aviv Cinemateque,28/09/2024,14:30,On the Wandering Paths,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%9c%d7%90-%d7%99%d7%93%d7%95%d7%a2%d7%95%d7%aa-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,28/09/2024,16:30,Kissufim,https://www.cinema.co.il/en/event/%d7%9b%d7%99%d7%a1%d7%95%d7%a4%d7%99%d7%9d-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,28/09/2024,17:00,The Cup,https://www.cinema.co.il/en/event/%d7%a1%d7%99%d7%a0%d7%9e%d7%94-%d7%a0%d7%99%d7%a8%d7%95%d7%95%d7%a0%d7%94-%d7%94%d7%92%d7%91%d7%99%d7%a2/
+Tel Aviv Cinemateque,28/09/2024,18:30,Ex-Husbands,https://www.cinema.co.il/en/event/%d7%94%d7%91%d7%a2%d7%9c%d7%99%d7%9d-%d7%9c%d7%a9%d7%a2%d7%91%d7%a8-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/
+Tel Aviv Cinemateque,29/09/2024,11:00,On the Wandering Paths,https://www.cinema.co.il/en/event/%d7%94%d7%93%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%9c%d7%90-%d7%99%d7%93%d7%95%d7%a2%d7%95%d7%aa-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/
+Tel Aviv Cinemateque,29/09/2024,11:30,The Children of San Simon,https://www.cinema.co.il/en/event/%d7%94%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9e%d7%9e%d7%a0%d7%96%d7%a8-%d7%a1%d7%9f-%d7%a1%d7%99%d7%9e%d7%95%d7%9f/
+Tel Aviv Cinemateque,29/09/2024,20:00,About Dry Grasses,https://www.cinema.co.il/en/event/%d7%a2%d7%9c-%d7%a2%d7%a9%d7%91%d7%99%d7%9d-%d7%99%d7%91%d7%a9%d7%99%d7%9d/
+Tel Aviv Cinemateque,29/09/2024,21:30,Handling the Undead,https://www.cinema.co.il/en/event/%d7%a9%d7%95%d7%91%d7%9d-%d7%a9%d7%9c-%d7%94%d7%9e%d7%aa%d7%99%d7%9d/
+Tel Aviv Cinemateque,30/09/2024,18:00,About Dry Grasses,https://www.cinema.co.il/en/event/%d7%a2%d7%9c-%d7%a2%d7%a9%d7%91%d7%99%d7%9d-%d7%99%d7%91%d7%a9%d7%99%d7%9d/
+Tel Aviv Cinemateque,30/09/2024,19:00,Barton Fink,https://www.cinema.co.il/en/event/%d7%a1%d7%99%d7%a0%d7%9e%d7%94-%d7%92%d7%a8%d7%90%d7%96-%d7%91%d7%a8%d7%98%d7%95%d7%9f-%d7%a4%d7%99%d7%a0%d7%a7/
+Tel Aviv Cinemateque,30/09/2024,21:00,The Mattachine Family,https://www.cinema.co.il/en/event/%d7%9e%d7%a9%d7%a4%d7%97%d7%94-%d7%91%d7%94%d7%aa%d7%90%d7%9e%d7%94-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-tlvfest/
