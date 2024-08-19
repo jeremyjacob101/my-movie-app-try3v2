@@ -61,7 +61,7 @@ const App = () => {
         </div>
       </div>
       <CSVMovieList csvFilePath="/jlem1.csv" heading="Jerusalem Cinemateque" />
-      <CSVMovieList csvFilePath="/tlv1.csv" heading="Tel Aviv Cinemateque" />
+      <CSVMovieList csvFilePath="/tlv1.csv" heading="Tl Aviv Cinemateque" />
       <CSVMovieList csvFilePath="/herz1.csv" heading="Herziliya Cinemateque" />
       <CSVMovieList csvFilePath="/kanada1.csv" heading="Kolnoa Kanada" />
       <CSVMovieList csvFilePath="/haifa1.csv" heading="Haifa Cinemateque" />
