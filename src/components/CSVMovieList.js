@@ -26,6 +26,7 @@ const CSVMovieList = ({ heading }) => {
 
                                 if (rowDate < now) {
                                     return null;
+                                    console.log("NULL\trowDate: "+rowDate+"now: "+now)
                                 }
 
                                 const transformedDate = `${parseInt(day, 10)}.${parseInt(month, 10)}`;
