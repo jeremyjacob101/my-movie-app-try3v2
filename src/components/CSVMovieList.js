@@ -5,7 +5,7 @@ import MovieListHeading from './MovieListHeading';
 
 const CSVMovieList = ({ heading }) => {
     const [csvMovies, setCsvMovies] = useState([]);
-    const csvFilePath = "/postNPY1.csv";
+    const csvFilePath = "/01-09-24.csv";
 
     useEffect(() => {
         const fetchMovieDataFromCSV = async () => {
