@@ -65,6 +65,7 @@ const App = () => {
       <CSVMovieList heading="Herziliya Cinemateque" />
       <CSVMovieList heading="Kolnoa Kanada" />
       <CSVMovieList heading="Haifa Cinemateque" />
+      <CSVMovieList heading="Jaffa Cinema" />
       <div className="home-header">
         <MovieListHeading heading="Search" />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
