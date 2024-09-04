@@ -100,6 +100,7 @@ const App = () => {
             favoriteComponent={RemoveFavorites} />
         </div>
       </div>
+      <Analytics />
     </>
   );
 }
