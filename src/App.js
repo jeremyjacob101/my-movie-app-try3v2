@@ -29,7 +29,7 @@ const App = () => {
 
   useEffect(() => {
     const movieFavorites = JSON.parse(localStorage.getItem('react-movie-app-favorites-1'));
-    setFavorites(movieFavorites || []); // Provide an empty array fallback if null
+    setFavorites(movieFavorites || []); // Provides an empty array fallback if null
   }, []);
 
   const saveToLocalStorage = (items) => {
