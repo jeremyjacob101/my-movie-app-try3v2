@@ -8,7 +8,7 @@ import MovieListHeading from './components/MovieListHeading';
 import MainHeading from './components/MainHeading';
 import CSVMovieList from './components/CSVMovieList';
 import MoviePace from './components/MoviePace';
-import { Analytics } from "/node_modules/@vercel/analytics/dist/react";
+import { Analytics } from "./node_modules/@vercel/analytics/dist/react";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
