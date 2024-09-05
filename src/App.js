@@ -68,7 +68,6 @@ const App = () => {
       <CSVMovieList heading="Haifa Cinemateque" />
       <CSVMovieList heading="Jaffa Cinema" />
       <CSVSoonList heading="Coming Soon" />
-      <CSVSoonList heading="Coming Soon" />
 
       {/* <div className="home-header">
         <MovieListHeading heading="Search" />
