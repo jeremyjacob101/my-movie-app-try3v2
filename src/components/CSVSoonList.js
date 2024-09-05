@@ -5,7 +5,7 @@ import ComingSoonList from './ComingSoonList';
 
 const CSVMovieList = ({ heading }) => {
     const [csvMovies, setCsvMovies] = useState([]);
-    const csvFilePath = "/cs1.csv";
+    const csvFilePath = "/02-09-24--CS.csv";
 
     useEffect(() => {
         const fetchMovieDataFromCSV = async () => {
