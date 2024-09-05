@@ -66,7 +66,7 @@ const App = () => {
       <CSVMovieList heading="Kolnoa Kanada" />
       <CSVMovieList heading="Haifa Cinemateque" />
       <CSVMovieList heading="Jaffa Cinema" />
-      <div className="home-header">
+      {/* <div className="home-header">
         <MovieListHeading heading="Search" />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
       </div>
@@ -98,7 +98,7 @@ const App = () => {
             handleFavoritesClick={removeFavoriteMovie}
             favoriteComponent={RemoveFavorites} />
         </div>
-      </div>
+      </div> */}
     </>
   );
 }
