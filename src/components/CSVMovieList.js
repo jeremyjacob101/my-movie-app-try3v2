@@ -62,9 +62,7 @@ const CSVMovieList = ({ heading }) => {
         <div className="movie-row-t">
             <MovieListHeading heading={heading} />
             <div className="pre-row-t">
-                <TequeList
-                    movies={csvMovies}
-                />
+                <TequeList movies={csvMovies}/>
             </div>
         </div>
     );

@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import MovieList from './components/MovieList';
-import VerticalFavorites from './components/VerticalFavorites';
-import SearchBox from './components/SearchBox';
-import AddFavorites from './components/AddFavorites';
-import RemoveFavorites from './components/RemoveFavorites';
-import MovieListHeading from './components/MovieListHeading';
+// import MovieList from './components/MovieList';
+// import VerticalFavorites from './components/VerticalFavorites';
+// import SearchBox from './components/SearchBox';
+// import AddFavorites from './components/AddFavorites';
+// import RemoveFavorites from './components/RemoveFavorites';
+// import MovieListHeading from './components/MovieListHeading';
 import MainHeading from './components/MainHeading';
 import CSVMovieList from './components/CSVMovieList';
+import CSVSoonList from './components/CSVSoonList';
 import MoviePace from './components/MoviePace';
 
 const App = () => {
@@ -66,6 +67,7 @@ const App = () => {
       <CSVMovieList heading="Kolnoa Kanada" />
       <CSVMovieList heading="Haifa Cinemateque" />
       <CSVMovieList heading="Jaffa Cinema" />
+      <CSVSoonList heading="Coming Soon" />
       {/* <div className="home-header">
         <MovieListHeading heading="Search" />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
