@@ -69,6 +69,7 @@ const App = () => {
       <CSVMovieList heading="Jaffa Cinema" />
       <CSVSoonList heading="Coming Soon" />
       <CSVSoonList heading="Coming Soon" />
+
       {/* <div className="home-header">
         <MovieListHeading heading="Search" />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
@@ -102,6 +103,7 @@ const App = () => {
             favoriteComponent={RemoveFavorites} />
         </div>
       </div> */}
+      
     </>
   );
 }
