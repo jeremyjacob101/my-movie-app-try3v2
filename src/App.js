@@ -55,7 +55,7 @@ const App = () => {
     <>
       <div className="home-header">
         <div className="picnic-border">
-          <MainHeading heading="Picnic" />
+          <MainHeading heading="Kartiseret" />
         </div>
         <div className="movie-pace-holder">
           <MoviePace />
