@@ -66,7 +66,6 @@ const App = () => {
       <CSVMovieList heading="Herziliya Cinemateque" />
       <CSVMovieList heading="Kolnoa Kanada" />
       <CSVMovieList heading="Haifa Cinemateque" />
-      <p>More films on jaffacinema.com, not all shown</p>
       <CSVMovieList heading="Jaffa Cinema" />
       <CSVSoonList heading="Coming Soon" />
 

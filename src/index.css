@@ -69,13 +69,25 @@ h2 {
   height: 250px;
 }
 
-.each-film-icon-1 > .hovering-film-1>a>img {
+.each-film-icon-1 > .hovering-film-1 > a > img {
   width: 175px;
   max-width: 175px;
   min-width: 175px;
   height: 250px;
 }
-.each-film-icon-t>.hovering-film-t>a>img {
+.each-film-icon-1 > .hovering-film-1 > img {
+  width: 175px;
+  max-width: 175px;
+  min-width: 175px;
+  height: 250px;
+}
+.each-film-icon-t > .hovering-film-t > a > img {
+  width: 175px;
+  max-width: 175px;
+  min-width: 175px;
+  height: 250px;
+}
+.each-film-icon-t > .hovering-film-t > img {
   width: 175px;
   max-width: 175px;
   min-width: 175px;
@@ -122,7 +134,7 @@ h2 {
 }
 
 .picnic-border {
-  border: 0px solid rgb(43, 140, 225);
+  border-bottom: 2px solid rgb(43, 140, 225);
   border-radius: 5px;
   margin-left: 20px;
 }
