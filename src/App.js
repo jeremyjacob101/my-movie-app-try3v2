@@ -13,7 +13,7 @@ const App = () => {
           <MainHeading heading="Kartiseret" />
         </div>
         <div className="movie-pace-holder">
-          <MoviePace />
+          {/* <MoviePace /> */}
         </div>
       </div>
       <CSVMovieList heading="Jerusalem Cinemateque" />
