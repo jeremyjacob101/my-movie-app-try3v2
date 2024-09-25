@@ -29,11 +29,6 @@ const CSVMovieList = ({ heading }) => {
                                 const currentMonth = now.getMonth() + 1; // getMonth() returns 0-based month, so we add 1
                                 const currentDay = now.getDate();
 
-                                if (row.title === 'Aliades') {
-                                    console.log("now(-3): ", now)
-                                    console.log("rowDate: ", rowDate)
-                                }
-
                                 if (
                                     (rowMonth < currentMonth) ||
                                     (rowMonth === currentMonth && rowDay < currentDay) ||
