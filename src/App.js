@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import MainHeading from './components/MainHeading';
 import CSVMovieList from './components/CSVMovieList';
 import CSVSoonList from './components/CSVSoonList';
-import MoviePace from './components/MoviePace';
+// import MoviePace from './components/MoviePace';
 
 const App = () => {
   return (
@@ -12,9 +12,9 @@ const App = () => {
         <div className="picnic-border">
           <MainHeading heading="Kartiseret" />
         </div>
-        <div className="movie-pace-holder">
-          {/* <MoviePace /> */}
-        </div>
+        {/* <div className="movie-pace-holder">
+          <MoviePace />
+        </div> */}
       </div>
       <CSVMovieList heading="Jerusalem Cinemateque" />
       <CSVMovieList heading="Tel Aviv Cinemateque" />
