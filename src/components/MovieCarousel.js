@@ -1,55 +1,47 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 
+const showtimes_csv = '/30-09-24-showtimes.csv'
+
+const getFormattedDate = () => {
+    const today = new Date();
+    return `${String(today.getDate()).padStart(2, '0')}/${String(today.getMonth() + 1).padStart(2, '0')}/${today.getFullYear()}`;
+};
+
 const MovieCarousel = () => {
     const [movies, setMovies] = useState([]);
-    const [loading, setLoading] = useState(true);
-
-    // Simulate today's date for now
-    const today = '30/09/2024';
+    const formattedDate = getFormattedDate();
 
     useEffect(() => {
-        // Function to load the CSV data
         const loadMovieData = async () => {
-            try {
-                const response = await fetch('/path-to-your-showtimes.csv');
-                const reader = response.body.getReader();
-                const result = await reader.read();
-                const decoder = new TextDecoder('utf-8');
-                const csvData = decoder.decode(result.value);
+            const showtimes_result = await (await fetch(showtimes_csv)).body.getReader().read();
+            const showtimesData = new TextDecoder('utf-8').decode(showtimes_result.value);
 
-                // Parse CSV data using PapaParse
-                Papa.parse(csvData, {
-                    header: true,
-                    complete: (results) => {
-                        const filteredMovies = results.data.filter((movie) => movie.date === today);
-                        setMovies(filteredMovies);
-                        setLoading(false);
-                    }
-                });
-            } catch (error) {
-                console.error("Error loading movie data:", error);
-                setLoading(false);
-            }
+            Papa.parse(showtimesData, {
+                header: true,
+                dynamicTyping: true,
+                complete: (results) => {
+                    const filteredMovies = results.data.filter((movie) => movie.date === formattedDate);
+                    setMovies(filteredMovies);
+                }
+            });
         };
 
         loadMovieData();
-    }, [today]);
-
-    if (loading) {
-        return <div>Loading movies...</div>;
-    }
+    }, [formattedDate]);
 
     return (
-        <div>
-            <h2>Movies Playing on {today}</h2>
-            <ul>
+        <div className="main-carousel">
+            <div className="carousel-current-date">
+                <h2>Movies Playing on {formattedDate}</h2>
+            </div>
+            <div>
                 {movies.map((movie, index) => (
-                    <li key={index}>
-                        <strong>{movie.title}</strong> - {movie.time} at {movie.cinema} ({movie.snif})
-                    </li>
+                    <div key={index}>
+                        {movie.title} - {movie.time} at {movie.cinema} ({movie.snif})
+                    </div>
                 ))}
-            </ul>
+            </div>
         </div>
     );
 };

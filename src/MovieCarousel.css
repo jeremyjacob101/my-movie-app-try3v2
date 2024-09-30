@@ -1,0 +1,11 @@
+.main-carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+
+.carousel-current-date {
+    align-items: center;
+    justify-content: center;
+}
