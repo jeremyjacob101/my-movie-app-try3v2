@@ -2,11 +2,10 @@ body {
   margin: 0;
   height: 100%;
   background: radial-gradient(circle at 50% -10%, #0D1B2A, #1B263B, #0d241a) no-repeat fixed;
-  background-size: cover; 
-  color: #201e1e;
+  background-size: cover;
+  color: #a9a9a9;
 
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
-  font-weight: 200;
-      /* Make Helvetica Neue thinner */
+  font-weight: 320;
   -webkit-font-smoothing: antialiased;
 }
