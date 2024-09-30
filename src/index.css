@@ -9,3 +9,12 @@ body {
   font-weight: 320;
   -webkit-font-smoothing: antialiased;
 }
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+  align-items:auto;
+}
