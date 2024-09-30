@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 
-const showtimes_csv = '/30-09-24-showtimes.csv'
+const showtimes_csv = "/CSVs/30-09-24-showtimes.csv";
 
 const getFormattedDate = () => {
     const today = new Date();
