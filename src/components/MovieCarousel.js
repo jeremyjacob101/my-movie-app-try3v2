@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Papa from "papaparse";
+import "../MovieCarousel.css";
+
 const showtimes_csv = "/CSVs/30-09-24-showtimes.csv";
 
 const getFormattedDate = () => {
@@ -40,11 +42,11 @@ const MovieCarousel = () => {
   return (
     <div className="main-carousel">
       <div className="carousel-current-date">
-        <h2>Movies Playing on {formattedDate}</h2>
+        Movies Playing on {formattedDate}
       </div>
       <div>
         {movies.map((movie, index) => (
-          <div key={index}>
+          <div className="testing-title-1" key={index}>
             {movie.title} - {movie.time} at {movie.cinema} ({movie.snif})
           </div>
         ))}

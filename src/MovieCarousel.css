@@ -1,12 +1,17 @@
-.main-carousel {
+/* .main-carousel {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 80%;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 2rem;
 }
 
-.carousel-current-date {
-    display: flex;
+.testing-title-1 {
+    font-size: 1.2rem;
+    margin: 0 auto;
     align-items: center;
     justify-content: center;
-}
+    width: 100%;
+} */
