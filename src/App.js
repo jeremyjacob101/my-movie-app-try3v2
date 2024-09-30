@@ -1,5 +1,5 @@
-import React from 'react';
-import MovieCarousel from './components/MovieCarousel';
+import React from "react";
+import MovieCarousel from "./components/MovieCarousel";
 
 const App = () => {
   return (
@@ -7,6 +7,6 @@ const App = () => {
       <MovieCarousel />
     </>
   );
-}
+};
 
 export default App;
