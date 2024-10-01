@@ -12,6 +12,7 @@ const snifs = [
   "Chadera",
   "Kfar Saba",
   "Netanya",
+  "Herziliya"
 ];
 
 const SnifFilter = ({ selectedSnifs, setSelectedSnifs }) => {
