@@ -25,10 +25,12 @@
 }
 
 .each-showtime {
-    display: inline-flex;
-    /* justify-content: space; */
-    width: 100%;
-    margin-bottom: 5px;
+display: inline-flex;
+    /* Use inline-flex to keep the items inline */
+    align-items: center;
+    /* Align items vertically */
+    flex-wrap: wrap;
+    /* Allow wrapping if necessary */
 }
 
 .showtime-time {

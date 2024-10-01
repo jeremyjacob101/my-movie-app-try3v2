@@ -1,0 +1,23 @@
+.cinema-key {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.key-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.key-item .showtime-time {
+    width: 10px;
+    height: 10px;
+    padding: 1px;
+    margin-right: 10px;
+}
+
+.key-item span {
+    font-weight: bold;
+}
