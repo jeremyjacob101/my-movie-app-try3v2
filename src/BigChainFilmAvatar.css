@@ -1,0 +1,62 @@
+.movie-list {
+    padding: 20px;
+}
+
+.movie-block {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: none;
+}
+
+.movie-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.movie-showtimes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.each-showtime {
+    display: inline-flex;
+    /* justify-content: space; */
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.showtime-time {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.yes-planet {
+    background-color: #f5821e;
+    border: 1px solid black;
+    color: black;
+}
+
+.cinema-city {
+    background-color: #0077b6;
+    border: 1px solid #1D1D48;
+    color: black;
+}
+
+.lev-cinema {
+    background-color: #d80019;
+    border: 1px solid black;
+    color: black;
+}
+
+.showtime-cinema {
+    flex: 1;
+    text-align: right;
+    font-style: italic;
+}

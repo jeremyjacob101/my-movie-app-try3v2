@@ -4,7 +4,9 @@ import MovieCarousel from "./components/MovieCarousel";
 const App = () => {
   return (
     <>
-      <MovieCarousel />
+      <div className="main-carousel-holder">
+        <MovieCarousel />
+      </div>
     </>
   );
 };

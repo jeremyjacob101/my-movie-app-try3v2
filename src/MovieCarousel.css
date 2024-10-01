@@ -38,9 +38,3 @@
 .carousel-movie-list-area {
     width: fit-content;
 }
-
-#root {
-    display: flex;
-    flex-direction:column;
-    align-items: center;
-}
