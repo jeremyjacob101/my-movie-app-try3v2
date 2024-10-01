@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "../componentsCSS/SnifFilter.css"; // Optional CSS file for styling
 
 const snifs = [
   "Rishon Letzion",

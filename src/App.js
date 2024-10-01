@@ -1,22 +1,23 @@
 import React, { useState } from "react";
 import MovieCarousel from "./components/MovieCarousel";
 import CinemaColorKey from "./components/CinemaColorKey";
-import SnifFilter from "./components/SnifFilter"; // Import SnifFilter
+import SnifFilter from "./components/SnifFilter";
 
 const App = () => {
-  const [selectedSnifs, setSelectedSnifs] = useState([]); // Track selected snifs
+  const [selectedSnifs, setSelectedSnifs] = useState([]);
 
   return (
     <>
       <div className="main-carousel-holder">
-        <CinemaColorKey />
-        <SnifFilter
-          selectedSnifs={selectedSnifs}
-          setSelectedSnifs={setSelectedSnifs}
-        />{" "}
-        {/* Add SnifFilter */}
+        <div className="pre-carousel">
+          {" "}
+          <CinemaColorKey />
+          <SnifFilter
+            selectedSnifs={selectedSnifs}
+            setSelectedSnifs={setSelectedSnifs}
+          />{" "}
+        </div>
         <MovieCarousel selectedSnifs={selectedSnifs} />{" "}
-        {/* Pass selectedSnifs */}
       </div>
     </>
   );

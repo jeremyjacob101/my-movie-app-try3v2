@@ -26,3 +26,10 @@ h6 {
   flex-direction: column;
   align-items: center;
 }
+
+.pre-carousel {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
