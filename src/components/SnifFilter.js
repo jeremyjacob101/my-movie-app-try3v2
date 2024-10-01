@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "../componentsCSS/SnifFilter.css"; // Optional CSS file for styling
 
 const snifs = [
