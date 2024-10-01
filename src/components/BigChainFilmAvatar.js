@@ -12,11 +12,24 @@ const groupShowtimesByTitle = (movies) => {
       time: movie.time,
       cinema: movie.cinema,
       snif: movie.snif,
-      type: movie.type
+      type: movie.type,
+    });
+  });
+
+  Object.keys(groupedMovies).forEach((title) => {
+    groupedMovies[title].sort((a, b) => {
+      const timeA = parseTime(a.time);
+      const timeB = parseTime(b.time);
+      return timeA - timeB; // Sort in ascending order
     });
   });
 
   return groupedMovies;
+};
+
+const parseTime = (timeString) => {
+  const [hours, minutes] = timeString.split(":").map(Number);
+  return hours * 60 + minutes; // Return time in minutes since midnight
 };
 
 const getCinemaClass = (cinema) => {
@@ -43,14 +56,14 @@ const BigChainFilmAvatar = ({ movies }) => {
           <div className="movie-showtimes">
             {groupedMovies[title].map((showtime, index) => (
               <div className="each-showtime" key={index}>
-                {/* Conditionally apply the cinema class */}
                 <div
                   className={`showtime-time ${getCinemaClass(showtime.cinema)}`}
                 >
                   {showtime.time}
                 </div>
-                <div className="showtime-cinema">({showtime.snif})</div>
-                {/* <div className="showtime-type">({showtime.type})</div> */}
+                {showtime.type !== "Regular" && (
+                  <div className="showtime-cinema">({showtime.type})</div>
+                )}
               </div>
             ))}
           </div>
