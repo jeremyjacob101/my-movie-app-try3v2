@@ -1,52 +1,36 @@
 cinema,date,time,title,snif,type
-Cinema City,01/10/2024,13:45,A World Apart,Rishon Letzion,Regular
-Cinema City,01/10/2024,13:30,A World Apart,Kfar Saba,Regular
 Lev Cinema,01/10/2024,16:10,A World Apart,Tel Aviv,Regular
 Lev Cinema,01/10/2024,21:30,A World Apart,Raanana,Regular
-Cinema City,01/10/2024,15:00,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,01/10/2024,17:20,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,01/10/2024,19:40,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,01/10/2024,15:30,Adios Buenos Aires,Rishon Letzion,Regular
 Cinema City,01/10/2024,18:00,Adios Buenos Aires,Rishon Letzion,Regular
 Cinema City,01/10/2024,20:30,Adios Buenos Aires,Rishon Letzion,Regular
-Cinema City,01/10/2024,15:00,Adios Buenos Aires,Jerusalem,Regular
 Cinema City,01/10/2024,19:40,Adios Buenos Aires,Jerusalem,Regular
 Cinema City,01/10/2024,16:15,Adios Buenos Aires,Kfar Saba,Prime
 Cinema City,01/10/2024,18:40,Adios Buenos Aires,Kfar Saba,Prime
-Cinema City,01/10/2024,15:00,Adios Buenos Aires,Netanya,Prime
 Cinema City,01/10/2024,19:30,Adios Buenos Aires,Netanya,Prime
-Cinema City,01/10/2024,14:30,Adios Buenos Aires,Beer Sheva,Regular
 Cinema City,01/10/2024,19:30,Adios Buenos Aires,Beer Sheva,Regular
-Cinema City,01/10/2024,14:50,Adios Buenos Aires,Chadera,Prime
 Cinema City,01/10/2024,19:20,Adios Buenos Aires,Chadera,Prime
-Cinema City,01/10/2024,14:30,Adios Buenos Aires,Ashdod,Regular
 Cinema City,01/10/2024,17:00,Adios Buenos Aires,Ashdod,Regular
 Cinema City,01/10/2024,19:30,Adios Buenos Aires,Ashdod,Regular
-Yes Planet,01/10/2024,13:10,Adios Buenos Aires,Rishon Letzion,Regular
 Yes Planet,01/10/2024,18:00,Adios Buenos Aires,Rishon Letzion,Regular
 Yes Planet,01/10/2024,20:00,Adios Buenos Aires,Rishon Letzion,Regular
-Yes Planet,01/10/2024,14:00,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,01/10/2024,16:20,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,01/10/2024,18:30,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,01/10/2024,15:00,Adios Buenos Aires,Beer Sheva,Regular
 Yes Planet,01/10/2024,15:45,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,18:00,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,16:20,Adios Buenos Aires,Haifa,Regular
-Yes Planet,01/10/2024,13:10,Adios Buenos Aires,Jerusalem,Regular
-Yes Planet,01/10/2024,14:10,Adios Buenos Aires,Jerusalem,Regular
-Lev Cinema,01/10/2024,15:00,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,01/10/2024,19:10,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,01/10/2024,21:20,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,01/10/2024,15:10,Adios Buenos Aires,Raanana,Regular
-Lev Cinema,01/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
-Lev Cinema,01/10/2024,19:25,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,01/10/2024,15:40,Adios Buenos Aires,Ramat Hasharon,Regular
 Lev Cinema,01/10/2024,16:30,Adios Buenos Aires,Beer Sheva,Regular
 Lev Cinema,01/10/2024,16:30,Adios Buenos Aires,Herziliya,Regular
 Lev Cinema,01/10/2024,17:00,Adios Buenos Aires,Shoham,Regular
+Lev Cinema,01/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
+Lev Cinema,01/10/2024,19:25,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,01/10/2024,17:20,Adios Buenos Aires,Netanya,Regular
-Yes Planet,01/10/2024,21:45,Alien: Romulus,Haifa,Regular
-Yes Planet,01/10/2024,15:00,Autumn and the Black Jaguar,Haifa,Regular
+Lev Cinema,01/10/2024,19:10,Adios Buenos Aires,Tel Aviv,Regular
+Lev Cinema,01/10/2024,21:20,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,01/10/2024,21:50,Bad Boys: Ride or Die,Chadera,Regular
 Yes Planet,01/10/2024,21:30,Bad Boys: Ride or Die,Rishon Letzion,Regular
 Yes Planet,01/10/2024,21:15,Bad Boys: Ride or Die,Tel Aviv,Regular
@@ -57,25 +41,19 @@ Cinema City,01/10/2024,20:00,Bad Genius,Rishon Letzion,Regular
 Cinema City,01/10/2024,21:50,Bad Genius,Kfar Saba,Regular
 Cinema City,01/10/2024,18:50,Bad Genius,Netanya,Regular
 Cinema City,01/10/2024,19:30,Bad Genius,Chadera,Regular
-Cinema City,01/10/2024,14:00,Bad Genius,Ashdod,Regular
 Cinema City,01/10/2024,19:20,Bad Genius,Ashdod,Regular
-Yes Planet,01/10/2024,13:10,Bad Genius,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:40,Bad Genius,Rishon Letzion,Regular
 Yes Planet,01/10/2024,22:20,Bad Genius,Rishon Letzion,Regular
 Yes Planet,01/10/2024,21:45,Bad Genius,Rishon Letzion,VIP
-Yes Planet,01/10/2024,13:20,Bad Genius,Tel Aviv,Regular
 Yes Planet,01/10/2024,19:15,Bad Genius,Tel Aviv,Regular
 Yes Planet,01/10/2024,21:30,Bad Genius,Tel Aviv,Regular
 Yes Planet,01/10/2024,21:40,Bad Genius,Beer Sheva,Regular
-Yes Planet,01/10/2024,13:30,Bad Genius,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,20:00,Bad Genius,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,22:20,Bad Genius,Zichron Yaakov,Regular
-Yes Planet,01/10/2024,13:10,Bad Genius,Haifa,Regular
 Yes Planet,01/10/2024,19:30,Bad Genius,Haifa,Regular
 Yes Planet,01/10/2024,21:45,Bad Genius,Haifa,Regular
 Yes Planet,01/10/2024,19:10,Bad Genius,Jerusalem,Regular
 Yes Planet,01/10/2024,21:30,Bad Genius,Jerusalem,Regular
-Cinema City,01/10/2024,14:30,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Cinema City,01/10/2024,16:50,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Cinema City,01/10/2024,19:15,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Cinema City,01/10/2024,21:40,Beetlejuice Beetlejuice,Tel Aviv,Regular
@@ -88,10 +66,8 @@ Cinema City,01/10/2024,19:10,Beetlejuice Beetlejuice,Kfar Saba,Regular
 Cinema City,01/10/2024,21:40,Beetlejuice Beetlejuice,Kfar Saba,Regular
 Cinema City,01/10/2024,19:30,Beetlejuice Beetlejuice,Netanya,Prime
 Cinema City,01/10/2024,21:50,Beetlejuice Beetlejuice,Netanya,Prime
-Cinema City,01/10/2024,15:00,Beetlejuice Beetlejuice,Beer Sheva,Regular
 Cinema City,01/10/2024,17:30,Beetlejuice Beetlejuice,Beer Sheva,Regular
 Cinema City,01/10/2024,20:00,Beetlejuice Beetlejuice,Beer Sheva,Regular
-Cinema City,01/10/2024,14:10,Beetlejuice Beetlejuice,Chadera,Regular
 Cinema City,01/10/2024,16:50,Beetlejuice Beetlejuice,Chadera,Regular
 Cinema City,01/10/2024,19:10,Beetlejuice Beetlejuice,Chadera,Regular
 Cinema City,01/10/2024,21:40,Beetlejuice Beetlejuice,Chadera,Regular
@@ -102,29 +78,20 @@ Yes Planet,01/10/2024,19:45,Beetlejuice Beetlejuice,Rishon Letzion,Regular
 Yes Planet,01/10/2024,22:00,Beetlejuice Beetlejuice,Rishon Letzion,Regular
 Yes Planet,01/10/2024,18:00,Beetlejuice Beetlejuice,Rishon Letzion,VIP
 Yes Planet,01/10/2024,20:30,Beetlejuice Beetlejuice,Rishon Letzion,VIP
-Yes Planet,01/10/2024,14:20,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Yes Planet,01/10/2024,19:30,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Yes Planet,01/10/2024,22:10,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Yes Planet,01/10/2024,17:10,Beetlejuice Beetlejuice,Beer Sheva,Regular
-Yes Planet,01/10/2024,13:15,Beetlejuice Beetlejuice,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,17:45,Beetlejuice Beetlejuice,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,20:00,Beetlejuice Beetlejuice,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,22:15,Beetlejuice Beetlejuice,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,18:00,Beetlejuice Beetlejuice,Zichron Yaakov,VIP
 Yes Planet,01/10/2024,19:20,Beetlejuice Beetlejuice,Haifa,Regular
 Yes Planet,01/10/2024,22:00,Beetlejuice Beetlejuice,Haifa,VIP
-Yes Planet,01/10/2024,13:30,Beetlejuice Beetlejuice,Jerusalem,Regular
-Yes Planet,01/10/2024,14:40,Beetlejuice Beetlejuice,Jerusalem,Regular
 Yes Planet,01/10/2024,21:50,Beetlejuice Beetlejuice,Jerusalem,Regular
 Cinema City,01/10/2024,22:00,Blink Twice,Tel Aviv,Regular
 Cinema City,01/10/2024,22:10,Blink Twice,Rishon Letzion,Regular
 Cinema City,01/10/2024,22:10,Blink Twice,Beer Sheva,Regular
 Cinema City,01/10/2024,21:50,Blink Twice,Ashdod,Regular
-Yes Planet,01/10/2024,19:20,Blink Twice,Rishon Letzion,Regular
-Yes Planet,01/10/2024,21:50,Blink Twice,Beer Sheva,Regular
-Yes Planet,01/10/2024,21:30,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,01/10/2024,18:45,Blink Twice,Haifa,Regular
-Yes Planet,01/10/2024,21:20,Blink Twice,Haifa,Regular
 Yes Planet,01/10/2024,16:30,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:00,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,01/10/2024,21:30,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
@@ -144,64 +111,27 @@ Yes Planet,01/10/2024,22:00,Borderlands,Haifa,Regular
 Yes Planet,01/10/2024,20:10,Breathe,Jerusalem,Regular
 Cinema City,01/10/2024,21:30,Cash Out,Rishon Letzion,Regular
 Cinema City,01/10/2024,18:10,Cash Out,Beer Sheva,Regular
-Cinema City,01/10/2024,14:20,Cash Out,Ashdod,Regular
 Cinema City,01/10/2024,19:30,Cash Out,Ashdod,Regular
-Cinema City,01/10/2024,14:10,Come Closer,Tel Aviv,Regular
 Cinema City,01/10/2024,16:40,Come Closer,Tel Aviv,Regular
 Cinema City,01/10/2024,18:20,Come Closer,Tel Aviv,Regular
 Cinema City,01/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,01/10/2024,20:30,Come Closer,Tel Aviv,Regular
 Cinema City,01/10/2024,21:40,Come Closer,Tel Aviv,Regular
-Cinema City,01/10/2024,13:50,Come Closer,Rishon Letzion,Regular
-Cinema City,01/10/2024,16:30,Come Closer,Rishon Letzion,Regular
-Cinema City,01/10/2024,19:10,Come Closer,Rishon Letzion,Regular
-Cinema City,01/10/2024,20:30,Come Closer,Rishon Letzion,Regular
-Cinema City,01/10/2024,21:50,Come Closer,Rishon Letzion,Regular
-Cinema City,01/10/2024,13:20,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,14:30,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,15:40,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,16:50,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,18:00,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,19:10,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,20:20,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,21:30,Come Closer,Jerusalem,Regular
-Cinema City,01/10/2024,14:10,Come Closer,Kfar Saba,Regular
-Cinema City,01/10/2024,16:40,Come Closer,Kfar Saba,Regular
-Cinema City,01/10/2024,19:10,Come Closer,Kfar Saba,Regular
-Cinema City,01/10/2024,21:40,Come Closer,Kfar Saba,Regular
-Cinema City,01/10/2024,19:20,Come Closer,Netanya,Regular
-Cinema City,01/10/2024,20:00,Come Closer,Netanya,Regular
-Cinema City,01/10/2024,22:00,Come Closer,Netanya,Regular
-Cinema City,01/10/2024,13:40,Come Closer,Beer Sheva,Regular
-Cinema City,01/10/2024,16:30,Come Closer,Beer Sheva,Regular
-Cinema City,01/10/2024,19:00,Come Closer,Beer Sheva,Regular
-Cinema City,01/10/2024,21:00,Come Closer,Beer Sheva,Regular
-Cinema City,01/10/2024,21:40,Come Closer,Beer Sheva,Regular
-Cinema City,01/10/2024,14:00,Come Closer,Chadera,Regular
-Cinema City,01/10/2024,16:30,Come Closer,Chadera,Regular
-Cinema City,01/10/2024,19:00,Come Closer,Chadera,Regular
-Cinema City,01/10/2024,21:30,Come Closer,Chadera,Regular
-Cinema City,01/10/2024,14:30,Come Closer,Ashdod,Regular
-Cinema City,01/10/2024,15:30,Come Closer,Ashdod,Regular
-Cinema City,01/10/2024,17:00,Come Closer,Ashdod,Regular
-Cinema City,01/10/2024,18:00,Come Closer,Ashdod,Regular
-Cinema City,01/10/2024,19:30,Come Closer,Ashdod,Regular
-Cinema City,01/10/2024,20:30,Come Closer,Ashdod,Regular
-Cinema City,01/10/2024,21:40,Come Closer,Ashdod,Regular
-Yes Planet,01/10/2024,14:20,Come Closer,Rishon Letzion,Regular
+Cinema City,01/10/2024,16:40,Come Closer,Tel Aviv,4DX
+Cinema City,01/10/2024,18:20,Come Closer,Tel Aviv,4DX
+Cinema City,01/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,01/10/2024,20:30,Come Closer,Tel Aviv,4DX
+Cinema City,01/10/2024,21:40,Come Closer,Tel Aviv,4DX
 Yes Planet,01/10/2024,16:45,Come Closer,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:00,Come Closer,Rishon Letzion,Regular
 Yes Planet,01/10/2024,21:40,Come Closer,Rishon Letzion,Regular
-Yes Planet,01/10/2024,14:00,Come Closer,Tel Aviv,Regular
 Yes Planet,01/10/2024,16:30,Come Closer,Tel Aviv,Regular
 Yes Planet,01/10/2024,19:50,Come Closer,Tel Aviv,Regular
 Yes Planet,01/10/2024,22:15,Come Closer,Tel Aviv,Regular
-Yes Planet,01/10/2024,14:00,Come Closer,Beer Sheva,Regular
 Yes Planet,01/10/2024,16:30,Come Closer,Beer Sheva,Regular
 Yes Planet,01/10/2024,19:00,Come Closer,Beer Sheva,Regular
 Yes Planet,01/10/2024,21:30,Come Closer,Beer Sheva,Regular
 Yes Planet,01/10/2024,20:00,Come Closer,Beer Sheva,VIP
-Yes Planet,01/10/2024,14:10,Come Closer,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,16:30,Come Closer,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,19:00,Come Closer,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,21:20,Come Closer,Zichron Yaakov,Regular
@@ -209,39 +139,29 @@ Yes Planet,01/10/2024,21:45,Come Closer,Zichron Yaakov,VIP
 Yes Planet,01/10/2024,16:45,Come Closer,Haifa,Regular
 Yes Planet,01/10/2024,19:20,Come Closer,Haifa,Regular
 Yes Planet,01/10/2024,21:45,Come Closer,Haifa,Regular
-Yes Planet,01/10/2024,13:40,Come Closer,Jerusalem,Regular
 Yes Planet,01/10/2024,16:00,Come Closer,Jerusalem,Regular
 Yes Planet,01/10/2024,18:30,Come Closer,Jerusalem,Regular
 Yes Planet,01/10/2024,21:00,Come Closer,Jerusalem,Regular
-Lev Cinema,01/10/2024,13:45,Come Closer,Netanya,Regular
-Lev Cinema,01/10/2024,15:10,Come Closer,Netanya,Regular
-Lev Cinema,01/10/2024,18:10,Come Closer,Netanya,Regular
-Lev Cinema,01/10/2024,20:40,Come Closer,Netanya,Regular
-Lev Cinema,01/10/2024,13:50,Come Closer,Tel Aviv,Regular
-Lev Cinema,01/10/2024,16:30,Come Closer,Tel Aviv,Regular
-Lev Cinema,01/10/2024,19:00,Come Closer,Tel Aviv,Regular
-Lev Cinema,01/10/2024,21:40,Come Closer,Tel Aviv,Regular
-Lev Cinema,01/10/2024,15:00,Come Closer,Raanana,Regular
 Lev Cinema,01/10/2024,16:20,Come Closer,Raanana,Regular
 Lev Cinema,01/10/2024,19:20,Come Closer,Raanana,Regular
 Lev Cinema,01/10/2024,21:40,Come Closer,Raanana,Regular
+Lev Cinema,01/10/2024,16:30,Come Closer,Tel Aviv,Regular
+Lev Cinema,01/10/2024,19:00,Come Closer,Tel Aviv,Regular
+Lev Cinema,01/10/2024,21:40,Come Closer,Tel Aviv,Regular
+Lev Cinema,01/10/2024,18:10,Come Closer,Netanya,Regular
+Lev Cinema,01/10/2024,20:40,Come Closer,Netanya,Regular
 Lev Cinema,01/10/2024,19:20,Come Closer,Shoham,Regular
 Lev Cinema,01/10/2024,20:30,Come Closer,Jerusalem,Regular
 Lev Cinema,01/10/2024,20:50,Come Closer,Beer Sheva,Regular
 Cinema City,01/10/2024,19:30,Daddio,Tel Aviv,Regular
-Cinema City,01/10/2024,13:50,Daddio,Rishon Letzion,Regular
-Cinema City,01/10/2024,13:50,Daddio,Beer Sheva,Regular
-Cinema City,01/10/2024,14:25,Daddio,Ashdod,Regular
 Yes Planet,01/10/2024,22:00,Daddio,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:30,Daddio,Tel Aviv,Regular
 Yes Planet,01/10/2024,16:45,Daddio,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,22:30,Daddio,Zichron Yaakov,Regular
-Yes Planet,01/10/2024,14:20,Daddio,Haifa,Regular
-Yes Planet,01/10/2024,14:10,Deadpool and Wolverine (2024),Rishon Letzion,Regular
-Yes Planet,01/10/2024,19:10,Deadpool and Wolverine (2024),Rishon Letzion,Regular
-Yes Planet,01/10/2024,21:15,Deadpool and Wolverine (2024),Rishon Letzion,Regular
 Yes Planet,01/10/2024,17:30,Deadpool and Wolverine (2024),Rishon Letzion,VIP
 Yes Planet,01/10/2024,19:00,Deadpool and Wolverine (2024),Rishon Letzion,VIP
+Yes Planet,01/10/2024,19:10,Deadpool and Wolverine (2024),Rishon Letzion,Regular
+Yes Planet,01/10/2024,21:15,Deadpool and Wolverine (2024),Rishon Letzion,Regular
 Yes Planet,01/10/2024,21:40,Deadpool and Wolverine (2024),Tel Aviv,Regular
 Yes Planet,01/10/2024,21:00,Deadpool and Wolverine (2024),Beer Sheva,Regular
 Yes Planet,01/10/2024,21:30,Deadpool and Wolverine (2024),Zichron Yaakov,Regular
@@ -251,17 +171,16 @@ Yes Planet,01/10/2024,17:30,Deadpool and Wolverine (2024),Haifa,VIP
 Yes Planet,01/10/2024,17:30,Deadpool and Wolverine (2024),Jerusalem,Regular
 Yes Planet,01/10/2024,19:30,Deadpool and Wolverine (2024),Jerusalem,Regular
 Cinema City,01/10/2024,16:45,Despicable Me 4,Rishon Letzion,Regular
+Yes Planet,01/10/2024,19:15,Fish also drown,Rishon Letzion,Regular
+Yes Planet,01/10/2024,20:10,Fish also drown,Haifa,Regular
 Yes Planet,01/10/2024,19:30,Inside Out 2,Tel Aviv,Regular
 Yes Planet,01/10/2024,18:10,Inside Out 2,Haifa,Regular
 Yes Planet,01/10/2024,16:45,Inside Out 2,Jerusalem,Regular
-Cinema City,01/10/2024,13:40,It Ends with Us,Tel Aviv,Regular
 Cinema City,01/10/2024,16:30,It Ends with Us,Tel Aviv,Regular
 Cinema City,01/10/2024,18:45,It Ends with Us,Tel Aviv,Regular
 Cinema City,01/10/2024,20:10,It Ends with Us,Tel Aviv,Regular
 Cinema City,01/10/2024,21:40,It Ends with Us,Tel Aviv,Regular
-Cinema City,01/10/2024,13:30,It Ends with Us,Rishon Letzion,Regular
 Cinema City,01/10/2024,20:00,It Ends with Us,Rishon Letzion,Regular
-Cinema City,01/10/2024,14:30,It Ends with Us,Jerusalem,Regular
 Cinema City,01/10/2024,19:10,It Ends with Us,Jerusalem,Regular
 Cinema City,01/10/2024,22:00,It Ends with Us,Jerusalem,Regular
 Cinema City,01/10/2024,20:30,It Ends with Us,Jerusalem,VIP
@@ -269,9 +188,9 @@ Cinema City,01/10/2024,21:20,It Ends with Us,Kfar Saba,Prime
 Cinema City,01/10/2024,16:00,It Ends with Us,Netanya,Regular
 Cinema City,01/10/2024,19:00,It Ends with Us,Netanya,Regular
 Cinema City,01/10/2024,21:10,It Ends with Us,Netanya,Regular
-Cinema City,01/10/2024,13:20,It Ends with Us,Beer Sheva,Regular
-Cinema City,01/10/2024,18:50,It Ends with Us,Beer Sheva,Regular
-Cinema City,01/10/2024,21:40,It Ends with Us,Beer Sheva,Regular
+Cinema City,01/10/2024,16:00,It Ends with Us,Beer Sheva,Regular
+Cinema City,01/10/2024,19:00,It Ends with Us,Beer Sheva,Regular
+Cinema City,01/10/2024,21:10,It Ends with Us,Beer Sheva,Regular
 Cinema City,01/10/2024,19:00,It Ends with Us,Chadera,Regular
 Cinema City,01/10/2024,21:50,It Ends with Us,Chadera,Regular
 Cinema City,01/10/2024,15:20,It Ends with Us,Ashdod,Regular
@@ -292,64 +211,50 @@ Yes Planet,01/10/2024,21:45,It Ends with Us,Haifa,Regular
 Yes Planet,01/10/2024,16:45,It Ends with Us,Jerusalem,Regular
 Yes Planet,01/10/2024,21:30,It Ends with Us,Jerusalem,Regular
 Yes Planet,01/10/2024,22:15,Longlegs,Haifa,Regular
-Cinema City,01/10/2024,14:00,Megalopolis,Tel Aviv,Regular
 Cinema City,01/10/2024,17:20,Megalopolis,Tel Aviv,Regular
 Cinema City,01/10/2024,20:40,Megalopolis,Tel Aviv,Regular
 Cinema City,01/10/2024,15:20,Megalopolis,Rishon Letzion,Regular
 Cinema City,01/10/2024,18:30,Megalopolis,Rishon Letzion,Regular
-Cinema City,01/10/2024,14:30,Megalopolis,Jerusalem,Regular
 Cinema City,01/10/2024,17:30,Megalopolis,Jerusalem,Regular
 Cinema City,01/10/2024,20:30,Megalopolis,Jerusalem,Regular
-Cinema City,01/10/2024,15:00,Megalopolis,Kfar Saba,Regular
 Cinema City,01/10/2024,18:20,Megalopolis,Kfar Saba,Regular
 Cinema City,01/10/2024,21:00,Megalopolis,Kfar Saba,Regular
-Cinema City,01/10/2024,13:10,Megalopolis,Chadera,Regular
 Cinema City,01/10/2024,16:20,Megalopolis,Chadera,Regular
 Cinema City,01/10/2024,19:20,Megalopolis,Chadera,Regular
-Yes Planet,01/10/2024,14:15,Megalopolis,Rishon Letzion,Regular
-Yes Planet,01/10/2024,17:15,Megalopolis,Rishon Letzion,Regular
-Yes Planet,01/10/2024,20:15,Megalopolis,Rishon Letzion,Regular
 Yes Planet,01/10/2024,15:00,Megalopolis,Rishon Letzion,IMAX
 Yes Planet,01/10/2024,18:00,Megalopolis,Rishon Letzion,IMAX
 Yes Planet,01/10/2024,21:00,Megalopolis,Rishon Letzion,IMAX
-Yes Planet,01/10/2024,14:35,Megalopolis,Tel Aviv,Regular
+Yes Planet,01/10/2024,17:15,Megalopolis,Rishon Letzion,Regular
+Yes Planet,01/10/2024,20:15,Megalopolis,Rishon Letzion,Regular
 Yes Planet,01/10/2024,17:40,Megalopolis,Tel Aviv,Regular
 Yes Planet,01/10/2024,21:00,Megalopolis,Tel Aviv,Regular
-Yes Planet,01/10/2024,14:00,Megalopolis,Beer Sheva,Regular
-Yes Planet,01/10/2024,17:00,Megalopolis,Beer Sheva,Regular
-Yes Planet,01/10/2024,20:00,Megalopolis,Beer Sheva,Regular
 Yes Planet,01/10/2024,15:00,Megalopolis,Beer Sheva,IMAX
 Yes Planet,01/10/2024,18:00,Megalopolis,Beer Sheva,IMAX
 Yes Planet,01/10/2024,21:00,Megalopolis,Beer Sheva,IMAX
+Yes Planet,01/10/2024,17:00,Megalopolis,Beer Sheva,Regular
+Yes Planet,01/10/2024,20:00,Megalopolis,Beer Sheva,Regular
 Yes Planet,01/10/2024,18:30,Megalopolis,Beer Sheva,VIP
-Yes Planet,01/10/2024,14:00,Megalopolis,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,16:45,Megalopolis,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,19:30,Megalopolis,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,22:00,Megalopolis,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,20:20,Megalopolis,Zichron Yaakov,VIP
-Yes Planet,01/10/2024,14:00,Megalopolis,Haifa,Regular
 Yes Planet,01/10/2024,16:50,Megalopolis,Haifa,Regular
 Yes Planet,01/10/2024,19:45,Megalopolis,Haifa,Regular
 Yes Planet,01/10/2024,21:30,Megalopolis,Haifa,Regular
-Yes Planet,01/10/2024,14:00,Megalopolis,Jerusalem,IMAX
-Yes Planet,01/10/2024,17:00,Megalopolis,Jerusalem,IMAX
-Yes Planet,01/10/2024,20:00,Megalopolis,Jerusalem,IMAX
 Yes Planet,01/10/2024,15:00,Megalopolis,Jerusalem,Regular
 Yes Planet,01/10/2024,18:00,Megalopolis,Jerusalem,Regular
 Yes Planet,01/10/2024,21:00,Megalopolis,Jerusalem,Regular
-Lev Cinema,01/10/2024,13:40,Megalopolis,Raanana,Regular
-Lev Cinema,01/10/2024,16:30,Megalopolis,Raanana,Regular
-Lev Cinema,01/10/2024,21:00,Megalopolis,Raanana,Regular
+Yes Planet,01/10/2024,17:00,Megalopolis,Jerusalem,IMAX
+Yes Planet,01/10/2024,20:00,Megalopolis,Jerusalem,IMAX
 Lev Cinema,01/10/2024,16:10,Megalopolis,Tel Aviv,Regular
 Lev Cinema,01/10/2024,18:50,Megalopolis,Tel Aviv,Regular
 Lev Cinema,01/10/2024,21:20,Megalopolis,Tel Aviv,Regular
+Lev Cinema,01/10/2024,16:30,Megalopolis,Raanana,Regular
+Lev Cinema,01/10/2024,21:00,Megalopolis,Raanana,Regular
 Lev Cinema,01/10/2024,19:00,Megalopolis,Shoham,Regular
 Lev Cinema,01/10/2024,20:00,Megalopolis,Ramat Hasharon,Regular
 Lev Cinema,01/10/2024,20:30,Megalopolis,Netanya,Regular
-Cinema City,01/10/2024,13:30,Monster,Kfar Saba,Regular
 Yes Planet,01/10/2024,20:45,Monster,Tel Aviv,Regular
-Yes Planet,01/10/2024,14:20,Monster,Beer Sheva,Regular
-Yes Planet,01/10/2024,14:10,Monster,Haifa,Regular
 Yes Planet,01/10/2024,15:10,Monster,Jerusalem,Regular
 Lev Cinema,01/10/2024,15:30,Monster,Jerusalem,Regular
 Lev Cinema,01/10/2024,18:30,Monster,Tel Aviv,Regular
@@ -369,11 +274,9 @@ Cinema City,01/10/2024,22:20,Nefarious,Netanya,Regular
 Cinema City,01/10/2024,22:30,Nefarious,Beer Sheva,Regular
 Cinema City,01/10/2024,21:30,Nefarious,Chadera,Regular
 Cinema City,01/10/2024,21:50,Nefarious,Ashdod,Regular
-Yes Planet,01/10/2024,13:15,Nefarious,Rishon Letzion,Regular
 Yes Planet,01/10/2024,17:40,Nefarious,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:45,Nefarious,Rishon Letzion,Regular
 Yes Planet,01/10/2024,21:50,Nefarious,Rishon Letzion,Regular
-Yes Planet,01/10/2024,13:10,Nefarious,Tel Aviv,Regular
 Yes Planet,01/10/2024,17:10,Nefarious,Tel Aviv,Regular
 Yes Planet,01/10/2024,19:30,Nefarious,Tel Aviv,Regular
 Yes Planet,01/10/2024,22:00,Nefarious,Tel Aviv,Regular
@@ -386,11 +289,8 @@ Yes Planet,01/10/2024,21:30,Nefarious,Haifa,Regular
 Yes Planet,01/10/2024,17:20,Nefarious,Jerusalem,Regular
 Yes Planet,01/10/2024,19:30,Nefarious,Jerusalem,Regular
 Yes Planet,01/10/2024,21:45,Nefarious,Jerusalem,Regular
-Yes Planet,01/10/2024,13:15,Never Let Go,Rishon Letzion,Regular
-Yes Planet,01/10/2024,14:00,Never Let Go,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:50,Never Let Go,Rishon Letzion,Regular
 Yes Planet,01/10/2024,22:00,Never Let Go,Rishon Letzion,Regular
-Yes Planet,01/10/2024,14:15,Never Let Go,Beer Sheva,Regular
 Yes Planet,01/10/2024,22:15,Never Let Go,Beer Sheva,Regular
 Yes Planet,01/10/2024,22:20,Never Let Go,Beer Sheva,VIP
 Yes Planet,01/10/2024,19:50,Never Let Go,Zichron Yaakov,Regular
@@ -408,19 +308,19 @@ Cinema City,01/10/2024,21:40,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,01/10/2024,15:30,Sleeping Dogs,Rishon Letzion,Regular
 Cinema City,01/10/2024,19:20,Sleeping Dogs,Rishon Letzion,Regular
 Cinema City,01/10/2024,22:00,Sleeping Dogs,Rishon Letzion,Regular
-Cinema City,01/10/2024,20:30,Sleeping Dogs,Jerusalem,Regular
+Cinema City,01/10/2024,15:30,Sleeping Dogs,Jerusalem,Regular
+Cinema City,01/10/2024,19:20,Sleeping Dogs,Jerusalem,Regular
+Cinema City,01/10/2024,22:00,Sleeping Dogs,Jerusalem,Regular
 Cinema City,01/10/2024,19:00,Sleeping Dogs,Kfar Saba,Regular
 Cinema City,01/10/2024,21:50,Sleeping Dogs,Kfar Saba,Regular
 Cinema City,01/10/2024,19:20,Sleeping Dogs,Netanya,Regular
 Cinema City,01/10/2024,21:50,Sleeping Dogs,Netanya,Regular
-Cinema City,01/10/2024,13:30,Sleeping Dogs,Beer Sheva,Regular
 Cinema City,01/10/2024,20:30,Sleeping Dogs,Beer Sheva,Regular
 Cinema City,01/10/2024,21:30,Sleeping Dogs,Beer Sheva,Regular
 Cinema City,01/10/2024,19:20,Sleeping Dogs,Chadera,Regular
 Cinema City,01/10/2024,21:50,Sleeping Dogs,Chadera,Regular
 Cinema City,01/10/2024,19:10,Sleeping Dogs,Ashdod,Regular
 Cinema City,01/10/2024,21:50,Sleeping Dogs,Ashdod,Regular
-Yes Planet,01/10/2024,13:15,Sleeping Dogs,Rishon Letzion,Regular
 Yes Planet,01/10/2024,20:00,Sleeping Dogs,Rishon Letzion,Regular
 Yes Planet,01/10/2024,22:15,Sleeping Dogs,Rishon Letzion,Regular
 Yes Planet,01/10/2024,16:40,Sleeping Dogs,Tel Aviv,Regular
@@ -429,7 +329,6 @@ Yes Planet,01/10/2024,21:45,Sleeping Dogs,Tel Aviv,Regular
 Yes Planet,01/10/2024,16:30,Sleeping Dogs,Beer Sheva,Regular
 Yes Planet,01/10/2024,21:40,Sleeping Dogs,Beer Sheva,Regular
 Yes Planet,01/10/2024,17:30,Sleeping Dogs,Beer Sheva,VIP
-Yes Planet,01/10/2024,14:00,Sleeping Dogs,Haifa,Regular
 Yes Planet,01/10/2024,16:50,Sleeping Dogs,Haifa,Regular
 Yes Planet,01/10/2024,19:10,Sleeping Dogs,Haifa,Regular
 Yes Planet,01/10/2024,19:20,Sleeping Dogs,Jerusalem,Regular
@@ -464,16 +363,13 @@ Cinema City,01/10/2024,22:00,Strange Darling,Tel Aviv,Regular
 Cinema City,01/10/2024,21:45,Strange Darling,Rishon Letzion,Regular
 Cinema City,01/10/2024,21:30,Strange Darling,Netanya,Regular
 Yes Planet,01/10/2024,18:00,Strange Darling,Jerusalem,Regular
-Yes Planet,01/10/2024,13:20,Take a Chance on Me,Tel Aviv,Regular
 Yes Planet,01/10/2024,17:20,Take a Chance on Me,Tel Aviv,Regular
 Yes Planet,01/10/2024,15:10,Take a Chance on Me,Jerusalem,Regular
 Lev Cinema,01/10/2024,17:00,Take a Chance on Me,Tel Aviv,Regular
 Lev Cinema,01/10/2024,19:15,Take a Chance on Me,Tel Aviv,Regular
 Cinema City,01/10/2024,21:50,The Crow,Rishon Letzion,Regular
 Cinema City,01/10/2024,19:15,The Crow,Ashdod,Regular
-Yes Planet,01/10/2024,14:00,The Crow,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:00,The Crow,Beer Sheva,Regular
-Yes Planet,01/10/2024,13:30,The Crow,Haifa,Regular
 Yes Planet,01/10/2024,15:50,The Crow,Haifa,Regular
 Yes Planet,01/10/2024,17:15,The Engineer,Rishon Letzion,Regular
 Yes Planet,01/10/2024,19:15,The Engineer,Rishon Letzion,Regular
@@ -485,17 +381,23 @@ Yes Planet,01/10/2024,22:30,The Engineer,Haifa,VIP
 Yes Planet,01/10/2024,21:10,The Engineer,Haifa,Regular
 Yes Planet,01/10/2024,20:15,The Engineer,Jerusalem,Regular
 Yes Planet,01/10/2024,22:20,The Engineer,Jerusalem,Regular
-Cinema City,01/10/2024,13:20,The Monk and the Gun,Rishon Letzion,Regular
-Lev Cinema,01/10/2024,14:40,The Monk and the Gun,Tel Aviv,Regular
-Cinema City,01/10/2024,13:45,The Second Act,Tel Aviv,Regular
+Yes Planet,01/10/2024,16:00,The Lord of the Rings: The Fellowship of the Ring,Beer Sheva,Regular
+Cinema City,01/10/2024,20:30,The Lord of the Rings: The Return of the King,Tel Aviv,Regular
+Cinema City,01/10/2024,20:30,The Lord of the Rings: The Return of the King,Tel Aviv,4DX
+Cinema City,01/10/2024,20:50,The Lord of the Rings: The Return of the King,Jerusalem,Regular
+Yes Planet,01/10/2024,18:40,The Lord of the Rings: The Return of the King,Zichron Yaakov,Regular
+Cinema City,01/10/2024,16:30,The Lord of the Rings: The Two Towers,Tel Aviv,Regular
+Cinema City,01/10/2024,16:30,The Lord of the Rings: The Two Towers,Tel Aviv,4DX
+Cinema City,01/10/2024,17:10,The Lord of the Rings: The Two Towers,Jerusalem,Regular
+Yes Planet,01/10/2024,20:30,The Lord of the Rings: The Two Towers,Beer Sheva,Regular
+Yes Planet,01/10/2024,15:15,The Lord of the Rings: The Two Towers,Zichron Yaakov,Regular
+Yes Planet,01/10/2024,15:45,The Lord of the Rings: The Two Towers,Jerusalem,Regular
 Cinema City,01/10/2024,16:30,The Second Act,Tel Aviv,Regular
 Cinema City,01/10/2024,19:15,The Second Act,Tel Aviv,Regular
-Cinema City,01/10/2024,13:40,The Second Act,Rishon Letzion,Regular
 Cinema City,01/10/2024,19:00,The Second Act,Rishon Letzion,Regular
 Cinema City,01/10/2024,19:00,The Second Act,Jerusalem,Regular
 Cinema City,01/10/2024,16:00,The Second Act,Kfar Saba,Prime
 Cinema City,01/10/2024,19:00,The Second Act,Kfar Saba,Prime
-Cinema City,01/10/2024,13:10,The Second Act,Chadera,Regular
 Cinema City,01/10/2024,16:00,The Second Act,Chadera,Regular
 Cinema City,01/10/2024,18:40,The Second Act,Chadera,Regular
 Yes Planet,01/10/2024,17:00,The Second Act,Rishon Letzion,Regular
@@ -513,57 +415,46 @@ Yes Planet,01/10/2024,22:00,The Second Act,Haifa,Regular
 Yes Planet,01/10/2024,17:20,The Second Act,Jerusalem,Regular
 Yes Planet,01/10/2024,19:40,The Second Act,Jerusalem,Regular
 Yes Planet,01/10/2024,22:00,The Second Act,Jerusalem,Regular
-Lev Cinema,01/10/2024,13:50,The Second Act,Tel Aviv,Regular
-Lev Cinema,01/10/2024,16:20,The Second Act,Tel Aviv,Regular
-Lev Cinema,01/10/2024,18:50,The Second Act,Tel Aviv,Regular
 Lev Cinema,01/10/2024,16:00,The Second Act,Raanana,Regular
 Lev Cinema,01/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,01/10/2024,16:00,The Second Act,Netanya,Regular
 Lev Cinema,01/10/2024,18:20,The Second Act,Netanya,Regular
+Lev Cinema,01/10/2024,16:20,The Second Act,Tel Aviv,Regular
+Lev Cinema,01/10/2024,18:50,The Second Act,Tel Aviv,Regular
 Lev Cinema,01/10/2024,17:00,The Second Act,Shoham,Regular
 Lev Cinema,01/10/2024,17:40,The Second Act,Ramat Hasharon,Regular
 Lev Cinema,01/10/2024,18:10,The Second Act,Jerusalem,Regular
 Lev Cinema,01/10/2024,18:30,The Second Act,Beer Sheva,Regular
 Lev Cinema,01/10/2024,18:30,The Second Act,Herziliya,Regular
-Cinema City,01/10/2024,13:30,The Teachers' Lounge,Tel Aviv,Regular
 Cinema City,01/10/2024,15:45,The Teachers' Lounge,Tel Aviv,Regular
 Cinema City,01/10/2024,18:15,The Teachers' Lounge,Tel Aviv,Regular
 Cinema City,01/10/2024,20:30,The Teachers' Lounge,Tel Aviv,Regular
-Cinema City,01/10/2024,13:10,The Teachers' Lounge,Rishon Letzion,Regular
 Cinema City,01/10/2024,15:50,The Teachers' Lounge,Rishon Letzion,Regular
 Cinema City,01/10/2024,19:20,The Teachers' Lounge,Kfar Saba,Regular
-Cinema City,01/10/2024,13:30,The Teachers' Lounge,Kfar Saba,Prime
 Yes Planet,01/10/2024,17:00,The Teachers' Lounge,Rishon Letzion,Regular
 Yes Planet,01/10/2024,16:30,The Teachers' Lounge,Tel Aviv,Regular
 Yes Planet,01/10/2024,19:15,The Teachers' Lounge,Tel Aviv,Regular
 Yes Planet,01/10/2024,19:45,The Teachers' Lounge,Haifa,Regular
-Cinema City,01/10/2024,13:45,The Wild Robot,Tel Aviv,Regular
 Cinema City,01/10/2024,16:05,The Wild Robot,Tel Aviv,Regular
 Cinema City,01/10/2024,18:45,The Wild Robot,Tel Aviv,Regular
 Cinema City,01/10/2024,21:20,The Wild Robot,Tel Aviv,Regular
-Cinema City,01/10/2024,14:00,The Wild Robot,Rishon Letzion,Regular
 Cinema City,01/10/2024,18:30,The Wild Robot,Rishon Letzion,Regular
 Cinema City,01/10/2024,21:20,The Wild Robot,Rishon Letzion,Regular
-Cinema City,01/10/2024,14:15,The Wild Robot,Jerusalem,Regular
 Cinema City,01/10/2024,16:10,The Wild Robot,Jerusalem,Regular
 Cinema City,01/10/2024,18:45,The Wild Robot,Jerusalem,Regular
 Cinema City,01/10/2024,21:20,The Wild Robot,Jerusalem,Regular
 Cinema City,01/10/2024,16:30,The Wild Robot,Kfar Saba,Regular
 Cinema City,01/10/2024,18:20,The Wild Robot,Kfar Saba,Regular
 Cinema City,01/10/2024,21:00,The Wild Robot,Kfar Saba,Regular
-Cinema City,01/10/2024,14:20,The Wild Robot,Netanya,Regular
 Cinema City,01/10/2024,16:30,The Wild Robot,Netanya,Regular
 Cinema City,01/10/2024,19:00,The Wild Robot,Netanya,Regular
 Cinema City,01/10/2024,21:30,The Wild Robot,Netanya,Regular
-Cinema City,01/10/2024,13:10,The Wild Robot,Beer Sheva,Regular
 Cinema City,01/10/2024,16:00,The Wild Robot,Beer Sheva,Regular
 Cinema City,01/10/2024,18:40,The Wild Robot,Beer Sheva,Regular
 Cinema City,01/10/2024,21:20,The Wild Robot,Beer Sheva,Regular
-Cinema City,01/10/2024,14:00,The Wild Robot,Chadera,Regular
 Cinema City,01/10/2024,16:30,The Wild Robot,Chadera,Regular
 Cinema City,01/10/2024,19:00,The Wild Robot,Chadera,Regular
 Cinema City,01/10/2024,21:30,The Wild Robot,Chadera,Regular
-Cinema City,01/10/2024,14:15,The Wild Robot,Ashdod,Regular
 Cinema City,01/10/2024,15:45,The Wild Robot,Ashdod,Regular
 Cinema City,01/10/2024,18:30,The Wild Robot,Ashdod,Regular
 Cinema City,01/10/2024,21:15,The Wild Robot,Ashdod,Regular
@@ -593,7 +484,6 @@ Yes Planet,01/10/2024,19:45,The Wild Robot,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,22:00,The Wild Robot,Zichron Yaakov,Regular
 Yes Planet,01/10/2024,17:00,The Wild Robot,Zichron Yaakov,VIP
 Yes Planet,01/10/2024,19:20,The Wild Robot,Zichron Yaakov,VIP
-Yes Planet,01/10/2024,14:50,The Wild Robot,Haifa,Regular
 Yes Planet,01/10/2024,17:30,The Wild Robot,Haifa,Regular
 Yes Planet,01/10/2024,19:40,The Wild Robot,Haifa,Regular
 Yes Planet,01/10/2024,21:45,The Wild Robot,Haifa,Regular
@@ -609,10 +499,6 @@ Yes Planet,01/10/2024,19:40,The Wild Robot,Jerusalem,Regular
 Yes Planet,01/10/2024,22:00,The Wild Robot,Jerusalem,Regular
 Yes Planet,01/10/2024,19:40,The Wild Robot,Jerusalem,4DX
 Yes Planet,01/10/2024,21:50,The Wild Robot,Jerusalem,4DX
-Cinema City,01/10/2024,13:20,Thelma,Rishon Letzion,Regular
-Cinema City,01/10/2024,14:50,Thelma,Netanya,Prime
-Cinema City,01/10/2024,14:10,Thelma,Chadera,Regular
-Yes Planet,01/10/2024,13:40,Thelma,Rishon Letzion,Regular
 Yes Planet,01/10/2024,15:50,Thelma,Rishon Letzion,Regular
 Yes Planet,01/10/2024,15:20,Thelma,Haifa,Regular
 Cinema City,01/10/2024,18:30,There's Still Tomorrow,Rishon Letzion,Regular
@@ -621,10 +507,8 @@ Lev Cinema,01/10/2024,15:45,There's Still Tomorrow,Netanya,Regular
 Lev Cinema,01/10/2024,18:30,There's Still Tomorrow,Raanana,Regular
 Lev Cinema,01/10/2024,21:15,There's Still Tomorrow,Tel Aviv,Regular
 Cinema City,01/10/2024,19:00,This Time Next Year,Tel Aviv,Regular
-Cinema City,01/10/2024,14:00,This Time Next Year,Rishon Letzion,Regular
 Cinema City,01/10/2024,16:00,This Time Next Year,Rishon Letzion,Regular
 Cinema City,01/10/2024,21:40,This Time Next Year,Netanya,Regular
-Cinema City,01/10/2024,13:45,This Time Next Year,Ashdod,Regular
 Cinema City,01/10/2024,19:10,This Time Next Year,Ashdod,Regular
 Yes Planet,01/10/2024,17:30,This Time Next Year,Rishon Letzion,Regular
 Yes Planet,01/10/2024,18:50,This Time Next Year,Tel Aviv,Regular
@@ -639,7 +523,6 @@ Cinema City,03/10/2024,19:10,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,03/10/2024,18:30,Adios Buenos Aires,Rishon Letzion,Regular
 Cinema City,03/10/2024,19:30,Adios Buenos Aires,Netanya,Regular
 Yes Planet,03/10/2024,18:00,Adios Buenos Aires,Rishon Letzion,Regular
-Yes Planet,03/10/2024,20:00,Adios Buenos Aires,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:40,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,03/10/2024,15:00,Adios Buenos Aires,Beer Sheva,Regular
 Yes Planet,03/10/2024,17:40,Adios Buenos Aires,Zichron Yaakov,Regular
@@ -648,13 +531,12 @@ Yes Planet,03/10/2024,21:40,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,03/10/2024,22:10,Adios Buenos Aires,Haifa,Regular
 Yes Planet,03/10/2024,15:10,Adios Buenos Aires,Jerusalem,Regular
 Yes Planet,03/10/2024,15:20,Adios Buenos Aires,Jerusalem,Regular
-Lev Cinema,03/10/2024,12:40,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,03/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
-Lev Cinema,03/10/2024,21:15,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,03/10/2024,15:20,Adios Buenos Aires,Ramat Hasharon,Regular
 Lev Cinema,03/10/2024,15:20,Adios Buenos Aires,Beer Sheva,Regular
+Lev Cinema,03/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
+Lev Cinema,03/10/2024,21:15,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,03/10/2024,13:00,Adios Buenos Aires,Netanya,Regular
-Yes Planet,03/10/2024,23:40,Alien: Romulus,Haifa,Regular
+Lev Cinema,03/10/2024,12:40,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,03/10/2024,11:30,Autumn and the Black Jaguar,Zichron Yaakov,Regular
 Yes Planet,03/10/2024,11:10,Autumn and the Black Jaguar,Haifa,Regular
 Yes Planet,03/10/2024,13:10,Autumn and the Black Jaguar,Haifa,Regular
@@ -696,11 +578,10 @@ Cinema City,03/10/2024,19:20,Beetlejuice Beetlejuice,Chadera,Prime
 Cinema City,03/10/2024,11:00,Beetlejuice Beetlejuice,Ashdod,Regular
 Cinema City,03/10/2024,16:20,Beetlejuice Beetlejuice,Ashdod,Regular
 Cinema City,03/10/2024,19:00,Beetlejuice Beetlejuice,Ashdod,Regular
-Yes Planet,03/10/2024,19:45,Beetlejuice Beetlejuice,Rishon Letzion,Regular
-Yes Planet,03/10/2024,22:00,Beetlejuice Beetlejuice,Rishon Letzion,Regular
-Yes Planet,03/10/2024,00:20,Beetlejuice Beetlejuice,Rishon Letzion,Regular
 Yes Planet,03/10/2024,21:45,Beetlejuice Beetlejuice,Rishon Letzion,VIP
 Yes Planet,03/10/2024,00:00,Beetlejuice Beetlejuice,Rishon Letzion,VIP
+Yes Planet,03/10/2024,22:00,Beetlejuice Beetlejuice,Rishon Letzion,Regular
+Yes Planet,03/10/2024,00:20,Beetlejuice Beetlejuice,Rishon Letzion,Regular
 Yes Planet,03/10/2024,11:00,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Yes Planet,03/10/2024,13:15,Beetlejuice Beetlejuice,Tel Aviv,Regular
 Yes Planet,03/10/2024,15:30,Beetlejuice Beetlejuice,Tel Aviv,Regular
@@ -719,16 +600,6 @@ Cinema City,03/10/2024,22:10,Blink Twice,Tel Aviv,Regular
 Cinema City,03/10/2024,00:30,Blink Twice,Tel Aviv,Regular
 Cinema City,03/10/2024,22:10,Blink Twice,Ashdod,Regular
 Cinema City,03/10/2024,00:00,Blink Twice,Ashdod,Regular
-Yes Planet,03/10/2024,00:00,Blink Twice,Rishon Letzion,Regular
-Yes Planet,03/10/2024,00:30,Blink Twice,Tel Aviv,Regular
-Yes Planet,03/10/2024,22:00,Blink Twice,Beer Sheva,Regular
-Yes Planet,03/10/2024,00:15,Blink Twice,Beer Sheva,Regular
-Yes Planet,03/10/2024,19:40,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,03/10/2024,23:50,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,03/10/2024,22:05,Blink Twice,Haifa,Regular
-Yes Planet,03/10/2024,00:20,Blink Twice,Haifa,Regular
-Yes Planet,03/10/2024,00:15,Blink Twice,Jerusalem,Regular
-Yes Planet,03/10/2024,19:30,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,03/10/2024,21:45,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,03/10/2024,00:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,03/10/2024,20:10,Bonnard: Pierre & Marthe,Tel Aviv,Regular
@@ -753,23 +624,13 @@ Cinema City,03/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,03/10/2024,20:10,Come Closer,Tel Aviv,Regular
 Cinema City,03/10/2024,21:30,Come Closer,Tel Aviv,Regular
 Cinema City,03/10/2024,22:40,Come Closer,Tel Aviv,Regular
-Cinema City,03/10/2024,19:15,Come Closer,Tel Aviv,VIP
-Cinema City,03/10/2024,11:20,Come Closer,Rishon Letzion,Regular
-Cinema City,03/10/2024,14:00,Come Closer,Rishon Letzion,Regular
-Cinema City,03/10/2024,19:00,Come Closer,Rishon Letzion,Regular
-Cinema City,03/10/2024,20:50,Come Closer,Rishon Letzion,Regular
-Cinema City,03/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,03/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,03/10/2024,19:40,Come Closer,Netanya,Regular
-Cinema City,03/10/2024,20:00,Come Closer,Beer Sheva,Regular
-Cinema City,03/10/2024,11:40,Come Closer,Chadera,Regular
-Cinema City,03/10/2024,14:00,Come Closer,Chadera,Regular
-Cinema City,03/10/2024,16:20,Come Closer,Chadera,Regular
-Cinema City,03/10/2024,18:40,Come Closer,Chadera,Regular
-Cinema City,03/10/2024,21:00,Come Closer,Chadera,Regular
-Cinema City,03/10/2024,16:30,Come Closer,Ashdod,Regular
-Cinema City,03/10/2024,19:00,Come Closer,Ashdod,Regular
-Cinema City,03/10/2024,21:30,Come Closer,Ashdod,Regular
+Cinema City,03/10/2024,11:20,Come Closer,Tel Aviv,4DX
+Cinema City,03/10/2024,13:50,Come Closer,Tel Aviv,4DX
+Cinema City,03/10/2024,16:50,Come Closer,Tel Aviv,4DX
+Cinema City,03/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,03/10/2024,20:10,Come Closer,Tel Aviv,4DX
+Cinema City,03/10/2024,21:30,Come Closer,Tel Aviv,4DX
+Cinema City,03/10/2024,22:40,Come Closer,Tel Aviv,4DX
 Yes Planet,03/10/2024,17:30,Come Closer,Rishon Letzion,Regular
 Yes Planet,03/10/2024,21:45,Come Closer,Rishon Letzion,Regular
 Yes Planet,03/10/2024,00:00,Come Closer,Rishon Letzion,Regular
@@ -794,16 +655,16 @@ Yes Planet,03/10/2024,16:00,Come Closer,Jerusalem,Regular
 Yes Planet,03/10/2024,18:30,Come Closer,Jerusalem,Regular
 Yes Planet,03/10/2024,21:00,Come Closer,Jerusalem,Regular
 Yes Planet,03/10/2024,23:40,Come Closer,Jerusalem,Regular
-Lev Cinema,03/10/2024,13:30,Come Closer,Netanya,Regular
-Lev Cinema,03/10/2024,20:50,Come Closer,Netanya,Regular
+Lev Cinema,03/10/2024,12:50,Come Closer,Raanana,Regular
+Lev Cinema,03/10/2024,19:30,Come Closer,Raanana,Regular
+Lev Cinema,03/10/2024,21:45,Come Closer,Raanana,Regular
 Lev Cinema,03/10/2024,11:00,Come Closer,Tel Aviv,Regular
 Lev Cinema,03/10/2024,13:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,03/10/2024,17:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,03/10/2024,19:50,Come Closer,Tel Aviv,Regular
 Lev Cinema,03/10/2024,22:10,Come Closer,Tel Aviv,Regular
-Lev Cinema,03/10/2024,12:50,Come Closer,Raanana,Regular
-Lev Cinema,03/10/2024,19:30,Come Closer,Raanana,Regular
-Lev Cinema,03/10/2024,21:45,Come Closer,Raanana,Regular
+Lev Cinema,03/10/2024,13:30,Come Closer,Netanya,Regular
+Lev Cinema,03/10/2024,20:50,Come Closer,Netanya,Regular
 Lev Cinema,03/10/2024,21:30,Come Closer,Shoham,Regular
 Lev Cinema,03/10/2024,15:30,Come Closer,Jerusalem,Regular
 Lev Cinema,03/10/2024,17:20,Come Closer,Beer Sheva,Regular
@@ -812,8 +673,6 @@ Yes Planet,03/10/2024,23:20,Daddio,Rishon Letzion,Regular
 Yes Planet,03/10/2024,19:30,Daddio,Tel Aviv,Regular
 Yes Planet,03/10/2024,15:40,Daddio,Haifa,Regular
 Yes Planet,03/10/2024,17:45,Deadpool and Wolverine (2024),Rishon Letzion,VIP
-Yes Planet,03/10/2024,20:30,Deadpool and Wolverine (2024),Rishon Letzion,VIP
-Yes Planet,03/10/2024,20:00,Deadpool and Wolverine (2024),Rishon Letzion,Regular
 Yes Planet,03/10/2024,22:40,Deadpool and Wolverine (2024),Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:10,Deadpool and Wolverine (2024),Tel Aviv,Regular
 Yes Planet,03/10/2024,21:50,Deadpool and Wolverine (2024),Tel Aviv,Regular
@@ -848,85 +707,9 @@ Yes Planet,03/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,03/10/2024,21:45,It Ends with Us,Haifa,Regular
 Yes Planet,03/10/2024,17:00,It Ends with Us,Jerusalem,Regular
 Yes Planet,03/10/2024,00:00,It Ends with Us,Jerusalem,Regular
-Cinema City,03/10/2024,11:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,12:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,14:15,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,15:20,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,16:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,17:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,18:40,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,19:50,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,21:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,21:40,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,22:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,23:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,00:20,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,03/10/2024,11:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,03/10/2024,14:15,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,03/10/2024,17:30,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,03/10/2024,21:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,03/10/2024,00:20,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,03/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,03/10/2024,21:45,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,03/10/2024,23:00,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,03/10/2024,11:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,12:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,16:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,18:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,18:40,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,22:20,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,23:20,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,00:15,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,03/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,03/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,03/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,03/10/2024,22:30,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,03/10/2024,00:15,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,03/10/2024,00:15,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,03/10/2024,11:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,03/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,03/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,03/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,03/10/2024,13:20,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,03/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,03/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,03/10/2024,11:50,Joker: Folie à Deux,Netanya,Regular
-Cinema City,03/10/2024,15:20,Joker: Folie à Deux,Netanya,Regular
-Cinema City,03/10/2024,18:40,Joker: Folie à Deux,Netanya,Regular
-Cinema City,03/10/2024,22:00,Joker: Folie à Deux,Netanya,Regular
-Cinema City,03/10/2024,23:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,03/10/2024,15:00,Joker: Folie à Deux,Netanya,Prime
-Cinema City,03/10/2024,18:00,Joker: Folie à Deux,Netanya,Prime
-Cinema City,03/10/2024,21:00,Joker: Folie à Deux,Netanya,Prime
-Cinema City,03/10/2024,14:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,03/10/2024,17:20,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,03/10/2024,19:20,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,03/10/2024,20:40,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,03/10/2024,11:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,03/10/2024,15:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,03/10/2024,18:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,03/10/2024,20:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,03/10/2024,21:50,Joker: Folie à Deux,Chadera,Regular
-Cinema City,03/10/2024,13:00,Joker: Folie à Deux,Chadera,Prime
-Cinema City,03/10/2024,16:10,Joker: Folie à Deux,Chadera,Prime
-Cinema City,03/10/2024,11:50,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,13:20,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,15:20,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,16:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,18:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,19:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,22:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,03/10/2024,23:20,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,03/10/2024,10:45,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,03/10/2024,13:30,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,03/10/2024,16:15,Joker: Folie à Deux,Rishon Letzion,IMAX
-Yes Planet,03/10/2024,19:00,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,03/10/2024,21:45,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,03/10/2024,00:30,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,03/10/2024,11:00,Joker: Folie à Deux,Rishon Letzion,Regular
@@ -935,14 +718,11 @@ Yes Planet,03/10/2024,13:45,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,03/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,03/10/2024,16:30,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Yes Planet,03/10/2024,19:15,Joker: Folie à Deux,Rishon Letzion,Regular
-Yes Planet,03/10/2024,20:30,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,03/10/2024,22:00,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,03/10/2024,23:30,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,03/10/2024,11:15,Joker: Folie à Deux,Rishon Letzion,SCREENX
 Yes Planet,03/10/2024,14:20,Joker: Folie à Deux,Rishon Letzion,SCREENX
 Yes Planet,03/10/2024,17:10,Joker: Folie à Deux,Rishon Letzion,SCREENX
-Yes Planet,03/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,SCREENX
 Yes Planet,03/10/2024,23:00,Joker: Folie à Deux,Rishon Letzion,SCREENX
 Yes Planet,03/10/2024,12:00,Joker: Folie à Deux,Rishon Letzion,4DX
 Yes Planet,03/10/2024,15:00,Joker: Folie à Deux,Rishon Letzion,4DX
@@ -951,7 +731,6 @@ Yes Planet,03/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,4DX
 Yes Planet,03/10/2024,23:50,Joker: Folie à Deux,Rishon Letzion,4DX
 Yes Planet,03/10/2024,15:00,Joker: Folie à Deux,Rishon Letzion,VIP
 Yes Planet,03/10/2024,17:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Yes Planet,03/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,VIP
 Yes Planet,03/10/2024,23:10,Joker: Folie à Deux,Rishon Letzion,VIP
 Yes Planet,03/10/2024,11:30,Joker: Folie à Deux,Tel Aviv,Regular
 Yes Planet,03/10/2024,13:30,Joker: Folie à Deux,Tel Aviv,Regular
@@ -974,6 +753,7 @@ Yes Planet,03/10/2024,11:30,Joker: Folie à Deux,Beer Sheva,Regular
 Yes Planet,03/10/2024,14:15,Joker: Folie à Deux,Beer Sheva,Regular
 Yes Planet,03/10/2024,14:30,Joker: Folie à Deux,Beer Sheva,Regular
 Yes Planet,03/10/2024,17:30,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,03/10/2024,19:15,Joker: Folie à Deux,Beer Sheva,Regular
 Yes Planet,03/10/2024,19:15,Joker: Folie à Deux,Beer Sheva,Regular
 Yes Planet,03/10/2024,20:30,Joker: Folie à Deux,Beer Sheva,Regular
 Yes Planet,03/10/2024,23:30,Joker: Folie à Deux,Beer Sheva,Regular
@@ -1103,7 +883,6 @@ Cinema City,03/10/2024,00:00,Nefarious,Netanya,Prime
 Cinema City,03/10/2024,22:20,Nefarious,Beer Sheva,Regular
 Cinema City,03/10/2024,22:00,Nefarious,Chadera,Regular
 Cinema City,03/10/2024,22:50,Nefarious,Ashdod,Regular
-Yes Planet,03/10/2024,20:00,Nefarious,Rishon Letzion,Regular
 Yes Planet,03/10/2024,22:10,Nefarious,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:00,Nefarious,Tel Aviv,Regular
 Yes Planet,03/10/2024,00:10,Nefarious,Tel Aviv,Regular
@@ -1113,7 +892,6 @@ Yes Planet,03/10/2024,21:40,Nefarious,Haifa,Regular
 Yes Planet,03/10/2024,00:05,Nefarious,Haifa,Regular
 Yes Planet,03/10/2024,22:15,Nefarious,Jerusalem,Regular
 Yes Planet,03/10/2024,00:20,Nefarious,Jerusalem,Regular
-Yes Planet,03/10/2024,19:30,Never Let Go,Rishon Letzion,Regular
 Yes Planet,03/10/2024,00:15,Never Let Go,Rishon Letzion,Regular
 Yes Planet,03/10/2024,00:10,Never Let Go,Tel Aviv,Regular
 Yes Planet,03/10/2024,15:10,Never Let Go,Beer Sheva,Regular
@@ -1129,6 +907,24 @@ Cinema City,03/10/2024,23:10,Never Let Him Go,Tel Aviv,Regular
 Cinema City,03/10/2024,15:10,Sex Education,Tel Aviv,Regular
 Cinema City,03/10/2024,18:15,Sex Education,Tel Aviv,Regular
 Cinema City,03/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,03/10/2024,16:40,Sex Education,Rishon Letzion,Regular
+Yes Planet,03/10/2024,22:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,03/10/2024,17:00,Sex Education,Tel Aviv,Regular
+Yes Planet,03/10/2024,19:30,Sex Education,Tel Aviv,Regular
+Yes Planet,03/10/2024,22:00,Sex Education,Tel Aviv,Regular
+Yes Planet,03/10/2024,23:50,Sex Education,Tel Aviv,Regular
+Yes Planet,03/10/2024,17:00,Sex Education,Beer Sheva,Regular
+Yes Planet,03/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,03/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,03/10/2024,00:20,Sex Education,Beer Sheva,Regular
+Yes Planet,03/10/2024,16:45,Sex Education,Haifa,Regular
+Yes Planet,03/10/2024,19:15,Sex Education,Haifa,Regular
+Yes Planet,03/10/2024,21:45,Sex Education,Haifa,Regular
+Yes Planet,03/10/2024,23:40,Sex Education,Haifa,Regular
+Yes Planet,03/10/2024,17:10,Sex Education,Jerusalem,Regular
+Yes Planet,03/10/2024,19:45,Sex Education,Jerusalem,Regular
+Yes Planet,03/10/2024,22:15,Sex Education,Jerusalem,Regular
+Yes Planet,03/10/2024,00:00,Sex Education,Jerusalem,Regular
 Cinema City,03/10/2024,11:10,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,03/10/2024,13:50,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,03/10/2024,16:30,Sleeping Dogs,Tel Aviv,Regular
@@ -1136,12 +932,12 @@ Cinema City,03/10/2024,19:15,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,03/10/2024,21:50,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,03/10/2024,00:20,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,03/10/2024,20:00,Sleeping Dogs,Rishon Letzion,Regular
+Cinema City,03/10/2024,20:00,Sleeping Dogs,Jerusalem,Regular
 Cinema City,03/10/2024,21:40,Sleeping Dogs,Kfar Saba,Regular
 Cinema City,03/10/2024,21:40,Sleeping Dogs,Netanya,Regular
 Cinema City,03/10/2024,23:50,Sleeping Dogs,Netanya,Regular
 Cinema City,03/10/2024,19:30,Sleeping Dogs,Chadera,Regular
 Cinema City,03/10/2024,20:45,Sleeping Dogs,Ashdod,Regular
-Yes Planet,03/10/2024,20:00,Sleeping Dogs,Rishon Letzion,Regular
 Yes Planet,03/10/2024,15:00,Sleeping Dogs,Tel Aviv,Regular
 Yes Planet,03/10/2024,17:45,Sleeping Dogs,Tel Aviv,Regular
 Yes Planet,03/10/2024,17:10,Sleeping Dogs,Beer Sheva,Regular
@@ -1191,7 +987,6 @@ Lev Cinema,03/10/2024,15:25,Take a Chance on Me,Raanana,Regular
 Cinema City,03/10/2024,00:10,The Crow,Tel Aviv,Regular
 Cinema City,03/10/2024,23:00,The Crow,Rishon Letzion,Regular
 Yes Planet,03/10/2024,15:00,The Crow,Rishon Letzion,Regular
-Yes Planet,03/10/2024,19:15,The Engineer,Rishon Letzion,Regular
 Yes Planet,03/10/2024,21:20,The Engineer,Rishon Letzion,Regular
 Yes Planet,03/10/2024,00:20,The Engineer,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:20,The Engineer,Tel Aviv,Regular
@@ -1201,21 +996,20 @@ Yes Planet,03/10/2024,21:40,The Engineer,Haifa,Regular
 Yes Planet,03/10/2024,20:00,The Engineer,Jerusalem,Regular
 Yes Planet,03/10/2024,22:00,The Engineer,Jerusalem,Regular
 Yes Planet,03/10/2024,17:20,The Second Act,Rishon Letzion,Regular
-Yes Planet,03/10/2024,19:40,The Second Act,Rishon Letzion,Regular
 Yes Planet,03/10/2024,22:00,The Second Act,Rishon Letzion,Regular
 Yes Planet,03/10/2024,19:15,The Second Act,Tel Aviv,Regular
 Yes Planet,03/10/2024,21:45,The Second Act,Tel Aviv,Regular
 Yes Planet,03/10/2024,17:20,The Second Act,Beer Sheva,Regular
 Yes Planet,03/10/2024,19:30,The Second Act,Haifa,Regular
 Yes Planet,03/10/2024,16:30,The Second Act,Jerusalem,Regular
-Lev Cinema,03/10/2024,11:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,03/10/2024,16:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,03/10/2024,18:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,03/10/2024,11:00,The Second Act,Raanana,Regular
 Lev Cinema,03/10/2024,13:30,The Second Act,Raanana,Regular
 Lev Cinema,03/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,03/10/2024,11:00,The Second Act,Netanya,Regular
 Lev Cinema,03/10/2024,18:15,The Second Act,Netanya,Regular
+Lev Cinema,03/10/2024,11:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,03/10/2024,16:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,03/10/2024,18:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,03/10/2024,13:10,The Second Act,Shoham,Regular
 Lev Cinema,03/10/2024,19:00,The Second Act,Shoham,Regular
 Lev Cinema,03/10/2024,13:00,The Second Act,Ramat Hasharon,Regular
@@ -1223,28 +1017,8 @@ Lev Cinema,03/10/2024,13:00,The Second Act,Jerusalem,Regular
 Lev Cinema,03/10/2024,13:00,The Second Act,Beer Sheva,Regular
 Lev Cinema,03/10/2024,11:00,The Second Act,Herziliya,Regular
 Lev Cinema,03/10/2024,18:10,The Second Act,Herziliya,Regular
-Cinema City,03/10/2024,16:10,The Tasting,Tel Aviv,Regular
-Cinema City,03/10/2024,18:30,The Tasting,Tel Aviv,Regular
-Cinema City,03/10/2024,20:50,The Tasting,Tel Aviv,Regular
-Cinema City,03/10/2024,11:00,The Tasting,Rishon Letzion,Regular
-Cinema City,03/10/2024,13:30,The Tasting,Rishon Letzion,Regular
-Cinema City,03/10/2024,16:00,The Tasting,Rishon Letzion,Regular
-Cinema City,03/10/2024,18:20,The Tasting,Rishon Letzion,Regular
-Cinema City,03/10/2024,20:40,The Tasting,Rishon Letzion,Regular
-Cinema City,03/10/2024,19:20,The Tasting,Kfar Saba,Regular
-Cinema City,03/10/2024,21:50,The Tasting,Kfar Saba,Regular
-Cinema City,03/10/2024,18:30,The Tasting,Netanya,Regular
-Cinema City,03/10/2024,20:50,The Tasting,Netanya,Regular
-Cinema City,03/10/2024,19:20,The Tasting,Beer Sheva,Regular
-Cinema City,03/10/2024,17:00,The Tasting,Chadera,Regular
-Cinema City,03/10/2024,19:10,The Tasting,Chadera,Regular
-Cinema City,03/10/2024,21:20,The Tasting,Chadera,Regular
-Cinema City,03/10/2024,16:00,The Tasting,Ashdod,Regular
-Cinema City,03/10/2024,18:30,The Tasting,Ashdod,Regular
-Cinema City,03/10/2024,21:00,The Tasting,Ashdod,Regular
 Yes Planet,03/10/2024,15:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:30,The Tasting,Rishon Letzion,Regular
-Yes Planet,03/10/2024,19:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,03/10/2024,21:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,03/10/2024,23:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:30,The Tasting,Tel Aviv,Regular
@@ -1287,7 +1061,6 @@ Yes Planet,03/10/2024,13:40,The Wild Robot,Rishon Letzion,Regular
 Yes Planet,03/10/2024,15:40,The Wild Robot,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:50,The Wild Robot,Rishon Letzion,Regular
 Yes Planet,03/10/2024,22:00,The Wild Robot,Rishon Letzion,Regular
-Yes Planet,03/10/2024,19:30,The Wild Robot,Rishon Letzion,VIP
 Yes Planet,03/10/2024,13:10,The Wild Robot,Tel Aviv,Regular
 Yes Planet,03/10/2024,15:20,The Wild Robot,Tel Aviv,Regular
 Yes Planet,03/10/2024,17:00,The Wild Robot,Beer Sheva,Regular
@@ -1319,9 +1092,35 @@ Yes Planet,03/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,03/10/2024,19:45,Wire Room,Beer Sheva,Regular
 Yes Planet,03/10/2024,00:30,Wire Room,Haifa,Regular
 Yes Planet,03/10/2024,00:15,Wire Room,Jerusalem,Regular
+Cinema City,03/10/2024,14:50,Woman of the Hour,Tel Aviv,Regular
+Cinema City,03/10/2024,17:20,Woman of the Hour,Tel Aviv,Regular
+Cinema City,03/10/2024,19:45,Woman of the Hour,Tel Aviv,Regular
+Cinema City,03/10/2024,21:40,Woman of the Hour,Tel Aviv,Regular
+Cinema City,03/10/2024,00:10,Woman of the Hour,Tel Aviv,Regular
+Cinema City,03/10/2024,14:50,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,03/10/2024,17:20,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,03/10/2024,20:15,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,03/10/2024,21:45,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,03/10/2024,23:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,03/10/2024,00:15,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,03/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,03/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,03/10/2024,17:00,Woman of the Hour,Netanya,Regular
+Cinema City,03/10/2024,19:10,Woman of the Hour,Netanya,Prime
+Cinema City,03/10/2024,21:30,Woman of the Hour,Netanya,Prime
+Cinema City,03/10/2024,23:45,Woman of the Hour,Netanya,Prime
+Cinema City,03/10/2024,17:00,Woman of the Hour,Beer Sheva,Regular
+Cinema City,03/10/2024,19:40,Woman of the Hour,Beer Sheva,Regular
+Cinema City,03/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,03/10/2024,17:30,Woman of the Hour,Chadera,Regular
+Cinema City,03/10/2024,19:50,Woman of the Hour,Chadera,Regular
+Cinema City,03/10/2024,22:10,Woman of the Hour,Chadera,Regular
+Cinema City,03/10/2024,16:20,Woman of the Hour,Ashdod,Regular
+Cinema City,03/10/2024,19:35,Woman of the Hour,Ashdod,Regular
+Cinema City,03/10/2024,22:10,Woman of the Hour,Ashdod,Regular
+Cinema City,03/10/2024,00:00,Woman of the Hour,Ashdod,Regular
 Yes Planet,03/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
-Yes Planet,03/10/2024,19:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,03/10/2024,21:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,03/10/2024,23:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,03/10/2024,17:40,Woman of the Hour,Tel Aviv,Regular
@@ -1363,12 +1162,11 @@ Yes Planet,04/10/2024,22:10,Adios Buenos Aires,Haifa,Regular
 Yes Planet,04/10/2024,00:10,Adios Buenos Aires,Haifa,Regular
 Yes Planet,04/10/2024,15:10,Adios Buenos Aires,Jerusalem,Regular
 Yes Planet,04/10/2024,15:20,Adios Buenos Aires,Jerusalem,Regular
-Lev Cinema,04/10/2024,12:40,Adios Buenos Aires,Tel Aviv,Regular
+Lev Cinema,04/10/2024,15:20,Adios Buenos Aires,Beer Sheva,Regular
 Lev Cinema,04/10/2024,19:30,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,04/10/2024,21:30,Adios Buenos Aires,Raanana,Regular
-Lev Cinema,04/10/2024,15:20,Adios Buenos Aires,Beer Sheva,Regular
 Lev Cinema,04/10/2024,13:00,Adios Buenos Aires,Netanya,Regular
-Yes Planet,04/10/2024,23:20,Alien: Romulus,Haifa,Regular
+Lev Cinema,04/10/2024,12:40,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,04/10/2024,11:30,Autumn and the Black Jaguar,Zichron Yaakov,Regular
 Yes Planet,04/10/2024,11:10,Autumn and the Black Jaguar,Haifa,Regular
 Yes Planet,04/10/2024,13:10,Autumn and the Black Jaguar,Haifa,Regular
@@ -1436,15 +1234,6 @@ Cinema City,04/10/2024,00:30,Blink Twice,Tel Aviv,Regular
 Cinema City,04/10/2024,23:40,Blink Twice,Rishon Letzion,Regular
 Cinema City,04/10/2024,22:10,Blink Twice,Ashdod,Regular
 Cinema City,04/10/2024,00:00,Blink Twice,Ashdod,Regular
-Yes Planet,04/10/2024,00:00,Blink Twice,Rishon Letzion,Regular
-Yes Planet,04/10/2024,00:30,Blink Twice,Tel Aviv,Regular
-Yes Planet,04/10/2024,22:00,Blink Twice,Beer Sheva,Regular
-Yes Planet,04/10/2024,00:15,Blink Twice,Beer Sheva,Regular
-Yes Planet,04/10/2024,19:40,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,04/10/2024,23:50,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,04/10/2024,22:05,Blink Twice,Haifa,Regular
-Yes Planet,04/10/2024,00:20,Blink Twice,Haifa,Regular
-Yes Planet,04/10/2024,00:15,Blink Twice,Jerusalem,Regular
 Yes Planet,04/10/2024,19:30,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,04/10/2024,21:45,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,04/10/2024,00:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
@@ -1470,23 +1259,13 @@ Cinema City,04/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,04/10/2024,20:10,Come Closer,Tel Aviv,Regular
 Cinema City,04/10/2024,21:30,Come Closer,Tel Aviv,Regular
 Cinema City,04/10/2024,22:40,Come Closer,Tel Aviv,Regular
-Cinema City,04/10/2024,19:15,Come Closer,Tel Aviv,VIP
-Cinema City,04/10/2024,10:50,Come Closer,Rishon Letzion,Regular
-Cinema City,04/10/2024,13:20,Come Closer,Rishon Letzion,Regular
-Cinema City,04/10/2024,19:00,Come Closer,Rishon Letzion,Regular
-Cinema City,04/10/2024,21:30,Come Closer,Rishon Letzion,Regular
-Cinema City,04/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,04/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,04/10/2024,19:40,Come Closer,Netanya,Regular
-Cinema City,04/10/2024,19:00,Come Closer,Beer Sheva,Regular
-Cinema City,04/10/2024,12:20,Come Closer,Chadera,Regular
-Cinema City,04/10/2024,14:40,Come Closer,Chadera,Regular
-Cinema City,04/10/2024,17:00,Come Closer,Chadera,Regular
-Cinema City,04/10/2024,19:20,Come Closer,Chadera,Regular
-Cinema City,04/10/2024,21:40,Come Closer,Chadera,Regular
-Cinema City,04/10/2024,16:30,Come Closer,Ashdod,Regular
-Cinema City,04/10/2024,19:00,Come Closer,Ashdod,Regular
-Cinema City,04/10/2024,21:30,Come Closer,Ashdod,Regular
+Cinema City,04/10/2024,11:20,Come Closer,Tel Aviv,4DX
+Cinema City,04/10/2024,13:50,Come Closer,Tel Aviv,4DX
+Cinema City,04/10/2024,16:50,Come Closer,Tel Aviv,4DX
+Cinema City,04/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,04/10/2024,20:10,Come Closer,Tel Aviv,4DX
+Cinema City,04/10/2024,21:30,Come Closer,Tel Aviv,4DX
+Cinema City,04/10/2024,22:40,Come Closer,Tel Aviv,4DX
 Yes Planet,04/10/2024,17:20,Come Closer,Rishon Letzion,Regular
 Yes Planet,04/10/2024,19:30,Come Closer,Rishon Letzion,Regular
 Yes Planet,04/10/2024,21:40,Come Closer,Rishon Letzion,Regular
@@ -1512,16 +1291,16 @@ Yes Planet,04/10/2024,16:00,Come Closer,Jerusalem,Regular
 Yes Planet,04/10/2024,18:30,Come Closer,Jerusalem,Regular
 Yes Planet,04/10/2024,21:00,Come Closer,Jerusalem,Regular
 Yes Planet,04/10/2024,23:40,Come Closer,Jerusalem,Regular
-Lev Cinema,04/10/2024,13:30,Come Closer,Netanya,Regular
-Lev Cinema,04/10/2024,20:50,Come Closer,Netanya,Regular
+Lev Cinema,04/10/2024,12:50,Come Closer,Raanana,Regular
+Lev Cinema,04/10/2024,19:30,Come Closer,Raanana,Regular
+Lev Cinema,04/10/2024,21:45,Come Closer,Raanana,Regular
 Lev Cinema,04/10/2024,11:00,Come Closer,Tel Aviv,Regular
 Lev Cinema,04/10/2024,13:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,04/10/2024,16:20,Come Closer,Tel Aviv,Regular
 Lev Cinema,04/10/2024,18:40,Come Closer,Tel Aviv,Regular
 Lev Cinema,04/10/2024,21:50,Come Closer,Tel Aviv,Regular
-Lev Cinema,04/10/2024,12:50,Come Closer,Raanana,Regular
-Lev Cinema,04/10/2024,19:30,Come Closer,Raanana,Regular
-Lev Cinema,04/10/2024,21:45,Come Closer,Raanana,Regular
+Lev Cinema,04/10/2024,13:30,Come Closer,Netanya,Regular
+Lev Cinema,04/10/2024,20:50,Come Closer,Netanya,Regular
 Lev Cinema,04/10/2024,21:30,Come Closer,Shoham,Regular
 Lev Cinema,04/10/2024,15:30,Come Closer,Jerusalem,Regular
 Lev Cinema,04/10/2024,17:20,Come Closer,Beer Sheva,Regular
@@ -1569,85 +1348,6 @@ Yes Planet,04/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,04/10/2024,21:45,It Ends with Us,Haifa,Regular
 Yes Planet,04/10/2024,17:00,It Ends with Us,Jerusalem,Regular
 Yes Planet,04/10/2024,00:00,It Ends with Us,Jerusalem,Regular
-Cinema City,04/10/2024,11:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,12:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,14:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,15:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,16:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,19:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,19:50,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,20:45,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,21:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,22:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,23:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,00:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,04/10/2024,11:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,04/10/2024,14:30,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,04/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,04/10/2024,21:30,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,04/10/2024,20:30,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,04/10/2024,21:45,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,04/10/2024,23:00,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,04/10/2024,11:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,12:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,16:15,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,18:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,18:40,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,22:20,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,23:15,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,00:15,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,04/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,04/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,04/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,04/10/2024,22:30,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,04/10/2024,00:15,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,04/10/2024,11:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,04/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,04/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,04/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,04/10/2024,13:20,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,04/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,04/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,04/10/2024,11:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,04/10/2024,15:20,Joker: Folie à Deux,Netanya,Regular
-Cinema City,04/10/2024,18:40,Joker: Folie à Deux,Netanya,Regular
-Cinema City,04/10/2024,22:00,Joker: Folie à Deux,Netanya,Regular
-Cinema City,04/10/2024,23:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,04/10/2024,14:50,Joker: Folie à Deux,Netanya,Prime
-Cinema City,04/10/2024,18:00,Joker: Folie à Deux,Netanya,Prime
-Cinema City,04/10/2024,21:00,Joker: Folie à Deux,Netanya,Prime
-Cinema City,04/10/2024,11:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,13:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,15:20,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,17:10,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,18:40,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,18:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,20:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,22:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,04/10/2024,12:10,Joker: Folie à Deux,Chadera,Regular
-Cinema City,04/10/2024,15:20,Joker: Folie à Deux,Chadera,Regular
-Cinema City,04/10/2024,18:40,Joker: Folie à Deux,Chadera,Regular
-Cinema City,04/10/2024,19:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,04/10/2024,20:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,04/10/2024,22:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,04/10/2024,10:40,Joker: Folie à Deux,Chadera,Prime
-Cinema City,04/10/2024,13:40,Joker: Folie à Deux,Chadera,Prime
-Cinema City,04/10/2024,16:40,Joker: Folie à Deux,Chadera,Prime
-Cinema City,04/10/2024,11:50,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,13:20,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,15:20,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,16:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,18:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,19:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,22:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,04/10/2024,23:20,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,04/10/2024,10:45,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,04/10/2024,13:30,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,04/10/2024,16:15,Joker: Folie à Deux,Rishon Letzion,IMAX
@@ -1688,6 +1388,34 @@ Yes Planet,04/10/2024,20:30,Joker: Folie à Deux,Tel Aviv,Regular
 Yes Planet,04/10/2024,21:45,Joker: Folie à Deux,Tel Aviv,Regular
 Yes Planet,04/10/2024,23:30,Joker: Folie à Deux,Tel Aviv,Regular
 Yes Planet,04/10/2024,00:30,Joker: Folie à Deux,Tel Aviv,Regular
+Yes Planet,04/10/2024,10:45,Joker: Folie à Deux,Beer Sheva,IMAX
+Yes Planet,04/10/2024,13:30,Joker: Folie à Deux,Beer Sheva,IMAX
+Yes Planet,04/10/2024,16:15,Joker: Folie à Deux,Beer Sheva,IMAX
+Yes Planet,04/10/2024,19:00,Joker: Folie à Deux,Beer Sheva,IMAX
+Yes Planet,04/10/2024,21:45,Joker: Folie à Deux,Beer Sheva,IMAX
+Yes Planet,04/10/2024,00:30,Joker: Folie à Deux,Beer Sheva,IMAX
+Yes Planet,04/10/2024,11:00,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,11:30,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,14:15,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,14:30,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,17:30,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,20:30,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,23:30,Joker: Folie à Deux,Beer Sheva,Regular
+Yes Planet,04/10/2024,11:15,Joker: Folie à Deux,Beer Sheva,SCREENX
+Yes Planet,04/10/2024,14:20,Joker: Folie à Deux,Beer Sheva,SCREENX
+Yes Planet,04/10/2024,17:10,Joker: Folie à Deux,Beer Sheva,SCREENX
+Yes Planet,04/10/2024,20:00,Joker: Folie à Deux,Beer Sheva,SCREENX
+Yes Planet,04/10/2024,23:00,Joker: Folie à Deux,Beer Sheva,SCREENX
+Yes Planet,04/10/2024,12:00,Joker: Folie à Deux,Beer Sheva,4DX
+Yes Planet,04/10/2024,15:00,Joker: Folie à Deux,Beer Sheva,4DX
+Yes Planet,04/10/2024,18:00,Joker: Folie à Deux,Beer Sheva,4DX
+Yes Planet,04/10/2024,21:00,Joker: Folie à Deux,Beer Sheva,4DX
+Yes Planet,04/10/2024,23:50,Joker: Folie à Deux,Beer Sheva,4DX
+Yes Planet,04/10/2024,13:45,Joker: Folie à Deux,Beer Sheva,VIP
+Yes Planet,04/10/2024,17:00,Joker: Folie à Deux,Beer Sheva,VIP
+Yes Planet,04/10/2024,20:00,Joker: Folie à Deux,Beer Sheva,VIP
+Yes Planet,04/10/2024,21:45,Joker: Folie à Deux,Beer Sheva,VIP
+Yes Planet,04/10/2024,22:45,Joker: Folie à Deux,Beer Sheva,VIP
 Yes Planet,04/10/2024,11:30,Joker: Folie à Deux,Zichron Yaakov,Regular
 Yes Planet,04/10/2024,13:30,Joker: Folie à Deux,Zichron Yaakov,Regular
 Yes Planet,04/10/2024,14:30,Joker: Folie à Deux,Zichron Yaakov,Regular
@@ -1821,6 +1549,25 @@ Cinema City,04/10/2024,23:10,Never Let Him Go,Tel Aviv,Regular
 Cinema City,04/10/2024,15:10,Sex Education,Tel Aviv,Regular
 Cinema City,04/10/2024,18:15,Sex Education,Tel Aviv,Regular
 Cinema City,04/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,04/10/2024,16:40,Sex Education,Rishon Letzion,Regular
+Yes Planet,04/10/2024,19:45,Sex Education,Rishon Letzion,Regular
+Yes Planet,04/10/2024,22:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,04/10/2024,17:00,Sex Education,Tel Aviv,Regular
+Yes Planet,04/10/2024,19:30,Sex Education,Tel Aviv,Regular
+Yes Planet,04/10/2024,22:00,Sex Education,Tel Aviv,Regular
+Yes Planet,04/10/2024,23:50,Sex Education,Tel Aviv,Regular
+Yes Planet,04/10/2024,17:00,Sex Education,Beer Sheva,Regular
+Yes Planet,04/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,04/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,04/10/2024,00:20,Sex Education,Beer Sheva,Regular
+Yes Planet,04/10/2024,16:45,Sex Education,Haifa,Regular
+Yes Planet,04/10/2024,19:15,Sex Education,Haifa,Regular
+Yes Planet,04/10/2024,21:45,Sex Education,Haifa,Regular
+Yes Planet,04/10/2024,23:40,Sex Education,Haifa,Regular
+Yes Planet,04/10/2024,17:10,Sex Education,Jerusalem,Regular
+Yes Planet,04/10/2024,19:45,Sex Education,Jerusalem,Regular
+Yes Planet,04/10/2024,22:15,Sex Education,Jerusalem,Regular
+Yes Planet,04/10/2024,23:45,Sex Education,Jerusalem,Regular
 Cinema City,04/10/2024,13:50,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,04/10/2024,17:10,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,04/10/2024,19:15,Sleeping Dogs,Tel Aviv,Regular
@@ -1902,13 +1649,13 @@ Yes Planet,04/10/2024,17:00,The Second Act,Haifa,Regular
 Yes Planet,04/10/2024,19:30,The Second Act,Haifa,Regular
 Yes Planet,04/10/2024,15:15,The Second Act,Jerusalem,Regular
 Yes Planet,04/10/2024,17:40,The Second Act,Jerusalem,Regular
-Lev Cinema,04/10/2024,11:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,04/10/2024,17:15,The Second Act,Tel Aviv,Regular
 Lev Cinema,04/10/2024,11:00,The Second Act,Raanana,Regular
 Lev Cinema,04/10/2024,13:30,The Second Act,Raanana,Regular
 Lev Cinema,04/10/2024,17:10,The Second Act,Raanana,Regular
 Lev Cinema,04/10/2024,11:00,The Second Act,Netanya,Regular
 Lev Cinema,04/10/2024,18:15,The Second Act,Netanya,Regular
+Lev Cinema,04/10/2024,11:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,04/10/2024,17:15,The Second Act,Tel Aviv,Regular
 Lev Cinema,04/10/2024,13:10,The Second Act,Shoham,Regular
 Lev Cinema,04/10/2024,19:00,The Second Act,Shoham,Regular
 Lev Cinema,04/10/2024,11:00,The Second Act,Ramat Hasharon,Regular
@@ -1916,24 +1663,6 @@ Lev Cinema,04/10/2024,11:00,The Second Act,Jerusalem,Regular
 Lev Cinema,04/10/2024,11:00,The Second Act,Beer Sheva,Regular
 Lev Cinema,04/10/2024,11:00,The Second Act,Herziliya,Regular
 Lev Cinema,04/10/2024,18:00,The Second Act,Herziliya,Regular
-Cinema City,04/10/2024,16:10,The Tasting,Tel Aviv,Regular
-Cinema City,04/10/2024,18:30,The Tasting,Tel Aviv,Regular
-Cinema City,04/10/2024,20:50,The Tasting,Tel Aviv,Regular
-Cinema City,04/10/2024,10:50,The Tasting,Rishon Letzion,Regular
-Cinema City,04/10/2024,13:20,The Tasting,Rishon Letzion,Regular
-Cinema City,04/10/2024,18:10,The Tasting,Rishon Letzion,Regular
-Cinema City,04/10/2024,20:40,The Tasting,Rishon Letzion,Regular
-Cinema City,04/10/2024,19:20,The Tasting,Kfar Saba,Regular
-Cinema City,04/10/2024,21:50,The Tasting,Kfar Saba,Regular
-Cinema City,04/10/2024,18:30,The Tasting,Netanya,Regular
-Cinema City,04/10/2024,20:50,The Tasting,Netanya,Regular
-Cinema City,04/10/2024,19:20,The Tasting,Beer Sheva,Regular
-Cinema City,04/10/2024,17:00,The Tasting,Chadera,Regular
-Cinema City,04/10/2024,19:10,The Tasting,Chadera,Regular
-Cinema City,04/10/2024,21:20,The Tasting,Chadera,Regular
-Cinema City,04/10/2024,16:00,The Tasting,Ashdod,Regular
-Cinema City,04/10/2024,18:30,The Tasting,Ashdod,Regular
-Cinema City,04/10/2024,21:00,The Tasting,Ashdod,Regular
 Yes Planet,04/10/2024,15:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,04/10/2024,17:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,04/10/2024,19:30,The Tasting,Rishon Letzion,Regular
@@ -2012,6 +1741,32 @@ Yes Planet,04/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,04/10/2024,19:45,Wire Room,Beer Sheva,Regular
 Yes Planet,04/10/2024,00:30,Wire Room,Haifa,Regular
 Yes Planet,04/10/2024,00:15,Wire Room,Jerusalem,Regular
+Cinema City,04/10/2024,14:50,Woman of the Hour,Tel Aviv,Regular
+Cinema City,04/10/2024,17:20,Woman of the Hour,Tel Aviv,Regular
+Cinema City,04/10/2024,19:45,Woman of the Hour,Tel Aviv,Regular
+Cinema City,04/10/2024,21:40,Woman of the Hour,Tel Aviv,Regular
+Cinema City,04/10/2024,00:10,Woman of the Hour,Tel Aviv,Regular
+Cinema City,04/10/2024,14:30,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,04/10/2024,20:15,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,04/10/2024,22:15,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,04/10/2024,22:50,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,04/10/2024,00:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,04/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,04/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,04/10/2024,17:00,Woman of the Hour,Netanya,Regular
+Cinema City,04/10/2024,19:10,Woman of the Hour,Netanya,Prime
+Cinema City,04/10/2024,21:30,Woman of the Hour,Netanya,Prime
+Cinema City,04/10/2024,23:45,Woman of the Hour,Netanya,Prime
+Cinema City,04/10/2024,17:00,Woman of the Hour,Beer Sheva,Regular
+Cinema City,04/10/2024,19:40,Woman of the Hour,Beer Sheva,Regular
+Cinema City,04/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,04/10/2024,17:30,Woman of the Hour,Chadera,Regular
+Cinema City,04/10/2024,19:50,Woman of the Hour,Chadera,Regular
+Cinema City,04/10/2024,22:10,Woman of the Hour,Chadera,Regular
+Cinema City,04/10/2024,16:20,Woman of the Hour,Ashdod,Regular
+Cinema City,04/10/2024,19:35,Woman of the Hour,Ashdod,Regular
+Cinema City,04/10/2024,22:10,Woman of the Hour,Ashdod,Regular
+Cinema City,04/10/2024,00:00,Woman of the Hour,Ashdod,Regular
 Yes Planet,04/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,04/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,04/10/2024,19:00,Woman of the Hour,Rishon Letzion,Regular
@@ -2055,13 +1810,12 @@ Yes Planet,05/10/2024,22:10,Adios Buenos Aires,Haifa,Regular
 Yes Planet,05/10/2024,00:10,Adios Buenos Aires,Haifa,Regular
 Yes Planet,05/10/2024,15:10,Adios Buenos Aires,Jerusalem,Regular
 Yes Planet,05/10/2024,15:20,Adios Buenos Aires,Jerusalem,Regular
-Lev Cinema,05/10/2024,12:40,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,05/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
-Lev Cinema,05/10/2024,21:30,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,05/10/2024,15:20,Adios Buenos Aires,Beer Sheva,Regular
 Lev Cinema,05/10/2024,15:30,Adios Buenos Aires,Herziliya,Regular
+Lev Cinema,05/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
+Lev Cinema,05/10/2024,21:30,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,05/10/2024,13:00,Adios Buenos Aires,Netanya,Regular
-Yes Planet,05/10/2024,23:20,Alien: Romulus,Haifa,Regular
+Lev Cinema,05/10/2024,12:40,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,05/10/2024,11:30,Autumn and the Black Jaguar,Zichron Yaakov,Regular
 Yes Planet,05/10/2024,11:10,Autumn and the Black Jaguar,Haifa,Regular
 Yes Planet,05/10/2024,13:10,Autumn and the Black Jaguar,Haifa,Regular
@@ -2129,15 +1883,6 @@ Cinema City,05/10/2024,22:10,Blink Twice,Tel Aviv,Regular
 Cinema City,05/10/2024,23:10,Blink Twice,Rishon Letzion,Regular
 Cinema City,05/10/2024,23:30,Blink Twice,Jerusalem,Regular
 Cinema City,05/10/2024,22:10,Blink Twice,Ashdod,Regular
-Yes Planet,05/10/2024,00:00,Blink Twice,Rishon Letzion,Regular
-Yes Planet,05/10/2024,00:30,Blink Twice,Tel Aviv,Regular
-Yes Planet,05/10/2024,22:00,Blink Twice,Beer Sheva,Regular
-Yes Planet,05/10/2024,00:15,Blink Twice,Beer Sheva,Regular
-Yes Planet,05/10/2024,19:40,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,05/10/2024,23:50,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,05/10/2024,22:05,Blink Twice,Haifa,Regular
-Yes Planet,05/10/2024,00:20,Blink Twice,Haifa,Regular
-Yes Planet,05/10/2024,00:15,Blink Twice,Jerusalem,Regular
 Yes Planet,05/10/2024,19:30,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,05/10/2024,21:45,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,05/10/2024,00:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
@@ -2163,25 +1908,12 @@ Cinema City,05/10/2024,16:50,Come Closer,Tel Aviv,Regular
 Cinema City,05/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,05/10/2024,20:10,Come Closer,Tel Aviv,Regular
 Cinema City,05/10/2024,21:30,Come Closer,Tel Aviv,Regular
-Cinema City,05/10/2024,20:30,Come Closer,Tel Aviv,VIP
-Cinema City,05/10/2024,10:50,Come Closer,Rishon Letzion,Regular
-Cinema City,05/10/2024,13:20,Come Closer,Rishon Letzion,Regular
-Cinema City,05/10/2024,19:00,Come Closer,Rishon Letzion,Regular
-Cinema City,05/10/2024,21:30,Come Closer,Rishon Letzion,Regular
-Cinema City,05/10/2024,20:15,Come Closer,Jerusalem,Regular
-Cinema City,05/10/2024,21:30,Come Closer,Jerusalem,Regular
-Cinema City,05/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,05/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,05/10/2024,19:40,Come Closer,Netanya,Regular
-Cinema City,05/10/2024,20:00,Come Closer,Beer Sheva,Regular
-Cinema City,05/10/2024,11:40,Come Closer,Chadera,Regular
-Cinema City,05/10/2024,14:00,Come Closer,Chadera,Regular
-Cinema City,05/10/2024,16:20,Come Closer,Chadera,Regular
-Cinema City,05/10/2024,18:40,Come Closer,Chadera,Regular
-Cinema City,05/10/2024,21:00,Come Closer,Chadera,Regular
-Cinema City,05/10/2024,16:40,Come Closer,Ashdod,Regular
-Cinema City,05/10/2024,19:10,Come Closer,Ashdod,Regular
-Cinema City,05/10/2024,21:40,Come Closer,Ashdod,Regular
+Cinema City,05/10/2024,11:20,Come Closer,Tel Aviv,4DX
+Cinema City,05/10/2024,13:50,Come Closer,Tel Aviv,4DX
+Cinema City,05/10/2024,16:50,Come Closer,Tel Aviv,4DX
+Cinema City,05/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,05/10/2024,20:10,Come Closer,Tel Aviv,4DX
+Cinema City,05/10/2024,21:30,Come Closer,Tel Aviv,4DX
 Yes Planet,05/10/2024,17:20,Come Closer,Rishon Letzion,Regular
 Yes Planet,05/10/2024,19:30,Come Closer,Rishon Letzion,Regular
 Yes Planet,05/10/2024,21:40,Come Closer,Rishon Letzion,Regular
@@ -2207,16 +1939,16 @@ Yes Planet,05/10/2024,16:00,Come Closer,Jerusalem,Regular
 Yes Planet,05/10/2024,18:30,Come Closer,Jerusalem,Regular
 Yes Planet,05/10/2024,20:50,Come Closer,Jerusalem,Regular
 Yes Planet,05/10/2024,00:15,Come Closer,Jerusalem,Regular
-Lev Cinema,05/10/2024,13:30,Come Closer,Netanya,Regular
-Lev Cinema,05/10/2024,20:50,Come Closer,Netanya,Regular
+Lev Cinema,05/10/2024,12:50,Come Closer,Raanana,Regular
+Lev Cinema,05/10/2024,19:30,Come Closer,Raanana,Regular
+Lev Cinema,05/10/2024,21:45,Come Closer,Raanana,Regular
 Lev Cinema,05/10/2024,11:00,Come Closer,Tel Aviv,Regular
 Lev Cinema,05/10/2024,13:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,05/10/2024,17:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,05/10/2024,18:40,Come Closer,Tel Aviv,Regular
 Lev Cinema,05/10/2024,21:50,Come Closer,Tel Aviv,Regular
-Lev Cinema,05/10/2024,12:50,Come Closer,Raanana,Regular
-Lev Cinema,05/10/2024,19:30,Come Closer,Raanana,Regular
-Lev Cinema,05/10/2024,21:45,Come Closer,Raanana,Regular
+Lev Cinema,05/10/2024,13:30,Come Closer,Netanya,Regular
+Lev Cinema,05/10/2024,20:50,Come Closer,Netanya,Regular
 Lev Cinema,05/10/2024,21:30,Come Closer,Shoham,Regular
 Lev Cinema,05/10/2024,15:30,Come Closer,Jerusalem,Regular
 Lev Cinema,05/10/2024,17:20,Come Closer,Beer Sheva,Regular
@@ -2238,6 +1970,7 @@ Yes Planet,05/10/2024,17:50,Deadpool and Wolverine (2024),Haifa,Regular
 Yes Planet,05/10/2024,19:15,Deadpool and Wolverine (2024),Haifa,Regular
 Yes Planet,05/10/2024,17:15,Deadpool and Wolverine (2024),Jerusalem,Regular
 Yes Planet,05/10/2024,20:00,Deadpool and Wolverine (2024),Jerusalem,Regular
+Yes Planet,05/10/2024,13:45,Fish also drown,Rishon Letzion,Regular
 Cinema City,05/10/2024,19:40,Inside Out 2,Tel Aviv,Regular
 Yes Planet,05/10/2024,15:45,Inside Out 2,Haifa,Regular
 Yes Planet,05/10/2024,15:00,Inside Out 2,Jerusalem,Regular
@@ -2266,84 +1999,6 @@ Yes Planet,05/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,05/10/2024,21:45,It Ends with Us,Haifa,Regular
 Yes Planet,05/10/2024,17:00,It Ends with Us,Jerusalem,Regular
 Yes Planet,05/10/2024,00:00,It Ends with Us,Jerusalem,Regular
-Cinema City,05/10/2024,11:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,12:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,14:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,15:15,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,16:15,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,18:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,19:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,19:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,20:45,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,22:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,05/10/2024,11:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,05/10/2024,14:30,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,05/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,05/10/2024,19:15,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,05/10/2024,21:45,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,05/10/2024,11:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,11:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,12:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,15:10,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,15:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,18:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,18:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,22:10,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,23:15,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,05/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,05/10/2024,19:15,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,05/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,05/10/2024,22:30,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,05/10/2024,20:30,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,05/10/2024,22:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,05/10/2024,23:45,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,05/10/2024,11:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,05/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,05/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,05/10/2024,13:20,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,05/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,05/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,05/10/2024,11:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,05/10/2024,14:50,Joker: Folie à Deux,Netanya,Regular
-Cinema City,05/10/2024,18:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,05/10/2024,12:40,Joker: Folie à Deux,Netanya,Prime
-Cinema City,05/10/2024,15:40,Joker: Folie à Deux,Netanya,Prime
-Cinema City,05/10/2024,18:50,Joker: Folie à Deux,Netanya,Prime
-Cinema City,05/10/2024,21:50,Joker: Folie à Deux,Netanya,Prime
-Cinema City,05/10/2024,11:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,13:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,14:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,17:10,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,18:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,18:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,20:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,05/10/2024,11:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,05/10/2024,14:40,Joker: Folie à Deux,Chadera,Regular
-Cinema City,05/10/2024,18:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,05/10/2024,19:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,05/10/2024,20:00,Joker: Folie à Deux,Chadera,Regular
-Cinema City,05/10/2024,21:20,Joker: Folie à Deux,Chadera,Regular
-Cinema City,05/10/2024,12:30,Joker: Folie à Deux,Chadera,Prime
-Cinema City,05/10/2024,15:40,Joker: Folie à Deux,Chadera,Prime
-Cinema City,05/10/2024,11:30,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,13:20,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,14:50,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,16:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,18:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,19:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,05/10/2024,21:30,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,05/10/2024,10:45,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,05/10/2024,13:30,Joker: Folie à Deux,Rishon Letzion,IMAX
 Yes Planet,05/10/2024,16:15,Joker: Folie à Deux,Rishon Letzion,IMAX
@@ -2544,6 +2199,25 @@ Yes Planet,05/10/2024,19:20,Never Let Go,Jerusalem,Regular
 Cinema City,05/10/2024,15:10,Sex Education,Tel Aviv,Regular
 Cinema City,05/10/2024,18:15,Sex Education,Tel Aviv,Regular
 Cinema City,05/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,05/10/2024,16:40,Sex Education,Rishon Letzion,Regular
+Yes Planet,05/10/2024,19:45,Sex Education,Rishon Letzion,Regular
+Yes Planet,05/10/2024,22:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,05/10/2024,17:00,Sex Education,Tel Aviv,Regular
+Yes Planet,05/10/2024,19:30,Sex Education,Tel Aviv,Regular
+Yes Planet,05/10/2024,22:00,Sex Education,Tel Aviv,Regular
+Yes Planet,05/10/2024,23:50,Sex Education,Tel Aviv,Regular
+Yes Planet,05/10/2024,17:00,Sex Education,Beer Sheva,Regular
+Yes Planet,05/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,05/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,05/10/2024,00:20,Sex Education,Beer Sheva,Regular
+Yes Planet,05/10/2024,16:45,Sex Education,Haifa,Regular
+Yes Planet,05/10/2024,19:15,Sex Education,Haifa,Regular
+Yes Planet,05/10/2024,21:45,Sex Education,Haifa,Regular
+Yes Planet,05/10/2024,23:40,Sex Education,Haifa,Regular
+Yes Planet,05/10/2024,17:10,Sex Education,Jerusalem,Regular
+Yes Planet,05/10/2024,19:45,Sex Education,Jerusalem,Regular
+Yes Planet,05/10/2024,22:15,Sex Education,Jerusalem,Regular
+Yes Planet,05/10/2024,23:45,Sex Education,Jerusalem,Regular
 Cinema City,05/10/2024,16:40,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,05/10/2024,19:15,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,05/10/2024,21:50,Sleeping Dogs,Tel Aviv,Regular
@@ -2577,7 +2251,6 @@ Yes Planet,05/10/2024,00:15,Speak No Evil,Tel Aviv,Regular
 Yes Planet,05/10/2024,21:45,Speak No Evil,Beer Sheva,Regular
 Yes Planet,05/10/2024,00:15,Speak No Evil,Beer Sheva,Regular
 Yes Planet,05/10/2024,21:00,Speak No Evil,Zichron Yaakov,VIP
-Yes Planet,05/10/2024,23:20,Speak No Evil,Zichron Yaakov,VIP
 Yes Planet,05/10/2024,21:45,Speak No Evil,Zichron Yaakov,Regular
 Yes Planet,05/10/2024,00:00,Speak No Evil,Zichron Yaakov,Regular
 Yes Planet,05/10/2024,19:30,Speak No Evil,Haifa,Regular
@@ -2618,14 +2291,14 @@ Yes Planet,05/10/2024,17:00,The Second Act,Haifa,Regular
 Yes Planet,05/10/2024,19:30,The Second Act,Haifa,Regular
 Yes Planet,05/10/2024,15:15,The Second Act,Jerusalem,Regular
 Yes Planet,05/10/2024,17:40,The Second Act,Jerusalem,Regular
-Lev Cinema,05/10/2024,11:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,05/10/2024,16:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,05/10/2024,18:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,05/10/2024,11:00,The Second Act,Raanana,Regular
 Lev Cinema,05/10/2024,13:30,The Second Act,Raanana,Regular
 Lev Cinema,05/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,05/10/2024,11:00,The Second Act,Netanya,Regular
 Lev Cinema,05/10/2024,18:15,The Second Act,Netanya,Regular
+Lev Cinema,05/10/2024,11:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,05/10/2024,16:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,05/10/2024,18:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,05/10/2024,13:10,The Second Act,Shoham,Regular
 Lev Cinema,05/10/2024,19:00,The Second Act,Shoham,Regular
 Lev Cinema,05/10/2024,13:00,The Second Act,Ramat Hasharon,Regular
@@ -2633,25 +2306,6 @@ Lev Cinema,05/10/2024,13:00,The Second Act,Jerusalem,Regular
 Lev Cinema,05/10/2024,13:00,The Second Act,Beer Sheva,Regular
 Lev Cinema,05/10/2024,11:00,The Second Act,Herziliya,Regular
 Lev Cinema,05/10/2024,17:30,The Second Act,Herziliya,Regular
-Cinema City,05/10/2024,16:10,The Tasting,Tel Aviv,Regular
-Cinema City,05/10/2024,18:30,The Tasting,Tel Aviv,Regular
-Cinema City,05/10/2024,20:50,The Tasting,Tel Aviv,Regular
-Cinema City,05/10/2024,11:00,The Tasting,Rishon Letzion,Regular
-Cinema City,05/10/2024,13:30,The Tasting,Rishon Letzion,Regular
-Cinema City,05/10/2024,18:30,The Tasting,Rishon Letzion,Regular
-Cinema City,05/10/2024,20:50,The Tasting,Rishon Letzion,Regular
-Cinema City,05/10/2024,20:30,The Tasting,Jerusalem,Regular
-Cinema City,05/10/2024,19:20,The Tasting,Kfar Saba,Regular
-Cinema City,05/10/2024,21:50,The Tasting,Kfar Saba,Regular
-Cinema City,05/10/2024,18:30,The Tasting,Netanya,Regular
-Cinema City,05/10/2024,20:50,The Tasting,Netanya,Regular
-Cinema City,05/10/2024,19:20,The Tasting,Beer Sheva,Regular
-Cinema City,05/10/2024,17:00,The Tasting,Chadera,Regular
-Cinema City,05/10/2024,19:10,The Tasting,Chadera,Regular
-Cinema City,05/10/2024,21:20,The Tasting,Chadera,Regular
-Cinema City,05/10/2024,16:00,The Tasting,Ashdod,Regular
-Cinema City,05/10/2024,18:30,The Tasting,Ashdod,Regular
-Cinema City,05/10/2024,21:00,The Tasting,Ashdod,Regular
 Yes Planet,05/10/2024,15:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,05/10/2024,17:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,05/10/2024,19:30,The Tasting,Rishon Letzion,Regular
@@ -2729,6 +2383,31 @@ Yes Planet,05/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,05/10/2024,19:45,Wire Room,Beer Sheva,Regular
 Yes Planet,05/10/2024,00:30,Wire Room,Haifa,Regular
 Yes Planet,05/10/2024,00:20,Wire Room,Jerusalem,Regular
+Cinema City,05/10/2024,14:50,Woman of the Hour,Tel Aviv,Regular
+Cinema City,05/10/2024,17:20,Woman of the Hour,Tel Aviv,Regular
+Cinema City,05/10/2024,19:10,Woman of the Hour,Tel Aviv,Regular
+Cinema City,05/10/2024,21:40,Woman of the Hour,Tel Aviv,Regular
+Cinema City,05/10/2024,14:50,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,05/10/2024,17:20,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,05/10/2024,20:15,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,05/10/2024,21:50,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,05/10/2024,23:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,05/10/2024,21:00,Woman of the Hour,Jerusalem,Regular
+Cinema City,05/10/2024,23:20,Woman of the Hour,Jerusalem,Regular
+Cinema City,05/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,05/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,05/10/2024,17:00,Woman of the Hour,Netanya,Regular
+Cinema City,05/10/2024,19:10,Woman of the Hour,Netanya,Prime
+Cinema City,05/10/2024,21:30,Woman of the Hour,Netanya,Prime
+Cinema City,05/10/2024,17:00,Woman of the Hour,Beer Sheva,Regular
+Cinema City,05/10/2024,19:40,Woman of the Hour,Beer Sheva,Regular
+Cinema City,05/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,05/10/2024,17:30,Woman of the Hour,Chadera,Regular
+Cinema City,05/10/2024,19:50,Woman of the Hour,Chadera,Regular
+Cinema City,05/10/2024,22:10,Woman of the Hour,Chadera,Regular
+Cinema City,05/10/2024,16:20,Woman of the Hour,Ashdod,Regular
+Cinema City,05/10/2024,19:35,Woman of the Hour,Ashdod,Regular
+Cinema City,05/10/2024,22:10,Woman of the Hour,Ashdod,Regular
 Yes Planet,05/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,05/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,05/10/2024,19:00,Woman of the Hour,Rishon Letzion,Regular
@@ -2766,8 +2445,8 @@ Yes Planet,06/10/2024,16:30,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,06/10/2024,18:45,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,06/10/2024,21:00,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,06/10/2024,22:00,Adios Buenos Aires,Haifa,Regular
-Lev Cinema,06/10/2024,11:30,Adios Buenos Aires,Tel Aviv,Regular
 Lev Cinema,06/10/2024,19:10,Adios Buenos Aires,Raanana,Regular
+Lev Cinema,06/10/2024,11:30,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,06/10/2024,21:40,Bad Boys: Ride or Die,Tel Aviv,Regular
 Cinema City,06/10/2024,22:20,Bad Boys: Ride or Die,Rishon Letzion,Regular
 Cinema City,06/10/2024,19:00,Bad Boys: Ride or Die,Ashdod,Regular
@@ -2825,9 +2504,6 @@ Cinema City,06/10/2024,19:40,Blink Twice,Tel Aviv,Regular
 Cinema City,06/10/2024,22:00,Blink Twice,Tel Aviv,Regular
 Cinema City,06/10/2024,22:15,Blink Twice,Rishon Letzion,Regular
 Cinema City,06/10/2024,21:45,Blink Twice,Ashdod,Regular
-Yes Planet,06/10/2024,22:30,Blink Twice,Beer Sheva,Regular
-Yes Planet,06/10/2024,19:40,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,06/10/2024,22:05,Blink Twice,Haifa,Regular
 Yes Planet,06/10/2024,19:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,06/10/2024,21:10,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,06/10/2024,21:20,Bonnard: Pierre & Marthe,Tel Aviv,Regular
@@ -2845,25 +2521,11 @@ Cinema City,06/10/2024,16:50,Come Closer,Tel Aviv,Regular
 Cinema City,06/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,06/10/2024,20:10,Come Closer,Tel Aviv,Regular
 Cinema City,06/10/2024,21:30,Come Closer,Tel Aviv,Regular
-Cinema City,06/10/2024,14:00,Come Closer,Rishon Letzion,Regular
-Cinema City,06/10/2024,16:30,Come Closer,Rishon Letzion,Regular
-Cinema City,06/10/2024,19:00,Come Closer,Rishon Letzion,Regular
-Cinema City,06/10/2024,21:30,Come Closer,Rishon Letzion,Regular
-Cinema City,06/10/2024,15:00,Come Closer,Jerusalem,Regular
-Cinema City,06/10/2024,19:00,Come Closer,Jerusalem,Regular
-Cinema City,06/10/2024,20:00,Come Closer,Jerusalem,Regular
-Cinema City,06/10/2024,21:30,Come Closer,Jerusalem,Regular
-Cinema City,06/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,06/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,06/10/2024,19:40,Come Closer,Netanya,Regular
-Cinema City,06/10/2024,18:50,Come Closer,Beer Sheva,Regular
-Cinema City,06/10/2024,14:20,Come Closer,Chadera,Regular
-Cinema City,06/10/2024,16:40,Come Closer,Chadera,Regular
-Cinema City,06/10/2024,19:00,Come Closer,Chadera,Regular
-Cinema City,06/10/2024,21:20,Come Closer,Chadera,Regular
-Cinema City,06/10/2024,16:40,Come Closer,Ashdod,Regular
-Cinema City,06/10/2024,19:10,Come Closer,Ashdod,Regular
-Cinema City,06/10/2024,21:40,Come Closer,Ashdod,Regular
+Cinema City,06/10/2024,14:30,Come Closer,Tel Aviv,4DX
+Cinema City,06/10/2024,16:50,Come Closer,Tel Aviv,4DX
+Cinema City,06/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,06/10/2024,20:10,Come Closer,Tel Aviv,4DX
+Cinema City,06/10/2024,21:30,Come Closer,Tel Aviv,4DX
 Yes Planet,06/10/2024,17:00,Come Closer,Rishon Letzion,Regular
 Yes Planet,06/10/2024,19:30,Come Closer,Rishon Letzion,Regular
 Yes Planet,06/10/2024,21:50,Come Closer,Rishon Letzion,Regular
@@ -2885,14 +2547,14 @@ Yes Planet,06/10/2024,16:50,Come Closer,Jerusalem,Regular
 Yes Planet,06/10/2024,17:05,Come Closer,Jerusalem,Regular
 Yes Planet,06/10/2024,19:05,Come Closer,Jerusalem,Regular
 Yes Planet,06/10/2024,21:30,Come Closer,Jerusalem,Regular
-Lev Cinema,06/10/2024,20:30,Come Closer,Netanya,Regular
+Lev Cinema,06/10/2024,19:15,Come Closer,Raanana,Regular
+Lev Cinema,06/10/2024,21:30,Come Closer,Raanana,Regular
 Lev Cinema,06/10/2024,11:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,06/10/2024,13:45,Come Closer,Tel Aviv,Regular
 Lev Cinema,06/10/2024,16:50,Come Closer,Tel Aviv,Regular
 Lev Cinema,06/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Lev Cinema,06/10/2024,21:30,Come Closer,Tel Aviv,Regular
-Lev Cinema,06/10/2024,19:15,Come Closer,Raanana,Regular
-Lev Cinema,06/10/2024,21:30,Come Closer,Raanana,Regular
+Lev Cinema,06/10/2024,20:30,Come Closer,Netanya,Regular
 Lev Cinema,06/10/2024,17:00,Come Closer,Shoham,Regular
 Lev Cinema,06/10/2024,21:30,Come Closer,Shoham,Regular
 Lev Cinema,06/10/2024,17:00,Come Closer,Jerusalem,Regular
@@ -2934,61 +2596,6 @@ Yes Planet,06/10/2024,15:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,06/10/2024,19:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,06/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,06/10/2024,21:45,It Ends with Us,Haifa,Regular
-Cinema City,06/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,15:50,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,16:45,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,19:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,20:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,22:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,06/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,06/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,06/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,06/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,15:40,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,17:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,18:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,19:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,20:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,22:10,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,06/10/2024,14:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,06/10/2024,15:45,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,06/10/2024,17:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,06/10/2024,19:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,06/10/2024,20:30,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,06/10/2024,22:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,06/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,06/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,06/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,06/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,06/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,06/10/2024,14:50,Joker: Folie à Deux,Netanya,Regular
-Cinema City,06/10/2024,18:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,06/10/2024,21:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,06/10/2024,14:20,Joker: Folie à Deux,Netanya,Prime
-Cinema City,06/10/2024,17:30,Joker: Folie à Deux,Netanya,Prime
-Cinema City,06/10/2024,20:40,Joker: Folie à Deux,Netanya,Prime
-Cinema City,06/10/2024,15:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,06/10/2024,17:20,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,06/10/2024,18:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,06/10/2024,19:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,06/10/2024,20:40,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,06/10/2024,21:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,06/10/2024,15:40,Joker: Folie à Deux,Chadera,Regular
-Cinema City,06/10/2024,19:10,Joker: Folie à Deux,Chadera,Regular
-Cinema City,06/10/2024,21:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,06/10/2024,14:00,Joker: Folie à Deux,Chadera,Prime
-Cinema City,06/10/2024,17:10,Joker: Folie à Deux,Chadera,Prime
-Cinema City,06/10/2024,20:20,Joker: Folie à Deux,Chadera,Prime
-Cinema City,06/10/2024,14:50,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,06/10/2024,16:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,06/10/2024,18:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,06/10/2024,19:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,06/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,06/10/2024,21:30,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,06/10/2024,14:00,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,06/10/2024,15:15,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,06/10/2024,17:00,Joker: Folie à Deux,Rishon Letzion,Regular
@@ -3130,10 +2737,24 @@ Yes Planet,06/10/2024,19:10,Never Let Go,Jerusalem,Regular
 Cinema City,06/10/2024,15:10,Sex Education,Tel Aviv,Regular
 Cinema City,06/10/2024,18:15,Sex Education,Tel Aviv,Regular
 Cinema City,06/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,06/10/2024,16:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,06/10/2024,19:00,Sex Education,Rishon Letzion,Regular
+Yes Planet,06/10/2024,21:30,Sex Education,Rishon Letzion,Regular
+Yes Planet,06/10/2024,16:00,Sex Education,Tel Aviv,Regular
+Yes Planet,06/10/2024,18:40,Sex Education,Tel Aviv,Regular
+Yes Planet,06/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,06/10/2024,17:00,Sex Education,Beer Sheva,Regular
+Yes Planet,06/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,06/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,06/10/2024,17:00,Sex Education,Haifa,Regular
+Yes Planet,06/10/2024,19:30,Sex Education,Haifa,Regular
+Yes Planet,06/10/2024,22:00,Sex Education,Haifa,Regular
+Yes Planet,06/10/2024,16:10,Sex Education,Jerusalem,Regular
+Yes Planet,06/10/2024,19:00,Sex Education,Jerusalem,Regular
+Yes Planet,06/10/2024,21:30,Sex Education,Jerusalem,Regular
 Cinema City,06/10/2024,19:15,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,06/10/2024,21:50,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,06/10/2024,21:30,Sleeping Dogs,Rishon Letzion,Regular
-Cinema City,06/10/2024,19:25,Sleeping Dogs,Jerusalem,Regular
 Cinema City,06/10/2024,21:40,Sleeping Dogs,Kfar Saba,Regular
 Cinema City,06/10/2024,21:40,Sleeping Dogs,Netanya,Regular
 Cinema City,06/10/2024,21:10,Sleeping Dogs,Beer Sheva,Regular
@@ -3192,37 +2813,14 @@ Yes Planet,06/10/2024,17:00,The Second Act,Haifa,Regular
 Yes Planet,06/10/2024,19:30,The Second Act,Haifa,Regular
 Yes Planet,06/10/2024,14:50,The Second Act,Jerusalem,Regular
 Yes Planet,06/10/2024,17:30,The Second Act,Jerusalem,Regular
-Lev Cinema,06/10/2024,11:30,The Second Act,Tel Aviv,Regular
-Lev Cinema,06/10/2024,14:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,06/10/2024,18:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,06/10/2024,17:00,The Second Act,Raanana,Regular
 Lev Cinema,06/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,06/10/2024,18:00,The Second Act,Netanya,Regular
+Lev Cinema,06/10/2024,11:30,The Second Act,Tel Aviv,Regular
+Lev Cinema,06/10/2024,14:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,06/10/2024,18:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,06/10/2024,19:10,The Second Act,Shoham,Regular
 Lev Cinema,06/10/2024,16:40,The Second Act,Ramat Hasharon,Regular
-Cinema City,06/10/2024,16:15,The Tasting,Tel Aviv,Regular
-Cinema City,06/10/2024,18:30,The Tasting,Tel Aviv,Regular
-Cinema City,06/10/2024,20:50,The Tasting,Tel Aviv,Regular
-Cinema City,06/10/2024,14:00,The Tasting,Rishon Letzion,Regular
-Cinema City,06/10/2024,16:20,The Tasting,Rishon Letzion,Regular
-Cinema City,06/10/2024,18:45,The Tasting,Rishon Letzion,Regular
-Cinema City,06/10/2024,21:10,The Tasting,Rishon Letzion,Regular
-Cinema City,06/10/2024,17:00,The Tasting,Jerusalem,Regular
-Cinema City,06/10/2024,19:15,The Tasting,Jerusalem,Regular
-Cinema City,06/10/2024,21:30,The Tasting,Jerusalem,Regular
-Cinema City,06/10/2024,14:00,The Tasting,Kfar Saba,Regular
-Cinema City,06/10/2024,16:30,The Tasting,Kfar Saba,Regular
-Cinema City,06/10/2024,19:00,The Tasting,Kfar Saba,Regular
-Cinema City,06/10/2024,21:30,The Tasting,Kfar Saba,Regular
-Cinema City,06/10/2024,19:10,The Tasting,Netanya,Regular
-Cinema City,06/10/2024,21:30,The Tasting,Netanya,Regular
-Cinema City,06/10/2024,20:30,The Tasting,Beer Sheva,Regular
-Cinema City,06/10/2024,16:50,The Tasting,Chadera,Regular
-Cinema City,06/10/2024,19:00,The Tasting,Chadera,Regular
-Cinema City,06/10/2024,21:10,The Tasting,Chadera,Regular
-Cinema City,06/10/2024,16:20,The Tasting,Ashdod,Regular
-Cinema City,06/10/2024,18:45,The Tasting,Ashdod,Regular
-Cinema City,06/10/2024,21:10,The Tasting,Ashdod,Regular
 Yes Planet,06/10/2024,15:00,The Tasting,Rishon Letzion,Regular
 Yes Planet,06/10/2024,17:00,The Tasting,Rishon Letzion,Regular
 Yes Planet,06/10/2024,19:10,The Tasting,Rishon Letzion,Regular
@@ -3284,6 +2882,29 @@ Cinema City,06/10/2024,19:20,This Time Next Year,Ashdod,Regular
 Yes Planet,06/10/2024,16:45,This Time Next Year,Rishon Letzion,Regular
 Yes Planet,06/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,06/10/2024,19:45,Wire Room,Beer Sheva,Regular
+Cinema City,06/10/2024,17:00,Woman of the Hour,Tel Aviv,Regular
+Cinema City,06/10/2024,19:30,Woman of the Hour,Tel Aviv,Regular
+Cinema City,06/10/2024,21:40,Woman of the Hour,Tel Aviv,Regular
+Cinema City,06/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,06/10/2024,17:30,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,06/10/2024,19:10,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,06/10/2024,21:45,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,06/10/2024,17:20,Woman of the Hour,Jerusalem,Regular
+Cinema City,06/10/2024,19:40,Woman of the Hour,Jerusalem,Regular
+Cinema City,06/10/2024,22:00,Woman of the Hour,Jerusalem,Regular
+Cinema City,06/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,06/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,06/10/2024,19:10,Woman of the Hour,Netanya,Prime
+Cinema City,06/10/2024,21:30,Woman of the Hour,Netanya,Prime
+Cinema City,06/10/2024,16:30,Woman of the Hour,Beer Sheva,Regular
+Cinema City,06/10/2024,19:10,Woman of the Hour,Beer Sheva,Regular
+Cinema City,06/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,06/10/2024,17:00,Woman of the Hour,Chadera,Regular
+Cinema City,06/10/2024,19:20,Woman of the Hour,Chadera,Regular
+Cinema City,06/10/2024,21:40,Woman of the Hour,Chadera,Regular
+Cinema City,06/10/2024,16:30,Woman of the Hour,Ashdod,Regular
+Cinema City,06/10/2024,19:20,Woman of the Hour,Ashdod,Regular
+Cinema City,06/10/2024,22:00,Woman of the Hour,Ashdod,Regular
 Yes Planet,06/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,06/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,06/10/2024,19:00,Woman of the Hour,Rishon Letzion,Regular
@@ -3315,8 +2936,8 @@ Yes Planet,07/10/2024,16:30,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,07/10/2024,18:45,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,07/10/2024,21:00,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,07/10/2024,22:00,Adios Buenos Aires,Haifa,Regular
-Lev Cinema,07/10/2024,13:50,Adios Buenos Aires,Tel Aviv,Regular
 Lev Cinema,07/10/2024,17:00,Adios Buenos Aires,Raanana,Regular
+Lev Cinema,07/10/2024,13:50,Adios Buenos Aires,Tel Aviv,Regular
 Cinema City,07/10/2024,21:50,Bad Boys: Ride or Die,Jerusalem,Regular
 Yes Planet,07/10/2024,21:45,Bad Boys: Ride or Die,Rishon Letzion,Regular
 Yes Planet,07/10/2024,21:30,Bad Boys: Ride or Die,Tel Aviv,Regular
@@ -3372,9 +2993,6 @@ Cinema City,07/10/2024,22:00,Blink Twice,Tel Aviv,Regular
 Cinema City,07/10/2024,22:10,Blink Twice,Rishon Letzion,Regular
 Cinema City,07/10/2024,22:20,Blink Twice,Jerusalem,Regular
 Cinema City,07/10/2024,22:00,Blink Twice,Ashdod,Regular
-Yes Planet,07/10/2024,22:30,Blink Twice,Beer Sheva,Regular
-Yes Planet,07/10/2024,19:40,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,07/10/2024,22:00,Blink Twice,Haifa,Regular
 Yes Planet,07/10/2024,19:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,07/10/2024,21:10,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,07/10/2024,21:20,Bonnard: Pierre & Marthe,Tel Aviv,Regular
@@ -3393,25 +3011,11 @@ Cinema City,07/10/2024,16:50,Come Closer,Tel Aviv,Regular
 Cinema City,07/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,07/10/2024,20:10,Come Closer,Tel Aviv,Regular
 Cinema City,07/10/2024,21:30,Come Closer,Tel Aviv,Regular
-Cinema City,07/10/2024,14:00,Come Closer,Rishon Letzion,Regular
-Cinema City,07/10/2024,16:30,Come Closer,Rishon Letzion,Regular
-Cinema City,07/10/2024,19:00,Come Closer,Rishon Letzion,Regular
-Cinema City,07/10/2024,21:30,Come Closer,Rishon Letzion,Regular
-Cinema City,07/10/2024,15:00,Come Closer,Jerusalem,Regular
-Cinema City,07/10/2024,19:00,Come Closer,Jerusalem,Regular
-Cinema City,07/10/2024,20:00,Come Closer,Jerusalem,Regular
-Cinema City,07/10/2024,21:30,Come Closer,Jerusalem,Regular
-Cinema City,07/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,07/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,07/10/2024,19:40,Come Closer,Netanya,Regular
-Cinema City,07/10/2024,18:50,Come Closer,Beer Sheva,Regular
-Cinema City,07/10/2024,14:20,Come Closer,Chadera,Regular
-Cinema City,07/10/2024,16:40,Come Closer,Chadera,Regular
-Cinema City,07/10/2024,19:00,Come Closer,Chadera,Regular
-Cinema City,07/10/2024,21:20,Come Closer,Chadera,Regular
-Cinema City,07/10/2024,16:40,Come Closer,Ashdod,Regular
-Cinema City,07/10/2024,19:10,Come Closer,Ashdod,Regular
-Cinema City,07/10/2024,21:40,Come Closer,Ashdod,Regular
+Cinema City,07/10/2024,14:30,Come Closer,Tel Aviv,4DX
+Cinema City,07/10/2024,16:50,Come Closer,Tel Aviv,4DX
+Cinema City,07/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,07/10/2024,20:10,Come Closer,Tel Aviv,4DX
+Cinema City,07/10/2024,21:30,Come Closer,Tel Aviv,4DX
 Yes Planet,07/10/2024,17:00,Come Closer,Rishon Letzion,Regular
 Yes Planet,07/10/2024,19:30,Come Closer,Rishon Letzion,Regular
 Yes Planet,07/10/2024,21:50,Come Closer,Rishon Letzion,Regular
@@ -3433,14 +3037,14 @@ Yes Planet,07/10/2024,16:50,Come Closer,Jerusalem,Regular
 Yes Planet,07/10/2024,17:05,Come Closer,Jerusalem,Regular
 Yes Planet,07/10/2024,19:05,Come Closer,Jerusalem,Regular
 Yes Planet,07/10/2024,21:30,Come Closer,Jerusalem,Regular
-Lev Cinema,07/10/2024,20:30,Come Closer,Netanya,Regular
+Lev Cinema,07/10/2024,19:00,Come Closer,Raanana,Regular
+Lev Cinema,07/10/2024,21:40,Come Closer,Raanana,Regular
 Lev Cinema,07/10/2024,11:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,07/10/2024,14:20,Come Closer,Tel Aviv,Regular
 Lev Cinema,07/10/2024,16:40,Come Closer,Tel Aviv,Regular
 Lev Cinema,07/10/2024,18:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,07/10/2024,21:50,Come Closer,Tel Aviv,Regular
-Lev Cinema,07/10/2024,19:00,Come Closer,Raanana,Regular
-Lev Cinema,07/10/2024,21:40,Come Closer,Raanana,Regular
+Lev Cinema,07/10/2024,20:30,Come Closer,Netanya,Regular
 Lev Cinema,07/10/2024,17:00,Come Closer,Shoham,Regular
 Lev Cinema,07/10/2024,21:30,Come Closer,Shoham,Regular
 Lev Cinema,07/10/2024,19:00,Come Closer,Ramat Hasharon,Regular
@@ -3480,61 +3084,6 @@ Yes Planet,07/10/2024,15:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,07/10/2024,19:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,07/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,07/10/2024,21:45,It Ends with Us,Haifa,Regular
-Cinema City,07/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,15:50,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,16:45,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,19:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,20:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,22:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,07/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,07/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,07/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,07/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,15:40,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,17:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,18:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,19:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,20:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,22:10,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,07/10/2024,14:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,07/10/2024,15:45,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,07/10/2024,17:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,07/10/2024,19:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,07/10/2024,20:30,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,07/10/2024,22:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,07/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,07/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,07/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,07/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,07/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,07/10/2024,14:50,Joker: Folie à Deux,Netanya,Regular
-Cinema City,07/10/2024,18:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,07/10/2024,21:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,07/10/2024,14:20,Joker: Folie à Deux,Netanya,Prime
-Cinema City,07/10/2024,17:30,Joker: Folie à Deux,Netanya,Prime
-Cinema City,07/10/2024,20:40,Joker: Folie à Deux,Netanya,Prime
-Cinema City,07/10/2024,15:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,07/10/2024,17:20,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,07/10/2024,18:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,07/10/2024,19:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,07/10/2024,20:40,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,07/10/2024,21:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,07/10/2024,15:40,Joker: Folie à Deux,Chadera,Regular
-Cinema City,07/10/2024,19:10,Joker: Folie à Deux,Chadera,Regular
-Cinema City,07/10/2024,21:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,07/10/2024,14:00,Joker: Folie à Deux,Chadera,Prime
-Cinema City,07/10/2024,17:10,Joker: Folie à Deux,Chadera,Prime
-Cinema City,07/10/2024,20:20,Joker: Folie à Deux,Chadera,Prime
-Cinema City,07/10/2024,14:50,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,07/10/2024,16:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,07/10/2024,18:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,07/10/2024,19:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,07/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,07/10/2024,21:30,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,07/10/2024,14:00,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,07/10/2024,15:15,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,07/10/2024,17:00,Joker: Folie à Deux,Rishon Letzion,Regular
@@ -3674,6 +3223,21 @@ Yes Planet,07/10/2024,19:10,Never Let Go,Jerusalem,Regular
 Cinema City,07/10/2024,15:10,Sex Education,Tel Aviv,Regular
 Cinema City,07/10/2024,18:15,Sex Education,Tel Aviv,Regular
 Cinema City,07/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,07/10/2024,16:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,07/10/2024,19:00,Sex Education,Rishon Letzion,Regular
+Yes Planet,07/10/2024,21:30,Sex Education,Rishon Letzion,Regular
+Yes Planet,07/10/2024,16:00,Sex Education,Tel Aviv,Regular
+Yes Planet,07/10/2024,18:40,Sex Education,Tel Aviv,Regular
+Yes Planet,07/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,07/10/2024,17:00,Sex Education,Beer Sheva,Regular
+Yes Planet,07/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,07/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,07/10/2024,17:00,Sex Education,Haifa,Regular
+Yes Planet,07/10/2024,19:30,Sex Education,Haifa,Regular
+Yes Planet,07/10/2024,22:00,Sex Education,Haifa,Regular
+Yes Planet,07/10/2024,16:10,Sex Education,Jerusalem,Regular
+Yes Planet,07/10/2024,19:00,Sex Education,Jerusalem,Regular
+Yes Planet,07/10/2024,21:30,Sex Education,Jerusalem,Regular
 Cinema City,07/10/2024,19:15,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,07/10/2024,21:50,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,07/10/2024,21:40,Sleeping Dogs,Rishon Letzion,Regular
@@ -3738,37 +3302,14 @@ Yes Planet,07/10/2024,17:00,The Second Act,Haifa,Regular
 Yes Planet,07/10/2024,19:30,The Second Act,Haifa,Regular
 Yes Planet,07/10/2024,14:50,The Second Act,Jerusalem,Regular
 Yes Planet,07/10/2024,17:30,The Second Act,Jerusalem,Regular
-Lev Cinema,07/10/2024,11:30,The Second Act,Tel Aviv,Regular
-Lev Cinema,07/10/2024,14:40,The Second Act,Tel Aviv,Regular
-Lev Cinema,07/10/2024,16:00,The Second Act,Tel Aviv,Regular
 Lev Cinema,07/10/2024,17:00,The Second Act,Raanana,Regular
 Lev Cinema,07/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,07/10/2024,18:00,The Second Act,Netanya,Regular
+Lev Cinema,07/10/2024,11:30,The Second Act,Tel Aviv,Regular
+Lev Cinema,07/10/2024,14:40,The Second Act,Tel Aviv,Regular
+Lev Cinema,07/10/2024,16:00,The Second Act,Tel Aviv,Regular
 Lev Cinema,07/10/2024,19:10,The Second Act,Shoham,Regular
 Lev Cinema,07/10/2024,16:40,The Second Act,Ramat Hasharon,Regular
-Cinema City,07/10/2024,16:15,The Tasting,Tel Aviv,Regular
-Cinema City,07/10/2024,18:30,The Tasting,Tel Aviv,Regular
-Cinema City,07/10/2024,20:50,The Tasting,Tel Aviv,Regular
-Cinema City,07/10/2024,14:00,The Tasting,Rishon Letzion,Regular
-Cinema City,07/10/2024,16:20,The Tasting,Rishon Letzion,Regular
-Cinema City,07/10/2024,18:45,The Tasting,Rishon Letzion,Regular
-Cinema City,07/10/2024,21:10,The Tasting,Rishon Letzion,Regular
-Cinema City,07/10/2024,17:00,The Tasting,Jerusalem,Regular
-Cinema City,07/10/2024,19:15,The Tasting,Jerusalem,Regular
-Cinema City,07/10/2024,21:30,The Tasting,Jerusalem,Regular
-Cinema City,07/10/2024,14:00,The Tasting,Kfar Saba,Regular
-Cinema City,07/10/2024,16:30,The Tasting,Kfar Saba,Regular
-Cinema City,07/10/2024,19:00,The Tasting,Kfar Saba,Regular
-Cinema City,07/10/2024,21:30,The Tasting,Kfar Saba,Regular
-Cinema City,07/10/2024,19:10,The Tasting,Netanya,Regular
-Cinema City,07/10/2024,21:30,The Tasting,Netanya,Regular
-Cinema City,07/10/2024,20:30,The Tasting,Beer Sheva,Regular
-Cinema City,07/10/2024,17:00,The Tasting,Chadera,Regular
-Cinema City,07/10/2024,19:10,The Tasting,Chadera,Regular
-Cinema City,07/10/2024,21:20,The Tasting,Chadera,Regular
-Cinema City,07/10/2024,16:20,The Tasting,Ashdod,Regular
-Cinema City,07/10/2024,18:45,The Tasting,Ashdod,Regular
-Cinema City,07/10/2024,21:10,The Tasting,Ashdod,Regular
 Yes Planet,07/10/2024,15:00,The Tasting,Rishon Letzion,Regular
 Yes Planet,07/10/2024,17:00,The Tasting,Rishon Letzion,Regular
 Yes Planet,07/10/2024,19:10,The Tasting,Rishon Letzion,Regular
@@ -3830,6 +3371,29 @@ Cinema City,07/10/2024,21:40,This Time Next Year,Tel Aviv,Regular
 Yes Planet,07/10/2024,16:45,This Time Next Year,Rishon Letzion,Regular
 Yes Planet,07/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,07/10/2024,19:45,Wire Room,Beer Sheva,Regular
+Cinema City,07/10/2024,17:00,Woman of the Hour,Tel Aviv,Regular
+Cinema City,07/10/2024,19:30,Woman of the Hour,Tel Aviv,Regular
+Cinema City,07/10/2024,21:50,Woman of the Hour,Tel Aviv,Regular
+Cinema City,07/10/2024,14:30,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,07/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,07/10/2024,19:10,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,07/10/2024,21:45,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,07/10/2024,17:20,Woman of the Hour,Jerusalem,Regular
+Cinema City,07/10/2024,19:40,Woman of the Hour,Jerusalem,Regular
+Cinema City,07/10/2024,22:00,Woman of the Hour,Jerusalem,Regular
+Cinema City,07/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,07/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,07/10/2024,19:10,Woman of the Hour,Netanya,Prime
+Cinema City,07/10/2024,21:30,Woman of the Hour,Netanya,Prime
+Cinema City,07/10/2024,16:30,Woman of the Hour,Beer Sheva,Regular
+Cinema City,07/10/2024,19:10,Woman of the Hour,Beer Sheva,Regular
+Cinema City,07/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,07/10/2024,17:00,Woman of the Hour,Chadera,Regular
+Cinema City,07/10/2024,19:20,Woman of the Hour,Chadera,Regular
+Cinema City,07/10/2024,21:40,Woman of the Hour,Chadera,Regular
+Cinema City,07/10/2024,16:30,Woman of the Hour,Ashdod,Regular
+Cinema City,07/10/2024,19:20,Woman of the Hour,Ashdod,Regular
+Cinema City,07/10/2024,22:00,Woman of the Hour,Ashdod,Regular
 Yes Planet,07/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,07/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,07/10/2024,19:00,Woman of the Hour,Rishon Letzion,Regular
@@ -3854,6 +3418,9 @@ Yes Planet,07/10/2024,21:20,Woman of the Hour,Jerusalem,Regular
 Cinema City,08/10/2024,10:40,A World Apart,Tel Aviv,Regular
 Cinema City,08/10/2024,10:15,A World Apart,Rishon Letzion,Regular
 Cinema City,08/10/2024,12:50,A World Apart,Rishon Letzion,Regular
+Cinema City,08/10/2024,15:15,A World Apart,Rishon Letzion,Regular
+Cinema City,08/10/2024,17:30,A World Apart,Rishon Letzion,Regular
+Cinema City,08/10/2024,19:45,A World Apart,Rishon Letzion,Regular
 Cinema City,08/10/2024,10:20,A World Apart,Jerusalem,Regular
 Cinema City,08/10/2024,10:30,A World Apart,Kfar Saba,Regular
 Cinema City,08/10/2024,13:10,A World Apart,Kfar Saba,Regular
@@ -3896,13 +3463,13 @@ Yes Planet,08/10/2024,16:30,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,08/10/2024,18:45,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,08/10/2024,21:00,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,08/10/2024,22:00,Adios Buenos Aires,Haifa,Regular
-Lev Cinema,08/10/2024,11:10,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,08/10/2024,15:20,Adios Buenos Aires,Tel Aviv,Regular
+Lev Cinema,08/10/2024,21:00,Adios Buenos Aires,Herziliya,Regular
 Lev Cinema,08/10/2024,11:00,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,08/10/2024,17:10,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,08/10/2024,21:00,Adios Buenos Aires,Raanana,Regular
-Lev Cinema,08/10/2024,21:00,Adios Buenos Aires,Herziliya,Regular
 Lev Cinema,08/10/2024,13:00,Adios Buenos Aires,Netanya,Regular
+Lev Cinema,08/10/2024,11:10,Adios Buenos Aires,Tel Aviv,Regular
+Lev Cinema,08/10/2024,15:20,Adios Buenos Aires,Tel Aviv,Regular
 Yes Planet,08/10/2024,21:45,Bad Boys: Ride or Die,Rishon Letzion,Regular
 Yes Planet,08/10/2024,21:30,Bad Boys: Ride or Die,Tel Aviv,Regular
 Yes Planet,08/10/2024,19:15,Bad Boys: Ride or Die,Beer Sheva,Regular
@@ -3954,11 +3521,6 @@ Yes Planet,08/10/2024,14:00,Beetlejuice Beetlejuice,Jerusalem,Regular
 Yes Planet,08/10/2024,21:45,Beetlejuice Beetlejuice,Jerusalem,Regular
 Cinema City,08/10/2024,21:40,Blink Twice,Tel Aviv,Regular
 Cinema City,08/10/2024,22:00,Blink Twice,Ashdod,Regular
-Yes Planet,08/10/2024,22:30,Blink Twice,Beer Sheva,Regular
-Yes Planet,08/10/2024,11:15,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,08/10/2024,13:30,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,08/10/2024,19:50,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,08/10/2024,22:20,Blink Twice,Haifa,Regular
 Yes Planet,08/10/2024,11:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,08/10/2024,19:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,08/10/2024,21:10,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
@@ -3983,40 +3545,15 @@ Cinema City,08/10/2024,19:00,Come Closer,Tel Aviv,Regular
 Cinema City,08/10/2024,20:20,Come Closer,Tel Aviv,Regular
 Cinema City,08/10/2024,21:30,Come Closer,Tel Aviv,Regular
 Cinema City,08/10/2024,10:30,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,11:30,Come Closer,Tel Aviv,4DX
 Cinema City,08/10/2024,13:00,Come Closer,Tel Aviv,4DX
-Cinema City,08/10/2024,11:15,Come Closer,Rishon Letzion,Regular
-Cinema City,08/10/2024,13:45,Come Closer,Rishon Letzion,Regular
-Cinema City,08/10/2024,16:15,Come Closer,Rishon Letzion,Regular
-Cinema City,08/10/2024,18:45,Come Closer,Rishon Letzion,Regular
-Cinema City,08/10/2024,21:15,Come Closer,Rishon Letzion,Regular
-Cinema City,08/10/2024,10:10,Come Closer,Jerusalem,Regular
-Cinema City,08/10/2024,12:30,Come Closer,Jerusalem,Regular
-Cinema City,08/10/2024,14:50,Come Closer,Jerusalem,Regular
-Cinema City,08/10/2024,16:20,Come Closer,Jerusalem,Regular
-Cinema City,08/10/2024,18:40,Come Closer,Jerusalem,Regular
-Cinema City,08/10/2024,21:00,Come Closer,Jerusalem,Regular
-Cinema City,08/10/2024,11:30,Come Closer,Kfar Saba,Regular
-Cinema City,08/10/2024,14:00,Come Closer,Kfar Saba,Regular
-Cinema City,08/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,08/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,08/10/2024,10:10,Come Closer,Netanya,Regular
-Cinema City,08/10/2024,12:30,Come Closer,Netanya,Regular
-Cinema City,08/10/2024,19:30,Come Closer,Netanya,Regular
-Cinema City,08/10/2024,10:10,Come Closer,Beer Sheva,Regular
-Cinema City,08/10/2024,12:40,Come Closer,Beer Sheva,Regular
-Cinema City,08/10/2024,18:50,Come Closer,Beer Sheva,Regular
-Cinema City,08/10/2024,10:30,Come Closer,Chadera,Regular
-Cinema City,08/10/2024,12:45,Come Closer,Chadera,Regular
-Cinema City,08/10/2024,15:00,Come Closer,Chadera,Regular
-Cinema City,08/10/2024,17:00,Come Closer,Chadera,Regular
-Cinema City,08/10/2024,19:00,Come Closer,Chadera,Regular
-Cinema City,08/10/2024,21:00,Come Closer,Chadera,Regular
-Cinema City,08/10/2024,12:00,Come Closer,Ashdod,Regular
-Cinema City,08/10/2024,14:30,Come Closer,Ashdod,Regular
-Cinema City,08/10/2024,17:00,Come Closer,Ashdod,Regular
-Cinema City,08/10/2024,18:15,Come Closer,Ashdod,Regular
-Cinema City,08/10/2024,19:30,Come Closer,Ashdod,Regular
-Cinema City,08/10/2024,20:45,Come Closer,Ashdod,Regular
+Cinema City,08/10/2024,14:00,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,15:40,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,16:30,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,18:00,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,19:00,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,20:20,Come Closer,Tel Aviv,4DX
+Cinema City,08/10/2024,21:30,Come Closer,Tel Aviv,4DX
 Yes Planet,08/10/2024,12:00,Come Closer,Rishon Letzion,Regular
 Yes Planet,08/10/2024,17:00,Come Closer,Rishon Letzion,Regular
 Yes Planet,08/10/2024,19:30,Come Closer,Rishon Letzion,Regular
@@ -4045,16 +3582,16 @@ Yes Planet,08/10/2024,16:50,Come Closer,Jerusalem,Regular
 Yes Planet,08/10/2024,17:05,Come Closer,Jerusalem,Regular
 Yes Planet,08/10/2024,19:05,Come Closer,Jerusalem,Regular
 Yes Planet,08/10/2024,21:30,Come Closer,Jerusalem,Regular
-Lev Cinema,08/10/2024,13:40,Come Closer,Netanya,Regular
-Lev Cinema,08/10/2024,21:00,Come Closer,Netanya,Regular
-Lev Cinema,08/10/2024,10:50,Come Closer,Tel Aviv,Regular
-Lev Cinema,08/10/2024,13:30,Come Closer,Tel Aviv,Regular
-Lev Cinema,08/10/2024,17:20,Come Closer,Tel Aviv,Regular
-Lev Cinema,08/10/2024,22:15,Come Closer,Tel Aviv,Regular
 Lev Cinema,08/10/2024,13:00,Come Closer,Raanana,Regular
 Lev Cinema,08/10/2024,15:20,Come Closer,Raanana,Regular
 Lev Cinema,08/10/2024,19:00,Come Closer,Raanana,Regular
 Lev Cinema,08/10/2024,21:30,Come Closer,Raanana,Regular
+Lev Cinema,08/10/2024,10:50,Come Closer,Tel Aviv,Regular
+Lev Cinema,08/10/2024,13:30,Come Closer,Tel Aviv,Regular
+Lev Cinema,08/10/2024,17:20,Come Closer,Tel Aviv,Regular
+Lev Cinema,08/10/2024,22:15,Come Closer,Tel Aviv,Regular
+Lev Cinema,08/10/2024,13:40,Come Closer,Netanya,Regular
+Lev Cinema,08/10/2024,21:00,Come Closer,Netanya,Regular
 Lev Cinema,08/10/2024,15:30,Come Closer,Jerusalem,Regular
 Lev Cinema,08/10/2024,20:30,Come Closer,Ramat Hasharon,Regular
 Cinema City,08/10/2024,10:30,Daddio,Tel Aviv,Regular
@@ -4117,67 +3654,6 @@ Yes Planet,08/10/2024,19:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,08/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,08/10/2024,11:10,It Ends with Us,Haifa,Regular
 Yes Planet,08/10/2024,21:45,It Ends with Us,Haifa,Regular
-Cinema City,08/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,15:30,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,16:45,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,18:50,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,20:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,22:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,08/10/2024,15:30,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,08/10/2024,18:50,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,08/10/2024,22:10,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,08/10/2024,11:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,15:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,17:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,18:10,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,20:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,08/10/2024,12:30,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,08/10/2024,15:45,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,08/10/2024,17:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,08/10/2024,19:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,08/10/2024,20:30,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,08/10/2024,22:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,08/10/2024,20:30,Joker: Folie à Deux,Jerusalem,VIP
-Cinema City,08/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,08/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,08/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,08/10/2024,10:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,08/10/2024,13:20,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,08/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,08/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,08/10/2024,11:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,08/10/2024,14:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,08/10/2024,17:40,Joker: Folie à Deux,Netanya,Regular
-Cinema City,08/10/2024,19:00,Joker: Folie à Deux,Netanya,Regular
-Cinema City,08/10/2024,20:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,08/10/2024,21:40,Joker: Folie à Deux,Netanya,Regular
-Cinema City,08/10/2024,14:30,Joker: Folie à Deux,Netanya,Prime
-Cinema City,08/10/2024,17:30,Joker: Folie à Deux,Netanya,Prime
-Cinema City,08/10/2024,11:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,15:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,17:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,18:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,19:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,20:45,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,21:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,08/10/2024,11:10,Joker: Folie à Deux,Chadera,Regular
-Cinema City,08/10/2024,14:15,Joker: Folie à Deux,Chadera,Regular
-Cinema City,08/10/2024,15:40,Joker: Folie à Deux,Chadera,Regular
-Cinema City,08/10/2024,19:10,Joker: Folie à Deux,Chadera,Regular
-Cinema City,08/10/2024,21:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,08/10/2024,17:10,Joker: Folie à Deux,Chadera,Prime
-Cinema City,08/10/2024,20:15,Joker: Folie à Deux,Chadera,Prime
-Cinema City,08/10/2024,13:30,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,08/10/2024,15:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,08/10/2024,16:45,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,08/10/2024,18:15,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,08/10/2024,19:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,08/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,08/10/2024,21:30,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,08/10/2024,11:00,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,08/10/2024,11:30,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,08/10/2024,14:00,Joker: Folie à Deux,Rishon Letzion,Regular
@@ -4372,6 +3848,25 @@ Cinema City,08/10/2024,11:50,Sex Education,Tel Aviv,Regular
 Cinema City,08/10/2024,15:00,Sex Education,Tel Aviv,Regular
 Cinema City,08/10/2024,18:10,Sex Education,Tel Aviv,Regular
 Cinema City,08/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,08/10/2024,16:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,08/10/2024,19:00,Sex Education,Rishon Letzion,Regular
+Yes Planet,08/10/2024,21:30,Sex Education,Rishon Letzion,Regular
+Yes Planet,08/10/2024,11:00,Sex Education,Tel Aviv,Regular
+Yes Planet,08/10/2024,13:30,Sex Education,Tel Aviv,Regular
+Yes Planet,08/10/2024,16:00,Sex Education,Tel Aviv,Regular
+Yes Planet,08/10/2024,18:40,Sex Education,Tel Aviv,Regular
+Yes Planet,08/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,08/10/2024,17:00,Sex Education,Beer Sheva,Regular
+Yes Planet,08/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,08/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,08/10/2024,11:55,Sex Education,Haifa,Regular
+Yes Planet,08/10/2024,17:00,Sex Education,Haifa,Regular
+Yes Planet,08/10/2024,19:30,Sex Education,Haifa,Regular
+Yes Planet,08/10/2024,22:00,Sex Education,Haifa,Regular
+Yes Planet,08/10/2024,11:20,Sex Education,Jerusalem,Regular
+Yes Planet,08/10/2024,16:10,Sex Education,Jerusalem,Regular
+Yes Planet,08/10/2024,19:00,Sex Education,Jerusalem,Regular
+Yes Planet,08/10/2024,21:30,Sex Education,Jerusalem,Regular
 Cinema City,08/10/2024,11:20,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,08/10/2024,13:50,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,08/10/2024,18:30,Sleeping Dogs,Tel Aviv,Regular
@@ -4470,10 +3965,6 @@ Yes Planet,08/10/2024,20:00,The Second Act,Haifa,Regular
 Yes Planet,08/10/2024,11:40,The Second Act,Jerusalem,Regular
 Yes Planet,08/10/2024,14:30,The Second Act,Jerusalem,Regular
 Yes Planet,08/10/2024,17:10,The Second Act,Jerusalem,Regular
-Lev Cinema,08/10/2024,11:00,The Second Act,Tel Aviv,Regular
-Lev Cinema,08/10/2024,13:40,The Second Act,Tel Aviv,Regular
-Lev Cinema,08/10/2024,16:05,The Second Act,Tel Aviv,Regular
-Lev Cinema,08/10/2024,18:20,The Second Act,Tel Aviv,Regular
 Lev Cinema,08/10/2024,11:00,The Second Act,Raanana,Regular
 Lev Cinema,08/10/2024,13:30,The Second Act,Raanana,Regular
 Lev Cinema,08/10/2024,16:00,The Second Act,Raanana,Regular
@@ -4481,6 +3972,10 @@ Lev Cinema,08/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,08/10/2024,11:00,The Second Act,Netanya,Regular
 Lev Cinema,08/10/2024,13:30,The Second Act,Netanya,Regular
 Lev Cinema,08/10/2024,18:30,The Second Act,Netanya,Regular
+Lev Cinema,08/10/2024,11:00,The Second Act,Tel Aviv,Regular
+Lev Cinema,08/10/2024,13:40,The Second Act,Tel Aviv,Regular
+Lev Cinema,08/10/2024,16:05,The Second Act,Tel Aviv,Regular
+Lev Cinema,08/10/2024,18:20,The Second Act,Tel Aviv,Regular
 Lev Cinema,08/10/2024,11:00,The Second Act,Shoham,Regular
 Lev Cinema,08/10/2024,13:30,The Second Act,Shoham,Regular
 Lev Cinema,08/10/2024,19:10,The Second Act,Shoham,Regular
@@ -4488,46 +3983,6 @@ Lev Cinema,08/10/2024,13:30,The Second Act,Ramat Hasharon,Regular
 Lev Cinema,08/10/2024,13:00,The Second Act,Jerusalem,Regular
 Lev Cinema,08/10/2024,19:00,The Second Act,Beer Sheva,Regular
 Lev Cinema,08/10/2024,16:45,The Second Act,Herziliya,Regular
-Cinema City,08/10/2024,11:15,The Tasting,Tel Aviv,Regular
-Cinema City,08/10/2024,13:40,The Tasting,Tel Aviv,Regular
-Cinema City,08/10/2024,16:00,The Tasting,Tel Aviv,Regular
-Cinema City,08/10/2024,18:20,The Tasting,Tel Aviv,Regular
-Cinema City,08/10/2024,20:40,The Tasting,Tel Aviv,Regular
-Cinema City,08/10/2024,11:00,The Tasting,Rishon Letzion,Regular
-Cinema City,08/10/2024,13:40,The Tasting,Rishon Letzion,Regular
-Cinema City,08/10/2024,14:30,The Tasting,Rishon Letzion,Regular
-Cinema City,08/10/2024,16:20,The Tasting,Rishon Letzion,Regular
-Cinema City,08/10/2024,18:45,The Tasting,Rishon Letzion,Regular
-Cinema City,08/10/2024,21:10,The Tasting,Rishon Letzion,Regular
-Cinema City,08/10/2024,10:00,The Tasting,Jerusalem,Regular
-Cinema City,08/10/2024,12:20,The Tasting,Jerusalem,Regular
-Cinema City,08/10/2024,14:40,The Tasting,Jerusalem,Regular
-Cinema City,08/10/2024,16:00,The Tasting,Jerusalem,Regular
-Cinema City,08/10/2024,18:15,The Tasting,Jerusalem,Regular
-Cinema City,08/10/2024,21:10,The Tasting,Jerusalem,Regular
-Cinema City,08/10/2024,11:30,The Tasting,Kfar Saba,Regular
-Cinema City,08/10/2024,14:00,The Tasting,Kfar Saba,Regular
-Cinema City,08/10/2024,16:30,The Tasting,Kfar Saba,Regular
-Cinema City,08/10/2024,19:00,The Tasting,Kfar Saba,Regular
-Cinema City,08/10/2024,21:30,The Tasting,Kfar Saba,Regular
-Cinema City,08/10/2024,10:00,The Tasting,Netanya,Regular
-Cinema City,08/10/2024,12:20,The Tasting,Netanya,Regular
-Cinema City,08/10/2024,19:40,The Tasting,Netanya,Regular
-Cinema City,08/10/2024,21:50,The Tasting,Netanya,Regular
-Cinema City,08/10/2024,10:00,The Tasting,Beer Sheva,Regular
-Cinema City,08/10/2024,12:30,The Tasting,Beer Sheva,Regular
-Cinema City,08/10/2024,15:00,The Tasting,Beer Sheva,Regular
-Cinema City,08/10/2024,20:30,The Tasting,Beer Sheva,Regular
-Cinema City,08/10/2024,11:30,The Tasting,Chadera,Regular
-Cinema City,08/10/2024,13:45,The Tasting,Chadera,Regular
-Cinema City,08/10/2024,16:00,The Tasting,Chadera,Regular
-Cinema City,08/10/2024,18:15,The Tasting,Chadera,Regular
-Cinema City,08/10/2024,20:30,The Tasting,Chadera,Regular
-Cinema City,08/10/2024,12:00,The Tasting,Ashdod,Regular
-Cinema City,08/10/2024,13:50,The Tasting,Ashdod,Regular
-Cinema City,08/10/2024,16:20,The Tasting,Ashdod,Regular
-Cinema City,08/10/2024,18:45,The Tasting,Ashdod,Regular
-Cinema City,08/10/2024,21:10,The Tasting,Ashdod,Regular
 Yes Planet,08/10/2024,11:10,The Tasting,Rishon Letzion,Regular
 Yes Planet,08/10/2024,12:30,The Tasting,Rishon Letzion,Regular
 Yes Planet,08/10/2024,15:00,The Tasting,Rishon Letzion,Regular
@@ -4612,6 +4067,39 @@ Cinema City,08/10/2024,10:00,This Time Next Year,Chadera,Regular
 Yes Planet,08/10/2024,16:45,This Time Next Year,Rishon Letzion,Regular
 Yes Planet,08/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,08/10/2024,19:45,Wire Room,Beer Sheva,Regular
+Cinema City,08/10/2024,12:00,Woman of the Hour,Tel Aviv,Regular
+Cinema City,08/10/2024,14:30,Woman of the Hour,Tel Aviv,Regular
+Cinema City,08/10/2024,17:00,Woman of the Hour,Tel Aviv,Regular
+Cinema City,08/10/2024,19:30,Woman of the Hour,Tel Aviv,Regular
+Cinema City,08/10/2024,21:50,Woman of the Hour,Tel Aviv,Regular
+Cinema City,08/10/2024,14:30,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,08/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,08/10/2024,19:10,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,08/10/2024,21:50,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,08/10/2024,10:20,Woman of the Hour,Jerusalem,Regular
+Cinema City,08/10/2024,12:40,Woman of the Hour,Jerusalem,Regular
+Cinema City,08/10/2024,15:00,Woman of the Hour,Jerusalem,Regular
+Cinema City,08/10/2024,17:20,Woman of the Hour,Jerusalem,Regular
+Cinema City,08/10/2024,19:40,Woman of the Hour,Jerusalem,Regular
+Cinema City,08/10/2024,22:00,Woman of the Hour,Jerusalem,Regular
+Cinema City,08/10/2024,11:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,08/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,08/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,08/10/2024,11:40,Woman of the Hour,Netanya,Regular
+Cinema City,08/10/2024,14:10,Woman of the Hour,Netanya,Regular
+Cinema City,08/10/2024,21:50,Woman of the Hour,Netanya,Regular
+Cinema City,08/10/2024,18:20,Woman of the Hour,Netanya,Prime
+Cinema City,08/10/2024,11:00,Woman of the Hour,Beer Sheva,Regular
+Cinema City,08/10/2024,13:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,08/10/2024,16:30,Woman of the Hour,Beer Sheva,Regular
+Cinema City,08/10/2024,19:10,Woman of the Hour,Beer Sheva,Regular
+Cinema City,08/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,08/10/2024,19:20,Woman of the Hour,Chadera,Regular
+Cinema City,08/10/2024,21:40,Woman of the Hour,Chadera,Regular
+Cinema City,08/10/2024,13:50,Woman of the Hour,Ashdod,Regular
+Cinema City,08/10/2024,16:30,Woman of the Hour,Ashdod,Regular
+Cinema City,08/10/2024,19:20,Woman of the Hour,Ashdod,Regular
+Cinema City,08/10/2024,22:00,Woman of the Hour,Ashdod,Regular
 Yes Planet,08/10/2024,11:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,08/10/2024,13:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,08/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
@@ -4648,9 +4136,9 @@ Yes Planet,09/10/2024,16:30,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,09/10/2024,18:45,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,09/10/2024,21:00,Adios Buenos Aires,Zichron Yaakov,Regular
 Yes Planet,09/10/2024,22:00,Adios Buenos Aires,Haifa,Regular
+Lev Cinema,09/10/2024,19:15,Adios Buenos Aires,Raanana,Regular
 Lev Cinema,09/10/2024,11:30,Adios Buenos Aires,Tel Aviv,Regular
 Lev Cinema,09/10/2024,15:20,Adios Buenos Aires,Tel Aviv,Regular
-Lev Cinema,09/10/2024,19:15,Adios Buenos Aires,Raanana,Regular
 Cinema City,09/10/2024,19:00,Bad Boys: Ride or Die,Ashdod,Regular
 Yes Planet,09/10/2024,21:45,Bad Boys: Ride or Die,Rishon Letzion,Regular
 Yes Planet,09/10/2024,21:40,Bad Boys: Ride or Die,Tel Aviv,Regular
@@ -4701,9 +4189,6 @@ Cinema City,09/10/2024,19:40,Blink Twice,Tel Aviv,Regular
 Cinema City,09/10/2024,22:00,Blink Twice,Tel Aviv,Regular
 Cinema City,09/10/2024,22:10,Blink Twice,Rishon Letzion,Regular
 Cinema City,09/10/2024,22:00,Blink Twice,Ashdod,Regular
-Yes Planet,09/10/2024,22:30,Blink Twice,Beer Sheva,Regular
-Yes Planet,09/10/2024,19:40,Blink Twice,Zichron Yaakov,Regular
-Yes Planet,09/10/2024,22:05,Blink Twice,Haifa,Regular
 Yes Planet,09/10/2024,19:15,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,09/10/2024,21:10,Bonnard: Pierre & Marthe,Rishon Letzion,Regular
 Yes Planet,09/10/2024,21:20,Bonnard: Pierre & Marthe,Tel Aviv,Regular
@@ -4720,25 +4205,11 @@ Cinema City,09/10/2024,16:50,Come Closer,Tel Aviv,Regular
 Cinema City,09/10/2024,19:10,Come Closer,Tel Aviv,Regular
 Cinema City,09/10/2024,20:10,Come Closer,Tel Aviv,Regular
 Cinema City,09/10/2024,21:30,Come Closer,Tel Aviv,Regular
-Cinema City,09/10/2024,20:30,Come Closer,Tel Aviv,VIP
-Cinema City,09/10/2024,14:00,Come Closer,Rishon Letzion,Regular
-Cinema City,09/10/2024,16:30,Come Closer,Rishon Letzion,Regular
-Cinema City,09/10/2024,19:00,Come Closer,Rishon Letzion,Regular
-Cinema City,09/10/2024,21:30,Come Closer,Rishon Letzion,Regular
-Cinema City,09/10/2024,19:00,Come Closer,Jerusalem,Regular
-Cinema City,09/10/2024,20:00,Come Closer,Jerusalem,Regular
-Cinema City,09/10/2024,21:20,Come Closer,Jerusalem,Regular
-Cinema City,09/10/2024,18:50,Come Closer,Kfar Saba,Regular
-Cinema City,09/10/2024,21:20,Come Closer,Kfar Saba,Regular
-Cinema City,09/10/2024,19:40,Come Closer,Netanya,Regular
-Cinema City,09/10/2024,18:50,Come Closer,Beer Sheva,Regular
-Cinema City,09/10/2024,14:20,Come Closer,Chadera,Regular
-Cinema City,09/10/2024,16:40,Come Closer,Chadera,Regular
-Cinema City,09/10/2024,19:00,Come Closer,Chadera,Regular
-Cinema City,09/10/2024,21:20,Come Closer,Chadera,Regular
-Cinema City,09/10/2024,16:40,Come Closer,Ashdod,Regular
-Cinema City,09/10/2024,19:15,Come Closer,Ashdod,Regular
-Cinema City,09/10/2024,21:45,Come Closer,Ashdod,Regular
+Cinema City,09/10/2024,14:30,Come Closer,Tel Aviv,4DX
+Cinema City,09/10/2024,16:50,Come Closer,Tel Aviv,4DX
+Cinema City,09/10/2024,19:10,Come Closer,Tel Aviv,4DX
+Cinema City,09/10/2024,20:10,Come Closer,Tel Aviv,4DX
+Cinema City,09/10/2024,21:30,Come Closer,Tel Aviv,4DX
 Yes Planet,09/10/2024,17:00,Come Closer,Rishon Letzion,Regular
 Yes Planet,09/10/2024,19:30,Come Closer,Rishon Letzion,Regular
 Yes Planet,09/10/2024,21:50,Come Closer,Rishon Letzion,Regular
@@ -4760,13 +4231,13 @@ Yes Planet,09/10/2024,16:50,Come Closer,Jerusalem,Regular
 Yes Planet,09/10/2024,17:05,Come Closer,Jerusalem,Regular
 Yes Planet,09/10/2024,19:05,Come Closer,Jerusalem,Regular
 Yes Planet,09/10/2024,21:30,Come Closer,Jerusalem,Regular
-Lev Cinema,09/10/2024,20:30,Come Closer,Netanya,Regular
+Lev Cinema,09/10/2024,17:00,Come Closer,Raanana,Regular
+Lev Cinema,09/10/2024,21:50,Come Closer,Raanana,Regular
 Lev Cinema,09/10/2024,11:30,Come Closer,Tel Aviv,Regular
 Lev Cinema,09/10/2024,14:15,Come Closer,Tel Aviv,Regular
 Lev Cinema,09/10/2024,18:20,Come Closer,Tel Aviv,Regular
 Lev Cinema,09/10/2024,22:15,Come Closer,Tel Aviv,Regular
-Lev Cinema,09/10/2024,17:00,Come Closer,Raanana,Regular
-Lev Cinema,09/10/2024,21:50,Come Closer,Raanana,Regular
+Lev Cinema,09/10/2024,20:30,Come Closer,Netanya,Regular
 Lev Cinema,09/10/2024,17:00,Come Closer,Shoham,Regular
 Lev Cinema,09/10/2024,21:30,Come Closer,Shoham,Regular
 Lev Cinema,09/10/2024,21:00,Come Closer,Ramat Hasharon,Regular
@@ -4811,72 +4282,6 @@ Yes Planet,09/10/2024,15:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,09/10/2024,19:00,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,09/10/2024,21:30,It Ends with Us,Zichron Yaakov,Regular
 Yes Planet,09/10/2024,21:45,It Ends with Us,Haifa,Regular
-Cinema City,09/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,15:50,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,16:45,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,19:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,20:00,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,22:10,Joker: Folie à Deux,Tel Aviv,Regular
-Cinema City,09/10/2024,14:40,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,09/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,09/10/2024,21:20,Joker: Folie à Deux,Tel Aviv,4DX
-Cinema City,09/10/2024,18:00,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,09/10/2024,21:45,Joker: Folie à Deux,Tel Aviv,VIP
-Cinema City,09/10/2024,14:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,15:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,17:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,18:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,18:45,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,20:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,20:50,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,21:30,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,22:00,Joker: Folie à Deux,Rishon Letzion,Regular
-Cinema City,09/10/2024,17:45,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,09/10/2024,19:15,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,09/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,09/10/2024,21:00,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,09/10/2024,22:30,Joker: Folie à Deux,Rishon Letzion,VIP
-Cinema City,09/10/2024,14:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,09/10/2024,15:45,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,09/10/2024,17:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,09/10/2024,19:00,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,09/10/2024,20:30,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,09/10/2024,22:15,Joker: Folie à Deux,Jerusalem,Regular
-Cinema City,09/10/2024,19:00,Joker: Folie à Deux,Jerusalem,VIP
-Cinema City,09/10/2024,22:00,Joker: Folie à Deux,Jerusalem,VIP
-Cinema City,09/10/2024,14:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,09/10/2024,18:00,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,09/10/2024,21:30,Joker: Folie à Deux,Kfar Saba,Regular
-Cinema City,09/10/2024,16:40,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,09/10/2024,20:00,Joker: Folie à Deux,Kfar Saba,Prime
-Cinema City,09/10/2024,14:50,Joker: Folie à Deux,Netanya,Regular
-Cinema City,09/10/2024,18:10,Joker: Folie à Deux,Netanya,Regular
-Cinema City,09/10/2024,21:30,Joker: Folie à Deux,Netanya,Regular
-Cinema City,09/10/2024,14:20,Joker: Folie à Deux,Netanya,Prime
-Cinema City,09/10/2024,17:30,Joker: Folie à Deux,Netanya,Prime
-Cinema City,09/10/2024,20:40,Joker: Folie à Deux,Netanya,Prime
-Cinema City,09/10/2024,15:00,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,09/10/2024,17:20,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,09/10/2024,18:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,09/10/2024,19:30,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,09/10/2024,20:40,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,09/10/2024,21:50,Joker: Folie à Deux,Beer Sheva,Regular
-Cinema City,09/10/2024,15:40,Joker: Folie à Deux,Chadera,Regular
-Cinema City,09/10/2024,19:10,Joker: Folie à Deux,Chadera,Regular
-Cinema City,09/10/2024,21:30,Joker: Folie à Deux,Chadera,Regular
-Cinema City,09/10/2024,14:00,Joker: Folie à Deux,Chadera,Prime
-Cinema City,09/10/2024,17:10,Joker: Folie à Deux,Chadera,Prime
-Cinema City,09/10/2024,20:20,Joker: Folie à Deux,Chadera,Prime
-Cinema City,09/10/2024,14:50,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,09/10/2024,16:40,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,09/10/2024,18:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,09/10/2024,19:10,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,09/10/2024,20:00,Joker: Folie à Deux,Ashdod,Regular
-Cinema City,09/10/2024,21:30,Joker: Folie à Deux,Ashdod,Regular
 Yes Planet,09/10/2024,14:00,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,09/10/2024,15:15,Joker: Folie à Deux,Rishon Letzion,Regular
 Yes Planet,09/10/2024,17:00,Joker: Folie à Deux,Rishon Letzion,Regular
@@ -5017,6 +4422,21 @@ Yes Planet,09/10/2024,19:10,Never Let Go,Jerusalem,Regular
 Cinema City,09/10/2024,15:10,Sex Education,Tel Aviv,Regular
 Cinema City,09/10/2024,18:15,Sex Education,Tel Aviv,Regular
 Cinema City,09/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,09/10/2024,16:20,Sex Education,Rishon Letzion,Regular
+Yes Planet,09/10/2024,19:00,Sex Education,Rishon Letzion,Regular
+Yes Planet,09/10/2024,21:30,Sex Education,Rishon Letzion,Regular
+Yes Planet,09/10/2024,16:00,Sex Education,Tel Aviv,Regular
+Yes Planet,09/10/2024,18:40,Sex Education,Tel Aviv,Regular
+Yes Planet,09/10/2024,21:20,Sex Education,Tel Aviv,Regular
+Yes Planet,09/10/2024,16:45,Sex Education,Beer Sheva,Regular
+Yes Planet,09/10/2024,19:30,Sex Education,Beer Sheva,Regular
+Yes Planet,09/10/2024,22:00,Sex Education,Beer Sheva,Regular
+Yes Planet,09/10/2024,17:00,Sex Education,Haifa,Regular
+Yes Planet,09/10/2024,19:30,Sex Education,Haifa,Regular
+Yes Planet,09/10/2024,22:00,Sex Education,Haifa,Regular
+Yes Planet,09/10/2024,16:10,Sex Education,Jerusalem,Regular
+Yes Planet,09/10/2024,18:45,Sex Education,Jerusalem,Regular
+Yes Planet,09/10/2024,21:15,Sex Education,Jerusalem,Regular
 Cinema City,09/10/2024,19:10,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,09/10/2024,21:40,Sleeping Dogs,Tel Aviv,Regular
 Cinema City,09/10/2024,21:40,Sleeping Dogs,Rishon Letzion,Regular
@@ -5077,35 +4497,13 @@ Yes Planet,09/10/2024,17:00,The Second Act,Haifa,Regular
 Yes Planet,09/10/2024,19:30,The Second Act,Haifa,Regular
 Yes Planet,09/10/2024,14:50,The Second Act,Jerusalem,Regular
 Yes Planet,09/10/2024,16:40,The Second Act,Jerusalem,Regular
-Lev Cinema,09/10/2024,11:30,The Second Act,Tel Aviv,Regular
-Lev Cinema,09/10/2024,16:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,09/10/2024,17:00,The Second Act,Raanana,Regular
 Lev Cinema,09/10/2024,19:10,The Second Act,Raanana,Regular
 Lev Cinema,09/10/2024,18:00,The Second Act,Netanya,Regular
+Lev Cinema,09/10/2024,11:30,The Second Act,Tel Aviv,Regular
+Lev Cinema,09/10/2024,16:30,The Second Act,Tel Aviv,Regular
 Lev Cinema,09/10/2024,19:10,The Second Act,Shoham,Regular
 Lev Cinema,09/10/2024,20:00,The Second Act,Herziliya,Regular
-Cinema City,09/10/2024,16:15,The Tasting,Tel Aviv,Regular
-Cinema City,09/10/2024,18:30,The Tasting,Tel Aviv,Regular
-Cinema City,09/10/2024,20:50,The Tasting,Tel Aviv,Regular
-Cinema City,09/10/2024,14:00,The Tasting,Rishon Letzion,Regular
-Cinema City,09/10/2024,16:20,The Tasting,Rishon Letzion,Regular
-Cinema City,09/10/2024,18:45,The Tasting,Rishon Letzion,Regular
-Cinema City,09/10/2024,21:10,The Tasting,Rishon Letzion,Regular
-Cinema City,09/10/2024,19:10,The Tasting,Jerusalem,Regular
-Cinema City,09/10/2024,21:30,The Tasting,Jerusalem,Regular
-Cinema City,09/10/2024,14:00,The Tasting,Kfar Saba,Regular
-Cinema City,09/10/2024,16:30,The Tasting,Kfar Saba,Regular
-Cinema City,09/10/2024,19:00,The Tasting,Kfar Saba,Regular
-Cinema City,09/10/2024,21:30,The Tasting,Kfar Saba,Regular
-Cinema City,09/10/2024,19:10,The Tasting,Netanya,Regular
-Cinema City,09/10/2024,21:30,The Tasting,Netanya,Regular
-Cinema City,09/10/2024,20:30,The Tasting,Beer Sheva,Regular
-Cinema City,09/10/2024,17:00,The Tasting,Chadera,Regular
-Cinema City,09/10/2024,19:10,The Tasting,Chadera,Regular
-Cinema City,09/10/2024,21:20,The Tasting,Chadera,Regular
-Cinema City,09/10/2024,16:20,The Tasting,Ashdod,Regular
-Cinema City,09/10/2024,18:45,The Tasting,Ashdod,Regular
-Cinema City,09/10/2024,21:10,The Tasting,Ashdod,Regular
 Yes Planet,09/10/2024,15:00,The Tasting,Rishon Letzion,Regular
 Yes Planet,09/10/2024,17:00,The Tasting,Rishon Letzion,Regular
 Yes Planet,09/10/2024,19:10,The Tasting,Rishon Letzion,Regular
@@ -5167,6 +4565,28 @@ Cinema City,09/10/2024,19:20,This Time Next Year,Ashdod,Regular
 Yes Planet,09/10/2024,16:45,This Time Next Year,Rishon Letzion,Regular
 Yes Planet,09/10/2024,21:30,This Time Next Year,Jerusalem,Regular
 Yes Planet,09/10/2024,19:45,Wire Room,Beer Sheva,Regular
+Cinema City,09/10/2024,17:00,Woman of the Hour,Tel Aviv,Regular
+Cinema City,09/10/2024,19:30,Woman of the Hour,Tel Aviv,Regular
+Cinema City,09/10/2024,21:40,Woman of the Hour,Tel Aviv,Regular
+Cinema City,09/10/2024,14:30,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,09/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,09/10/2024,19:10,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,09/10/2024,21:45,Woman of the Hour,Rishon Letzion,Regular
+Cinema City,09/10/2024,19:40,Woman of the Hour,Jerusalem,Regular
+Cinema City,09/10/2024,22:00,Woman of the Hour,Jerusalem,Regular
+Cinema City,09/10/2024,19:10,Woman of the Hour,Kfar Saba,Regular
+Cinema City,09/10/2024,21:50,Woman of the Hour,Kfar Saba,Prime
+Cinema City,09/10/2024,19:10,Woman of the Hour,Netanya,Prime
+Cinema City,09/10/2024,21:30,Woman of the Hour,Netanya,Prime
+Cinema City,09/10/2024,16:30,Woman of the Hour,Beer Sheva,Regular
+Cinema City,09/10/2024,19:10,Woman of the Hour,Beer Sheva,Regular
+Cinema City,09/10/2024,21:50,Woman of the Hour,Beer Sheva,Regular
+Cinema City,09/10/2024,17:00,Woman of the Hour,Chadera,Regular
+Cinema City,09/10/2024,19:20,Woman of the Hour,Chadera,Regular
+Cinema City,09/10/2024,21:40,Woman of the Hour,Chadera,Regular
+Cinema City,09/10/2024,16:30,Woman of the Hour,Ashdod,Regular
+Cinema City,09/10/2024,19:20,Woman of the Hour,Ashdod,Regular
+Cinema City,09/10/2024,22:00,Woman of the Hour,Ashdod,Regular
 Yes Planet,09/10/2024,15:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,09/10/2024,17:00,Woman of the Hour,Rishon Letzion,Regular
 Yes Planet,09/10/2024,19:00,Woman of the Hour,Rishon Letzion,Regular
