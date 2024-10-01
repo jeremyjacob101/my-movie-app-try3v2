@@ -1,5 +1,5 @@
 import React from "react";
-import "../CinemaColorKey.css"; // Optional CSS file for styling
+import "../componentsCSS/CinemaColorKey.css"; // Optional CSS file for styling
 
 const CinemaColorKey = () => {
   return (

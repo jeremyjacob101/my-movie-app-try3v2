@@ -1,7 +1,6 @@
 import React from "react";
-import "../BigChainFilmAvatar.css";
+import "../componentsCSS/BigChainFilmAvatar.css";
 
-// Grouping the showtimes by title
 const groupShowtimesByTitle = (movies) => {
   const groupedMovies = {};
 
@@ -13,13 +12,13 @@ const groupShowtimesByTitle = (movies) => {
       time: movie.time,
       cinema: movie.cinema,
       snif: movie.snif,
+      type: movie.type
     });
   });
 
   return groupedMovies;
 };
 
-// Helper to get the CSS class based on the cinema
 const getCinemaClass = (cinema) => {
   switch (cinema) {
     case "Yes Planet":
@@ -51,6 +50,7 @@ const BigChainFilmAvatar = ({ movies }) => {
                   {showtime.time}
                 </div>
                 <div className="showtime-cinema">({showtime.snif})</div>
+                {/* <div className="showtime-type">({showtime.type})</div> */}
               </div>
             ))}
           </div>

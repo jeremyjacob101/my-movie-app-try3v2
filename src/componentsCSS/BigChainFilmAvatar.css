@@ -25,12 +25,9 @@
 }
 
 .each-showtime {
-display: inline-flex;
-    /* Use inline-flex to keep the items inline */
+    display: inline-flex;
     align-items: center;
-    /* Align items vertically */
     flex-wrap: wrap;
-    /* Allow wrapping if necessary */
 }
 
 .showtime-time {
@@ -58,6 +55,11 @@ display: inline-flex;
 }
 
 .showtime-cinema {
+    flex: 1;
+    text-align: right;
+}
+
+.showtime-type {
     flex: 1;
     text-align: right;
     font-style: italic;

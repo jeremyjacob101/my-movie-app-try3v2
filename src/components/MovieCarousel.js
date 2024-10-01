@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Papa from "papaparse";
-import "../MovieCarousel.css";
-import BigChainFilmAvatar from "./BigChainFilmAvatar.js"; // Import the MovieTitle component
+import "../componentsCSS/MovieCarousel.css";
+import BigChainFilmAvatar from "./BigChainFilmAvatar.js";
 
 const showtimes_csv = "/CSVs/30-09-24-showtimes.csv";
 
@@ -13,7 +13,7 @@ const getFormattedDate = (dayOffset) => {
   ).padStart(2, "0")}/${today.getFullYear()}`;
 };
 
-const MovieCarousel = () => {
+const MovieCarousel = ({ selectedSnifs }) => {
   const [movies, setMovies] = useState([]);
   const [dayOffset, setDayOffset] = useState(0);
 
@@ -33,7 +33,9 @@ const MovieCarousel = () => {
         dynamicTyping: true,
         complete: (results) => {
           const filteredMovies = results.data.filter(
-            (movie) => movie.date === offsatDay
+            (movie) =>
+              movie.date === offsatDay &&
+              (selectedSnifs.length === 0 || selectedSnifs.includes(movie.snif))
           );
           setMovies(filteredMovies);
         },
@@ -41,14 +43,14 @@ const MovieCarousel = () => {
     };
 
     loadMovieData();
-  }, [offsatDay]);
+  }, [offsatDay, selectedSnifs]); // Re-fetch when the day or snif selection changes
 
   const handleNextDay = () => {
-    setDayOffset(dayOffset + 1); // Go to the next day
+    setDayOffset(dayOffset + 1);
   };
   const handlePrevDay = () => {
     if (dayOffset > 0) {
-      setDayOffset(dayOffset - 1); // Go back to the previous day, but not past today
+      setDayOffset(dayOffset - 1);
     }
   };
 
