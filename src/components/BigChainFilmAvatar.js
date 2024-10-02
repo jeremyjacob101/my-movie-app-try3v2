@@ -66,14 +66,18 @@ const BigChainFilmAvatar = ({ movies }) => {
           <div className="movie-times-sub-block">
             {groupedMovies[title].map((showtime, index) => (
               <div className="each-showtime" key={index}>
-                <div
-                  className={`showtime-time ${getCinemaClass(showtime.cinema)}`}
-                >
-                  {showtime.time}
+                <div className="showtime-background">
+                  {showtime.type !== "Regular" && (
+                    <div className="showtime-type">{showtime.type}</div>
+                  )}
+                  <div
+                    className={`showtime-time ${getCinemaClass(
+                      showtime.cinema
+                    )}`}
+                  >
+                    {showtime.time}
+                  </div>
                 </div>
-                {showtime.type !== "Regular" && (
-                  <div className="showtime-type">({showtime.type})</div>
-                )}
               </div>
             ))}
           </div>
