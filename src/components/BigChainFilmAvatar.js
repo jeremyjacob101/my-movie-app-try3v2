@@ -14,7 +14,7 @@ const groupShowtimesByTitle = (movies) => {
       snif: movie.snif,
       type: movie.type,
       poster: movie.poster,
-      runtime: movie.runtime
+      runtime: movie.runtime,
     });
   });
 
@@ -60,9 +60,7 @@ const BigChainFilmAvatar = ({ movies }) => {
           <div className="movie-info-sub-block">
             <div className="movie-title">{title}</div>
             <div className="movie-runtime">
-              <div className="movie-runtime">
-                {groupedMovies[title][0].runtime} minutes
-              </div>
+              {groupedMovies[title][0].runtime} minutes
             </div>
           </div>
           <div className="movie-times-sub-block">

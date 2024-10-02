@@ -25,18 +25,10 @@
     display: flex;
     flex-direction: row;
     margin-bottom: 20px;
-    padding: 15px;
+    padding: 10px;
     border: 1px solid #777;
     border-radius: 8px;
     background: none;
-}
-
-.movie-title {
-    font-size: 25px;
-    font-weight: 375;
-    margin-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
 .movie-times-sub-block {
@@ -44,7 +36,8 @@
     flex-wrap: wrap;
     align-items: flex-start;
     align-content: flex-start;
-    gap: 6px;
+    gap: 7px;
+    padding: 10px;
 }
 
 .each-showtime {
@@ -80,10 +73,22 @@
 
 .movie-poster-sub-block {
     width: 120px;
+    padding: 10px;
     flex-shrink: 0;
 }
 
 .movie-info-sub-block {
     width: 250px;
+    padding: 10px;
     flex-shrink: 0;
+}
+
+.movie-title {
+    font-size: 25px;
+    font-weight: 375;
+    margin-bottom: 10px;
+}
+
+.movie-runtime {
+
 }
