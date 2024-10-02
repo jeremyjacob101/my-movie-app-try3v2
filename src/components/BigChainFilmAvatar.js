@@ -13,6 +13,7 @@ const groupShowtimesByTitle = (movies) => {
       cinema: movie.cinema,
       snif: movie.snif,
       type: movie.type,
+      poster: movie.poster
     });
   });
 
