@@ -1,73 +1,89 @@
+.yes-planet {
+    background-color: #f5821e;
+    border: 2px solid black;
+    color: black;
+}
+
+.cinema-city {
+    background-color: #0077b6;
+    /* border: 2px solid #1D1D48; */
+    border: 2px solid black;
+    color: black;
+}
+
+.lev-cinema {
+    background-color: #d80019;
+    border: 2px solid black;
+    color: black;
+}
+
 .movie-list {
     padding: 20px;
 }
 
 .movie-block {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-bottom: 20px;
     padding: 15px;
-    border: 1px solid #ddd;
+    border: 1px solid #777;
     border-radius: 8px;
     background: none;
 }
 
 .movie-title {
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 25px;
+    font-weight: 375;
     margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
-.movie-showtimes {
+.movie-times-sub-block {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
-    gap: 5px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 6px;
 }
 
 .each-showtime {
     display: inline-flex;
     align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
+    margin-top: 0px;
 }
 
 .showtime-time {
     padding: 5px 10px;
+    margin-top: 20px;
     border-radius: 5px;
     font-weight: bold;
-    width: 45px;
-    height: 20px;
+    font-size: 16px;
+    width: 50px;
+    height: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.yes-planet {
-    background-color: #f5821e;
-    border: 1px solid black;
-    color: black;
-}
-
-.cinema-city {
-    background-color: #0077b6;
-    border: 1px solid #1D1D48;
-    color: black;
-}
-
-.lev-cinema {
-    background-color: #d80019;
-    border: 1px solid black;
-    color: black;
-}
-
-.showtime-cinema {
-    flex: 1;
-    text-align: right;
 }
 
 .showtime-type {
     flex: 1;
     text-align: right;
     font-style: italic;
+}
+
+.movie-poster-sub-block>img {
+    width: 120px;
+    height: 180px;
+    border-radius: 7px;
+}
+
+.movie-poster-sub-block {
+    width: 120px;
+    flex-shrink: 0;
+}
+
+.movie-info-sub-block {
+    width: 250px;
+    flex-shrink: 0;
 }

@@ -13,7 +13,8 @@ const groupShowtimesByTitle = (movies) => {
       cinema: movie.cinema,
       snif: movie.snif,
       type: movie.type,
-      poster: movie.poster
+      poster: movie.poster,
+      runtime: movie.runtime
     });
   });
 
@@ -53,8 +54,18 @@ const BigChainFilmAvatar = ({ movies }) => {
     <div className="movie-list">
       {Object.keys(groupedMovies).map((title) => (
         <div className="movie-block" key={title}>
-          <div className="movie-title">{title}</div>
-          <div className="movie-showtimes">
+          <div className="movie-poster-sub-block">
+            <img src={groupedMovies[title][0].poster} alt={`${title} poster`} />
+          </div>
+          <div className="movie-info-sub-block">
+            <div className="movie-title">{title}</div>
+            <div className="movie-runtime">
+              <div className="movie-runtime">
+                {groupedMovies[title][0].runtime} minutes
+              </div>
+            </div>
+          </div>
+          <div className="movie-times-sub-block">
             {groupedMovies[title].map((showtime, index) => (
               <div className="each-showtime" key={index}>
                 <div
@@ -63,7 +74,7 @@ const BigChainFilmAvatar = ({ movies }) => {
                   {showtime.time}
                 </div>
                 {showtime.type !== "Regular" && (
-                  <div className="showtime-cinema">({showtime.type})</div>
+                  <div className="showtime-type">({showtime.type})</div>
                 )}
               </div>
             ))}
