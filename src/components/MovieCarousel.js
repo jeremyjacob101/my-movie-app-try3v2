@@ -3,8 +3,8 @@ import Papa from "papaparse";
 import "../componentsCSS/MovieCarousel.css";
 import BigChainFilmAvatar from "./BigChainFilmAvatar.js";
 
-const showtimes_csv = "/CSVs/01-10-24-showtimes.csv";
-const movies_csv = "/CSVs/01-10-24-movies.csv"; // The new CSV file for posters and titles
+const showtimes_csv = "/CSVs/06-10-24-showtimes.csv";
+const movies_csv = "/CSVs/06-10-24-movies.csv"; // The new CSV file for posters and titles
 
 const getFormattedDate = (dayOffset) => {
   const today = new Date();
@@ -12,6 +12,22 @@ const getFormattedDate = (dayOffset) => {
   return `${String(today.getDate()).padStart(2, "0")}/${String(
     today.getMonth() + 1
   ).padStart(2, "0")}/${today.getFullYear()}`;
+};
+
+const parseTime = (timeString) => {
+  const [hours, minutes] = timeString.split(":").map(Number);
+  return hours * 60 + minutes; // Return time in minutes since midnight
+};
+
+const isValidShowtime = (
+  showtime,
+  showtimeDate,
+  today,
+  currentMinutesSinceMidnight
+) => {
+  return showtimeDate === today
+    ? parseTime(showtime) >= currentMinutesSinceMidnight - 30
+    : true;
 };
 
 const MovieCarousel = ({ selectedSnifs }) => {
@@ -22,6 +38,11 @@ const MovieCarousel = ({ selectedSnifs }) => {
 
   useEffect(() => {
     const loadMovieData = async () => {
+      const currentTime = new Date();
+      const currentMinutesSinceMidnight =
+        currentTime.getHours() * 60 + currentTime.getMinutes();
+      const today = getFormattedDate(0); // Today's date in the same format as showtimes
+
       // Load showtimes CSV
       const showtimes_result = await (await fetch(showtimes_csv)).body
         .getReader()
@@ -39,6 +60,7 @@ const MovieCarousel = ({ selectedSnifs }) => {
       // Parse the movies CSV to create a set of valid movie titles and poster/runtimes
       let validMovieTitles = new Set();
       let movieInfoMap = {};
+
       Papa.parse(moviesData, {
         header: true,
         dynamicTyping: true,
@@ -64,7 +86,13 @@ const MovieCarousel = ({ selectedSnifs }) => {
                 movie.date === offsatDay &&
                 (selectedSnifs.length === 0 ||
                   selectedSnifs.includes(movie.snif)) &&
-                validMovieTitles.has(movie.title) // Check if the title exists in validMovieTitles set
+                validMovieTitles.has(movie.title) &&
+                isValidShowtime(
+                  movie.time,
+                  movie.date,
+                  today,
+                  currentMinutesSinceMidnight
+                ) // Check only today’s showtimes
             )
             .map((movie) => ({
               ...movie,
