@@ -1,5 +1,5 @@
 import React from "react";
-import "../componentsCSS/BigChainFilmAvatar.css";
+import "../componentsCSS/BigChains.css";
 
 const groupShowtimesByTitle = (movies) => {
   const groupedMovies = {};
@@ -11,10 +11,11 @@ const groupShowtimesByTitle = (movies) => {
     groupedMovies[movie.title].push({
       time: movie.time,
       cinema: movie.cinema,
-      snif: movie.snif,
+      // snif: movie.snif,
       type: movie.type,
       poster: movie.poster,
       runtime: movie.runtime,
+      popularity: movie.popularity, // Ensure popularity is a number
     });
   });
 
@@ -22,7 +23,7 @@ const groupShowtimesByTitle = (movies) => {
     groupedMovies[title].sort((a, b) => {
       const timeA = parseTime(a.time);
       const timeB = parseTime(b.time);
-      return timeA - timeB; // Sort in ascending order
+      return timeA - timeB; // Sort in ascending order by time
     });
   });
 
@@ -47,12 +48,18 @@ const getCinemaClass = (cinema) => {
   }
 };
 
-const BigChainFilmAvatar = ({ movies }) => {
+const BigChains = ({ movies }) => {
   const groupedMovies = groupShowtimesByTitle(movies);
+
+  const sortedTitles = Object.keys(groupedMovies).sort((a, b) => {
+    const popularityA = groupedMovies[a][0].popularity;
+    const popularityB = groupedMovies[b][0].popularity;
+    return popularityB - popularityA; // Sort in descending order of popularity
+  });
 
   return (
     <div className="movie-list">
-      {Object.keys(groupedMovies).map((title) => (
+      {sortedTitles.map((title) => (
         <div className="movie-block" key={title}>
           <div className="movie-poster-sub-block">
             <img src={groupedMovies[title][0].poster} alt={`${title} poster`} />
@@ -87,4 +94,4 @@ const BigChainFilmAvatar = ({ movies }) => {
   );
 };
 
-export default BigChainFilmAvatar;
+export default BigChains;

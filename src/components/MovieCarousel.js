@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import Papa from "papaparse";
 import "../componentsCSS/MovieCarousel.css";
-import BigChainFilmAvatar from "./BigChainFilmAvatar.js";
+import BigChains from "./BigChains.js";
 
 const showtimes_csv = "/CSVs/06-10-24-showtimes.csv";
-const movies_csv = "/CSVs/06-10-24-movies.csv"; // The new CSV file for posters and titles
+const movies_csv = "/CSVs/06-10-24-movies.csv"; // The new CSV file for posters, titles, and popularity
 
 const getFormattedDate = (dayOffset) => {
   const today = new Date();
@@ -43,34 +43,34 @@ const MovieCarousel = ({ selectedSnifs }) => {
         currentTime.getHours() * 60 + currentTime.getMinutes();
       const today = getFormattedDate(0); // Today's date in the same format as showtimes
 
-      // Load showtimes CSV
+      // Load CSVs
       const showtimes_result = await (await fetch(showtimes_csv)).body
         .getReader()
         .read();
       const showtimesData = new TextDecoder("utf-8").decode(
         showtimes_result.value
       );
-
-      // Load movies CSV
       const movies_result = await (await fetch(movies_csv)).body
         .getReader()
         .read();
       const moviesData = new TextDecoder("utf-8").decode(movies_result.value);
 
-      // Parse the movies CSV to create a set of valid movie titles and poster/runtimes
+      // Parse the movies CSV to create a set of valid movie titles and poster/runtimes/popularity
       let validMovieTitles = new Set();
       let movieInfoMap = {};
 
       Papa.parse(moviesData, {
         header: true,
         dynamicTyping: true,
+
         complete: (results) => {
           results.data.forEach((movie) => {
-            validMovieTitles.add(movie.title); // Add valid titles to the set
+            validMovieTitles.add(movie.title);
             movieInfoMap[movie.title] = {
               poster: movie.poster,
               runtime: movie.runtime,
-            }; // Store poster and runtime information
+              popularity: movie.popularity,
+            };
           });
         },
       });
@@ -98,6 +98,7 @@ const MovieCarousel = ({ selectedSnifs }) => {
               ...movie,
               poster: movieInfoMap[movie.title]?.poster || null, // Add the poster URL or null if none exists
               runtime: movieInfoMap[movie.title]?.runtime || null, // Add runtime or null if not found
+              popularity: movieInfoMap[movie.title]?.popularity || 0, // Add popularity or default to 0 if not found
             }));
           setMovies(filteredMovies);
         },
@@ -128,7 +129,7 @@ const MovieCarousel = ({ selectedSnifs }) => {
       </div>
 
       <div className="carousel-movie-list-area">
-        <BigChainFilmAvatar movies={movies} />
+        <BigChains movies={movies} />
       </div>
     </div>
   );
