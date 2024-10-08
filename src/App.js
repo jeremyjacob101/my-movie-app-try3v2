@@ -9,8 +9,6 @@ const App = () => {
   return (
     <>
       <div className="main-carousel-holder">
-        <img src="/images/rtLogo.png" alt="dsfsdfsdf" />
-        <img src="/images/imdbLogo.png" alt="dsfsdfsdf" />
         <div className="pre-carousel">
           {" "}
           <CinemaColorKey />
